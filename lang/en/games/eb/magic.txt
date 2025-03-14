@@ -1,0 +1,1 @@
+e_invisible=Your invisibility spell has expired.

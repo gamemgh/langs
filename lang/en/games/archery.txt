@@ -1,0 +1,10 @@
+title=Archery
+done=Game finished.
+get=You've gained %x% %y%. Congratulations!
+started=Round %x%. You need %y% points this round. You have %z% shots left.
+missed=You missed.
+life=You have %x% shots left.
+points=You have %x% points.
+fail=Sorry, you have lost the game.
+success=You've won this round!
+tpoints=Total score: %x% points.

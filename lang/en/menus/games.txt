@@ -1,0 +1,7 @@
+title=Games Menu
+quit=Go Back
+invalid.name=Invalid username.
+invalid.gender=Please set your gender in the settings.
+invalid.gender.android=Choose a valid gender please.
+invalid.game=This minigame does not exist.
+game.active=You're already playing a game.

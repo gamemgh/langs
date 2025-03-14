@@ -1,0 +1,9 @@
+title=Choose a language to use.
+zero=There are no available languages.
+one=There is %x% language available.
+more=There are %x% languages available
+default=Default fallback language
+done=Language has been changed.
+fail=Failed to change to this language %x%.
+already=You have already set this language.
+current=Current language

@@ -1,0 +1,4 @@
+notammo=This weapon does not hold ammo.
+ammoinfo=%a% has %b% out of %c% %d%, remains %e%
+gainnew1=You've gained a new weapon, %x%.
+gainnew2=You've also gained %x% %y% for this!

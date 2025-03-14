@@ -1,0 +1,3 @@
+gender=Invalid gender!
+username=Invalid username!
+spt.less=Enemy spawn time should be no less than 1 second.

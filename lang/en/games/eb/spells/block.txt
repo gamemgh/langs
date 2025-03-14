@@ -1,0 +1,2 @@
+title=Movements Block
+description=Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them

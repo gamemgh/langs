@@ -1,0 +1,4 @@
+title=Dice Match
+started=Game started.
+gain=You've earned %x% %y%!
+nogain=Oh no! You've lost %x% %y%!

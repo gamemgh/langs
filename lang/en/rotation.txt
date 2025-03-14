@@ -1,0 +1,9 @@
+north=north
+northeast=northeast
+east=east
+southeast=southeast
+south=south
+southwest=southwest
+west=west
+northwest=northwest
+dirinfo=%x% at %y% degrees

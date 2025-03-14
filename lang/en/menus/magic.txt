@@ -1,0 +1,2 @@
+item=%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.
+zero=You have no available spells to cast.
