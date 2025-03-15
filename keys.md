@@ -3,6 +3,7 @@ These are keys that are updated and may or may not need in your language to be t
 
 ## Saturday, March 15, 2025
 - `dllang`: Located in menus/main.txt, icon for language downloader.
+- Added bj.txt, Blackjack can now be translated!
 - Added wpdraw.txt in the menus folder for translating Weapon Draw menu.
 - `title` and `title.plural`: Located in menus/magic.txt, now magic menu translation is complete.
 
