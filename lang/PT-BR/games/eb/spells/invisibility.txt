@@ -1,3 +1,3 @@
-title=Invisibility Shield
-description=Prevents being hit by your enemies for %x% seconds while you are still being able to hit them
-already_active=You are already invisible, thus you cannot cast again until it expires.
+title=Invisibilidade
+description=Não seja atingido por seus inimigos por %x% segundos
+already_active=Você já está invisível, não pode lançar novamente até que acabe.

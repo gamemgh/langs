@@ -1,0 +1,6 @@
+title=Gerenciador de Idiomas
+zero=Não há idiomas disponíveis para baixar
+one=Há %x% idioma disponível para baixar
+more=Há %x% idiomas disponíveis para baixar
+noe=Esse idioma %x% não existe
+dl=Por favor, baixe %x% direto em seu navegador e o descompacte dentro da pasta lang. Pressione no botão OK.

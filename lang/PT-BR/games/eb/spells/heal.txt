@@ -1,2 +1,2 @@
-title=Vitality Surge
-description=Heal yourself to the maximum possible health
+title=Surto de Vitalidade
+description=Cure-se com o máximo de saúde possível

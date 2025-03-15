@@ -1,2 +1,3 @@
-title=Flame
-description=Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health
+title=Chamas
+description=
+Queime inimigos ao seu redor em um raio de %x% quadrados com incêndios e chamas
