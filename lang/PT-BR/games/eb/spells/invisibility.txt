@@ -1,3 +1,0 @@
-title=Invisibilidade
-description=Não seja atingido por seus inimigos por %x% segundos
-already_active=Você já está invisível, não pode lançar novamente até que acabe.

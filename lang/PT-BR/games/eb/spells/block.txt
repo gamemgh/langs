@@ -1,2 +1,0 @@
-title=Bloquear Movimentos
-description=Bloqueia temporariamente todos os inimigos ao seu redor em um raio de %x% quadrados, deixando -os incapazes de se mover
