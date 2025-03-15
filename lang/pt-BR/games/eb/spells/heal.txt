@@ -1,0 +1,2 @@
+title=Surto de Vitalidade
+description=Cure-se com o máximo de saúde possível

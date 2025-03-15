@@ -1,0 +1,6 @@
+title=Gerenciador de Atualizações
+checking=Verificando atualizações, por favor aguarde...
+available.title=Atualização disponível
+available.description=Uma nova atualização %x% (%y%) foi encontrada. Deseja baixá-la? Abrirá em seu Navegador Padrão.
+available.no=Não há atualizações
+canceled=Atualização cancelada

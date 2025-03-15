@@ -1,0 +1,7 @@
+title=Lista de Jogos
+quit=Voltar
+invalid.name=Nome de usuário inválido.
+invalid.gender=Por favor, defina seu gênero em configurações.
+invalid.gender.android=Escolha um gênero válido por favor.
+invalid.game=Esse Mini-Game não existe
+game.active=Você já está jogando um jogo.

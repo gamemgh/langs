@@ -1,0 +1,2 @@
+title=Morte instantânea
+description=Mata instantaneamente todos os inimigos ao seu redor em um raio de %x% quadrados

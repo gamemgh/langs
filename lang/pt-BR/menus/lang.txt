@@ -1,0 +1,9 @@
+title=Selecione um idioma.
+zero=Não há idiomas disponíveis.
+one=Há %x% idioma disponível.
+more=Há %x% idiomas disponíveis.
+default=Idioma padrão
+done=O idioma foi alterado.
+fail=Erro ao mudar para o idioma %x%.
+already=Esse idioma já está definido.
+current=Idioma atual

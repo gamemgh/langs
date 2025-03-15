@@ -1,0 +1,13 @@
+title=Configurações
+saved=Configurações salvas
+ctrl.username=Nome de usuário
+ctrl.gender=Gênero
+ctrl.gender.set=Gênero definido com sucesso.
+ctrl.spt=Tempo de aparição de inimigos (definir em segundos)
+ctrl.interrupt=Interrupção do leitor de telas
+ctrl.ils=Reproduzir sons de itens
+ctrl.save=&Salvar configurações
+ctrl.reset=redefinir os dados do jogo para o padrão de fábrica
+reset.title=Redefinir
+reset.description=Tem certeza de que deseja redefinir? Isso excluirá todas as configurações feitas e o progresso no jogo!
+reset.done=Redefinido com sucesso
