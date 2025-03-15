@@ -1,0 +1,2 @@
+title=Flame
+description=Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health

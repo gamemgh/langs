@@ -1,0 +1,2 @@
+title=Vitality Surge
+description=Heal yourself to the maximum possible health

@@ -1,0 +1,11 @@
+error=Erro
+sounderror=Som de erro
+information=Informação
+currently=%x% atualmente
+success=Sucesso
+alreadyrunning=O jogo já está em execução!
+cannotfindaudio=O arquivo de áudio não foi encontrado.
+exiting=saindo...
+gender.boy=Masculino
+gender.girl=Feminino
+youhave=%x% %y%.

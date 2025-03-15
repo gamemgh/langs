@@ -1,0 +1,9 @@
+north=norte
+northeast=nordeste
+east=leste
+southeast=sudeste
+south=sul
+southwest=sudoeste
+west=oeste
+northwest=noroeste
+dirinfo=%x% em %y% graus

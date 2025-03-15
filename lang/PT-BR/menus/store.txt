@@ -1,0 +1,8 @@
+title=Loja. O que deseja comprar?
+zero=Não há itens para comprar.
+item=%a%, custa %b% %c%, você pode comprar %d%
+item.invalid=Esse item não existe.
+buy.canceled=Compra cancelada.
+amount.invalid=Você deve comprar pelo menos 1!
+amount.less=%a% insuficiente. Sua compra é de %b%, e você tem apenas %c%, precisa de mais %d%!
+buy.done=Feito. Você comprou %a% %b% por %c% %d%.

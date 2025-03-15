@@ -1,0 +1,3 @@
+gender=Gênero inválido!
+username=Nome de usuário inválido!
+spt.less=O tempo de aparição de inimigos não pode ser inferior a 1 segundo.
