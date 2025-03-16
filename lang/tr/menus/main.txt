@@ -1,0 +1,14 @@
+title=Ana menü
+gm=Oyun Menüsü
+lang=Dili değiştir (mevcut dil %x%)
+dllang=Dil İndirici
+test=hoparlör testi
+update=Güncellemeleri kontrol et
+store=Mağaza
+settings=Ayarlar ve tercihler
+web=Web sitesini ziyaret et
+systeminfo=Sistem bilgilerini alın, sadece sistem bilgilerinizi vermeniz gerekiyorsa, örneğin oyunu oynarken cihaz sorunu durumunda
+systeminfo.done=Sistem bilgileri ve ilgili hata ayıklama günlükleri panoya kopyalanmıştır. Lütfen bu şifreli bilgileri geliştiriciye gönderin
+quit=Oyundan çık
+web.done=Web sitesi tarayıcınızda başarıyla açıldı.
+web.fail=Web sitesi açılamadı. Şimdi panonuza kopyalanıyor.

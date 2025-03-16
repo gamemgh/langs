@@ -1,0 +1,3 @@
+gender=Geçersiz Cinsiyet!
+username=Geçersiz Kullanıcı Adı!
+spt.less=Düşman doğma süresi 1 saniyeden az olmamalıdır.

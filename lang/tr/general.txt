@@ -1,0 +1,11 @@
+error=Hata
+sounderror=Ses hatası
+information=Bilgi
+currently=Şu anda %x%
+success=Başarılı
+alreadyrunning=Oyun zaten çalışıyor!
+cannotfindaudio=Ses dosyası bulunamadı.
+exiting=Çıkış yapılıyor...
+gender.boy=Erkek
+gender.girl=Kadın
+youhave=Sahipsin %x% %y%.

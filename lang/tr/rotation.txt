@@ -1,0 +1,9 @@
+north=kuzey
+northeast=kuzeydoğu
+east=doğu
+southeast=güneydoğu
+south=güney
+southwest=güneybatı
+west=batı
+northwest=kuzeybatı
+dirinfo=%x% yönü %y% derece

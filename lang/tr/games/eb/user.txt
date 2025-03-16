@@ -1,0 +1,6 @@
+mhreach=Maksimum Sağlığa ulaşıldı
+hp1=Sağlık arttırıldı
+levelinfo=Dirilişin %a% Seviyen %b% ve deneyim puanın. %c% bir sonraki seviye için gerekli deneyim puanı: %d%
+hpinfo=%x% / %y% sağlık, %z% yüzde.
+killed=%x% tarafından öldürüldün.
+objget=%x% %y% kazandın.

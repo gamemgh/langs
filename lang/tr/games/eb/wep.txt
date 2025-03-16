@@ -1,0 +1,4 @@
+notammo=bu silahın mermiye ihtiyacı yok
+ammoinfo=%a% %b% / %c% %d%, kalan %e%
+gainnew1=yeni bir silah kazandın, %x%.
+gainnew2=Bunun için %x% %y% kazandın!

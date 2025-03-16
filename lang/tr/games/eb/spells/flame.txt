@@ -1,0 +1,2 @@
+title=Alev
+description=Yangın ve alevlerle %x% adım içindeki düşmanları yakarak sağlıklarını alır

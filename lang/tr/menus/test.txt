@@ -1,0 +1,5 @@
+title=Ses nereden geliyor?
+correct=Harika! : doğru pozisyona sahipsin
+wrong=Yanlış yöne sahipsin!
+press=Karşılık gelen oka basın
+swipe=Karşılık gelen yöne kaydırın

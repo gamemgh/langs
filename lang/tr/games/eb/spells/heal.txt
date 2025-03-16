@@ -1,0 +1,2 @@
+title=Canlılık dalgalanması
+description=Kendinizi mümkün olan en fazla sağlığa iyileştirir

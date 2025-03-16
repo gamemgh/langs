@@ -1,0 +1,7 @@
+title=Oyun Menüsü
+quit=Geri dön
+invalid.name=Geçersiz kullanıcı adı.
+invalid.gender=Lütfen cinsiyetinizi ayarlardan ayarlayın.
+invalid.gender.android=Lütfen geçerli bir cinsiyet seçin.
+invalid.game=Bu mini oyun mevcut değil.
+game.active=Zaten bir oyun oynuyorsun.

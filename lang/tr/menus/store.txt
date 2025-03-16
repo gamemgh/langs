@@ -1,0 +1,8 @@
+title=Mağaza. Ne satın almak istersiniz?
+zero=Satın alınacak eşya yok.
+item=%a%, %b% %c% gerektirir %d% tane satın alabilirsin
+item.invalid=Bu öğe mevcut değil.
+buy.canceled=Satın Alma İptal edildi.
+amount.invalid=En az 1 satın almalısın!
+amount.less=%a% yeterli değil. Satın alman %b% gerektirir ve sende sadece %c% var, %d% daha ihtiyacın var!
+buy.done=%a% %b% eşyasını %c% %d% karşılığında satın aldın.

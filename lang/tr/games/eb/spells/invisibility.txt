@@ -1,0 +1,3 @@
+title=Görünmezlik kalkanı
+description=%x% saniye boyunca düşmanlarınız tarafından vurulmanızı önler
+already_active=Zaten görünmezsiniz, bu nedenle sona erene kadar tekrar yapamazsınız

@@ -1,0 +1,6 @@
+title=Dil İndirici
+zero=İndirilecek mevcut dil yok
+one=İndirmek için %x% dil mevcut
+more=İndirmek için %x% dil mevcut
+noe=bu dil %x% mevcut değil
+dl=Lütfen tarayıcıdan %x% indirin, ardından Lang klasörüne çıkarın. Tamam düğmesine basın.

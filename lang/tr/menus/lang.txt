@@ -1,0 +1,9 @@
+title=Kullanılacak bir dil seçin.
+zero=Kullanılabilir dil mevcut değil.
+one=%x% Dil mevcut.
+more=%x% dil mevcut
+default=varsayılan dil
+done=Dil değiştirildi.
+fail=%x%diline geçilemedi.
+already=Bu dili zaten ayarladınız.
+current=mevcut dil

@@ -1,0 +1,3 @@
+title=Kullanmak istediğiniz silahı seçin
+zero=kullanabileceğiniz mevcut silah yok.
+noe=Bu silahı kullanamazsınız, çünkü ya kalifiye değilsiniz ya da silahın kendisi yok.
