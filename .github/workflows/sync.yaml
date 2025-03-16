@@ -29,7 +29,7 @@ jobs:
           path: "gamemgh.github.io"
       - name: Copy renamed configs to target repository
         run: |
-          cp "renamed_configs/*.toml" "gamemgh.github.io/Web/data/langs/"
+          cp renamed_configs/*.toml "gamemgh.github.io/Web/data/langs/"
       - name: Check for changes
         run: |
           cd "gamemgh.github.io"
