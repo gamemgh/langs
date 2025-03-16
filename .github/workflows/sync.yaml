@@ -1,0 +1,54 @@
+name: Sync Language Configs
+
+on:
+  push:
+    paths: ["lang/**", ".github/workflows/update.yaml"]
+  workflow_dispatch:
+jobs:
+  sync-configs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1  # Fetch only the latest commit
+      - name: Rename config.toml files (without deleting original)
+        run: |
+          mkdir -p renamed_configs
+          for dir in lang/*/; do
+              if [[ -f "$dir/config.toml" ]]; then
+                  lang_code=$(basename "$dir")
+                  cp "$dir/config.toml" "renamed_configs/${lang_code}.toml"
+              fi
+          done
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: "gamemgh/gamemgh.github.io"
+          token: ${{ secrets.TK }}
+          path: "gamemgh.github.io"
+      - name: Copy renamed configs to target repository
+        run: |
+          cp "renamed_configs/*.toml" "gamemgh.github.io/Web/data/langs/"
+      - name: Check for changes
+        run: |
+          cd "gamemgh.github.io"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Sync language configs" -a
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.TK }}
+          path: "gamemgh.github.io"
+          branch: update-language-configs
+          branch-suffix: 'timestamp'
+          commit-message: "Sync language configs"
+          title: "Update language configuration files"
+          body: "This PR updates or adds language configuration files."
+          delete-branch: true
