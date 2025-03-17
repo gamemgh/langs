@@ -1,0 +1,11 @@
+error=အမှား
+sounderror=အသံအမှား
+information=အကေြာင်းကြားချက်
+currently=လောလောဆယ် %x%
+success=အောင်မြင်ခြင်း
+alreadyrunning=ဂိမ်းပြီးသားပြေးနေသည်!
+cannotfindaudio=အသံဖိုင်ကိုရှာမရပါ။
+exiting=ထွက်...
+gender.boy=ယောကျ်ားဖြစ်သော
+gender.girl=မိန်းမ
+youhave=သင့်မှာ%x% %y% ရှိတယ်။
