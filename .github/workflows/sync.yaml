@@ -2,7 +2,7 @@ name: Sync Language Configs
 
 on:
   push:
-    paths: ["lang/**", ".github/workflows/update.yaml"]
+    paths: ["lang/**", ".github/workflows/sync.yaml"]
   workflow_dispatch:
 jobs:
   sync-configs:
@@ -29,6 +29,7 @@ jobs:
           path: "gamemgh.github.io"
       - name: Copy renamed configs to target repository
         run: |
+          rm -f gamemgh.github.io/Web/data/langs/*.*
           cp renamed_configs/*.toml "gamemgh.github.io/Web/data/langs/"
       - name: Check for changes
         run: |
