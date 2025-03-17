@@ -24,4 +24,5 @@ def zip_folders_in_directory(directory):
 
 if __name__ == "__main__":
 	target_directory = "lang"
+	print(f"{len(os.listdir(target_directory))} languages")
 	zip_folders_in_directory(target_directory)

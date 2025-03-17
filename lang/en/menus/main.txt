@@ -5,6 +5,7 @@ dllang=Language Downloader
 test=Test your Speakers
 update=Check for Updates
 store=Store
+status=Statistics Menu
 settings=Settings and Preferences
 web=Visit Website
 systeminfo=Get system information, only needed if you need to provide your system information for example in case of device issue playing the game

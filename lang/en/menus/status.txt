@@ -1,0 +1,3 @@
+title=Statistics
+1=You've been executed this game for a total of %x% times.
+2=You mostly plaied %x% for %y%.
