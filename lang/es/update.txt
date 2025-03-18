@@ -1,0 +1,6 @@
+title=Actualizar
+checking=Buscando actualizaciones. Por favor, espere...
+available.title=Actualización disponible
+available.description=Una nueva actualización %x% (build %y%) está disponible. ¿Descargar ahora? Esto abrirá en tu navegador predeterminado.
+available.no=No hay actualizaciones disponibles
+canceled=Actualización cancelada

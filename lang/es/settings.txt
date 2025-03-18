@@ -1,0 +1,13 @@
+title=Ajustes
+saved=Opciones guardadas
+ctrl.username=Nombre de usuario
+ctrl.gender=Género
+ctrl.gender.set=Género configurado correctamente.
+ctrl.spt=Tiempo de aparición de enemigos (en segundos)
+ctrl.interrupt=Interrupción del lector de pantalla
+ctrl.ils=Reproducir sonido de bucle de objeto
+ctrl.save=&Guardar opciones
+ctrl.reset=Restablecer los datos del juego a los valores predeterminados de fábrica
+reset.title=Restablecer
+reset.description=¿Estás seguro de que deseas eliminar la configuración del juego? Esto incluye también los ajustes que has configurado y tu progreso de juego.
+reset.done=Todos los datos han sido eliminados

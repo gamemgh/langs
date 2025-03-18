@@ -1,0 +1,2 @@
+title=Llama
+description=Quema a los enemigos cercanos dentro del rango de %x% casillas con fuego y llamas, reduciendo su salud.

@@ -1,0 +1,4 @@
+title=Con %x% de energía mágica puedes lanzar el hechizo %y%.
+title.plural=Con %x% de energía mágica puedes lanzar los hechizos %y%.
+item=%a%, requiere %b% de energía mágica para lanzarlo. Toma %c% milisegundos para hacer efecto.
+zero=No tienes hechizos disponibles para lanzar.

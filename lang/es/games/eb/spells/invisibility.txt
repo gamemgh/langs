@@ -1,0 +1,3 @@
+title=Escudo de Invisibilidad
+description=Previene que tus enemigos te golpeen durante %x% segundos mientras tú aún puedes golpearlos.
+already_active=Ya estás invisible, por lo que no puedes lanzarlo nuevamente hasta que expire.

@@ -1,0 +1,2 @@
+title=Bloqueo de Movimientos
+description=Bloquea temporalmente a todos los enemigos que te rodean y que están dentro de un radio de %x% casillas, dejándolos incapaces de moverse mientras tú aún puedes golpearlos.

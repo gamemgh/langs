@@ -1,0 +1,5 @@
+title=¿De dónde proviene el sonido?
+correct=¡Excelente! Has encontrado la posición correcta.
+wrong=¡Estás en la dirección equivocada!
+press=Presiona la flecha correspondiente.
+swipe=Desliza en la dirección correspondiente.

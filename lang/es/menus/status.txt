@@ -1,0 +1,3 @@
+title=Estadísticas
+1=Has sido ejecutado en este juego un total de %x% veces.
+2=Principalmente jugaste %x% durante %y%.

@@ -1,0 +1,4 @@
+title=Juego de Dados
+started=Juego iniciado.
+gain=¡Has ganado %x% %y%!
+nogain=¡Oh no! Has perdido %x% %y%!

@@ -1,0 +1,6 @@
+title=Descargador de Idiomas
+zero=No hay idiomas disponibles para descargar
+one=Hay %x% idioma disponible para descargar
+more=Hay %x% idiomas disponibles para descargar
+noe=Este idioma %x% no existe
+dl=Por favor, descarga %x% desde el navegador, luego extráelo en la carpeta lang. Presiona el botón OK.
