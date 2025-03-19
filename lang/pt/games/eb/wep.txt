@@ -1,3 +1,4 @@
+noammo=Não precisa de munição
 notammo=Não precisa de munição
 ammoinfo=%b% de %c% %d% na arma %a%, %e% restantes
 gainnew1=Você ganhou uma nova arma! %x%.

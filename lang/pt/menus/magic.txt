@@ -1,2 +1,4 @@
+title=Com %x% energia mágica você pode lançar %y% magia.
+title.plural=Com %x% energia mágica você pode lançar %y% magias.
 item=%a%, precisa de %b% energia mágica para lançar. Leva %c% milissegundos para fazer efeito.
 zero=Você não tem magias disponíveis para lançar.

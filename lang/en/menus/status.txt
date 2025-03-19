@@ -1,6 +1,9 @@
 title=Statistics
-1=You've been executed this game for a total of %x% times.
-2=You mostly plaied %x% for %y%.
 cp=Copy statistics to clipboard
 cp.done=Statistics copied to clipboard.
 cp.fail=Failed to copy the statistics. This might be because of your clipboard's problem.
+1=You've been executed this game for a total of %x% times.
+2=You mostly plaied %x% for %y%.
+3.zero=You haven't plaied any games yet.
+3.one=You have plaied a total of %x% game.
+3.more=You have plaied a total of %x% games.

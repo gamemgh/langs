@@ -1,6 +1,7 @@
 title=Menu Principal
 gm=Lista de jogos
 lang=Mudar idioma (%x% em uso)
+dllang=Gerenciador de Idiomas
 test=Testar alto-falantes
 update=Verificar por atualizações
 store=Loja

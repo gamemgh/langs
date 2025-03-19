@@ -6,4 +6,4 @@ south=sul
 southwest=sudoeste
 west=oeste
 northwest=noroeste
-dirinfo=%x% em %y% graus
+dirinfo=%x% a %y% graus

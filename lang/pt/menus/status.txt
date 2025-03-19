@@ -1,0 +1,6 @@
+title=Estatísticas
+1=Você executou o jogo %x% vezes.
+2=Você jogou maioritariamente %x% para um total de %y%.
+cp=Copiar Estatísticas para a área de transferência
+cp.done=Estatísticas copiadas para a área de transferência.
+cp.fail=Erro ao copiar as estatísticas. A área de transferência pode estar com problemas.
