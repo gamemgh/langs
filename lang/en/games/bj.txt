@@ -1,4 +1,5 @@
 title=Blackjack
+draw=It's a draw!
 win_no=No one wins the game!
 winyou=You win the game!
 winother=Computer wins the game!
