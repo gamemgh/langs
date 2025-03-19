@@ -1,0 +1,11 @@
+error=Ошибка
+sounderror=Ошибка звука
+information=Информация
+currently=%x% в данный момент
+success=Успех
+alreadyrunning=Игра уже запущена!
+cannotfindaudio=Файл аудио не найден.
+exiting=Выход...
+gender.boy=Мужской
+gender.girl=Женский
+youhave=%x% %y%.

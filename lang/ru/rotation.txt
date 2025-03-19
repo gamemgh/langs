@@ -1,0 +1,9 @@
+north=север
+northeast=северо-восток
+east=восток
+southeast=юго-восток
+south=юг
+southwest=юго-запад
+west=запад
+northwest=северо-запад
+dirinfo=%x% на %y% градусов
