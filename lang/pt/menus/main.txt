@@ -1,4 +1,4 @@
-title=Menu Principal
+title=Menu Principal.
 gm=Lista de jogos
 lang=Mudar idioma (%x% em uso)
 dllang=Gerenciador de Idiomas

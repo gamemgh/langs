@@ -9,3 +9,5 @@ exiting=saindo...
 gender.boy=Masculino
 gender.girl=Feminino
 youhave=%x% %y%.
+shortcuts.menu.other=Pressione as cetas Cima e Baixo para navegar, Enter para selecionar e Escape para sair.
+shortcuts.menu.android=Deslize para Esquerda e Direita para navegar, toque duas vezes com um dedo para selecionar, clique no Botão Voltar para sair.

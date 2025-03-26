@@ -1,6 +1,9 @@
 title=Estatísticas
-1=Você executou o jogo %x% vezes.
-2=Você jogou maioritariamente %x% para um total de %y%.
 cp=Copiar Estatísticas para a área de transferência
 cp.done=Estatísticas copiadas para a área de transferência.
 cp.fail=Erro ao copiar as estatísticas. A área de transferência pode estar com problemas.
+1=Você executou o jogo %x% vezes.
+2=Você jogou maioritariamente %x% para um total de %y%.
+3.zero=Você ainda não jogou nenhum Mini-Game.
+3.one=Você jogou %x% Mini-Game
+3.more=Você jogou %x% Mini-Games.
