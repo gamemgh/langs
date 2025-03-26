@@ -9,3 +9,5 @@ exiting=Exiting...
 gender.boy=Male
 gender.girl=Female
 youhave=You have %x% %y%.
+shortcuts.menu.other=Press up and down arrow keys to navigate, enter to select, and Escape to exit.
+shortcuts.menu.android=Swipe left and right to navigate, double tap with one finger to select, click back button to exit.

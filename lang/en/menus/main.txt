@@ -1,4 +1,4 @@
-title=Main Menu
+title=Main Menu.
 gm=Games Menu
 lang=Change Language (currently %x%)
 dllang=Language Downloader

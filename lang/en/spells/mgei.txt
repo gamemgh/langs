@@ -1,0 +1,4 @@
+title=Trophy Energy
+description=Increases magic energy %x% times faster for %y% seconds
+expired=Your Trophy Energy spell has expired.
+already_active=This spell is already active.
