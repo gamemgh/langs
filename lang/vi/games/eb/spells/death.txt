@@ -1,0 +1,2 @@
+title=Sát Nộ
+description=Giết chết tức thì tất cả kẻ thù xung quanh bạn, trong phạm vi %x% ô

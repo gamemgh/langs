@@ -1,0 +1,1 @@
+newspell=Bạn giờ đây có thể sử dụng phép thuật %a%, cần %b% năng lượng phép thuật. %c%.

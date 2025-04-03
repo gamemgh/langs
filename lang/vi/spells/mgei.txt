@@ -1,0 +1,4 @@
+title=Năng lượng chiến thắng
+description=Tăng năng lượng phép thuật nhanh hơn %x% lần trong %y% giây
+expired=Năng lượng chiến thắng của bạn đã hết hiệu lực.
+already_active=Đã được kích hoạt.

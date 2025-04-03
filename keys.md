@@ -1,6 +1,9 @@
 # Keys
 These are keys or changes that are updated and may or may not need in your language to be translated:
 
+##
+- `item`: Located in menus/dllang.txt, icon for each language that can be downloaded, now includes author name.
+
 ## Wednesday, March 26, 2025
 - Added a folder called spells in the language. This contains magic spells that are not game dependent. Currently, "Trophy Energy" spell is added, so you may translate.
 - `draw`: Located in games/bj.txt, a message to display when the blackjack gets draw, meaning there is no win and your and computer's cards is the same number.

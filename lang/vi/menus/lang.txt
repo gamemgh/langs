@@ -1,0 +1,9 @@
+title=Chọn ngôn ngữ để sử dụng.
+zero=Không có ngôn ngữ nào khả dụng.
+one=Có %x% ngôn ngữ khả dụng.
+more=Có %x% ngôn ngữ có sẵn cho Việt Nam
+default=Ngôn ngữ dự phòng mặc định
+done=Ngôn ngữ đã được thay đổi.
+fail=Không thể chuyển sang ngôn ngữ %x%.
+already=Bạn đã đặt ngôn ngữ này rồi.
+current=Ngôn ngữ hiện tại

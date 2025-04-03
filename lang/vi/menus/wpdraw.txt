@@ -1,0 +1,3 @@
+title=Chọn vũ khí bạn muốn rút.
+zero=Không có vũ khí nào bạn có thể rút ra.
+noe=Bạn không thể trang bị vũ khí này vì bạn chưa đủ điều kiện hoặc vũ khí này không tồn tại.

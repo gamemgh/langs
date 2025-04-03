@@ -1,0 +1,15 @@
+title=Menu chính
+gm=Menu Trò Chơi
+lang=Thay đổi ngôn ngữ (hiện tại %x%)
+dllang=Trình tải ngôn ngữ
+test=Thử loa của bạn
+update=Kiểm tra cập nhật
+store=Cửa hàng
+status=Menu thống kê
+settings=Cài đặt và Tùy chọn
+web=Truy cập trang web
+systeminfo=Lấy thông tin hệ thống, chỉ cần thiết nếu bạn cần cung cấp thông tin hệ thống của mình, ví dụ như trong trường hợp gặp sự cố thiết bị khi chơi game
+systeminfo.done=Thông tin hệ thống và log debug liên quan đã được sao chép vào clipboard. Vui lòng cung cấp thông tin đã được mã hóa đó cho nhà phát triển yêu cầu thông tin về sự cố.
+quit=Thoát trò chơi
+web.done=Trang web đã được mở thành công trên trình duyệt của bạn.
+web.fail=Không mở được trang web. Trang web hiện đã được sao chép vào clipboard của bạn.

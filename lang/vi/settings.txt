@@ -1,0 +1,13 @@
+title=Cài đặt
+saved=Tùy chọn đã được lưu
+ctrl.username=Tên người dùng
+ctrl.gender=Giới tính
+ctrl.gender.set=Giới tính đã được đặt thành công.
+ctrl.spt=Thời gian xuất hiện quái vật (tính bằng giây)
+ctrl.interrupt=Gián đoạn Trình đọc màn hình
+ctrl.ils=Phát âm thanh lặp của vật phẩm
+ctrl.save=&Lưu
+ctrl.reset=Đặt lại dữ liệu trò chơi về cài đặt mặc định
+reset.title=Đặt lại
+reset.description=Bạn chắc chắn muốn xóa cấu hình trò chơi? Điều này cũng bao gồm các cài đặt bạn đã thiết lập cũng như tiến trình chơi của bạn!
+reset.done=Tất cả dữ liệu đã được xóa

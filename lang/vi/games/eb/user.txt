@@ -1,0 +1,6 @@
+mhreach=Đã đạt mức máu tối đa
+hp1=Máu tăng
+levelinfo=Bạn đang ở chuyển sinh %a% với cấp độ %b% và %c% điểm kinh nghiệm. Cấp độ tiếp theo cần %d% điểm kinh nghiệm.
+hpinfo=%x% trên %y% máu, %z% phần trăm.
+killed=Bạn đã bị %x% giết.
+objget=Bạn đã đạt được %x% %y%.

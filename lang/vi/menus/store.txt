@@ -1,0 +1,8 @@
+title=Cửa hàng. bạn muốn mua gì?
+zero=Không có mặt hàng nào để mua.
+item=%a%, giá %b% %c%, bạn có thể mua %d%
+item.invalid=Mặt hàng này không tồn tại.
+buy.canceled=Đơn hàng đã bị hủy.
+amount.invalid=Bạn phải mua ít nhất 1!
+amount.less=Không đủ %a%. Mua hàng của bạn cần %b%, và bạn chỉ có %c%, cần thêm %d%!
+buy.done=Bạn đã mua thành công %a% %b% với giá %c% %d%.

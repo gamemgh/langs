@@ -1,0 +1,4 @@
+title=Với %x% năng lượng ma thuật, bạn có thể niệm %y% câu thần chú.
+title.plural=Với %x% năng lượng phép thuật, bạn có thể niệm %y% câu thần chú.
+item=%a% cần %b% năng lượng ma thuật để thi triển. Hiệu quả phát huy sau %c% mili giây.
+zero=Bạn không có phép thuật nào khả dụng để thi triển.

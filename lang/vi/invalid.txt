@@ -1,0 +1,3 @@
+gender=Giới tính không hợp lệ!
+username=Tên người dùng không hợp lệ!
+spt.less=Thời gian xuất hiện quái vật không được ít hơn 1 giây.

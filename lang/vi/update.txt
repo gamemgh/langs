@@ -1,0 +1,6 @@
+title=Cập nhật
+checking=Kiểm tra cập nhật. Vui lòng chờ...
+available.title=Cập nhật có sẵn
+available.description=Bản cập nhật mới %x% (phiên bản %y%) đã có. Tải xuống ngay không? Thao tác này sẽ mở trình duyệt mặc định của bạn.
+available.no=Không có thông tin cập nhật
+canceled=Cập nhậthủy

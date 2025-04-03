@@ -1,0 +1,2 @@
+title=Phong Ấn
+description=Tạm thời phong tỏa tất cả kẻ địch xung quanh bạn trong phạm vi %x% ô, khiến chúng không thể di chuyển nhưng bạn vẫn có thể tấn công chúng.

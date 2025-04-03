@@ -1,0 +1,7 @@
+title=Menu Trò Chơi
+quit=Trở lại
+invalid.name=Tên người dùng không hợp lệ.
+invalid.gender=Vui lòng đặt giới tính của bạn trong cài đặt.
+invalid.gender.android=Vui lòng chọn giới tính hợp lệ.
+invalid.game=Minigame này không tồn tại.
+game.active=Bạn đang chơi một trò chơi rồi.

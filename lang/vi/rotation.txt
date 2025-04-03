@@ -1,0 +1,9 @@
+north=Bắc
+northeast=Đông Bắc
+east=Đông
+southeast=Đông Nam
+south=Nam
+southwest=tây nam
+west=Tây
+northwest=Tây Bắc
+dirinfo=%x% ở %y% độ

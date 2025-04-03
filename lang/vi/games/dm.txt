@@ -1,0 +1,4 @@
+title=Trò Chơi Xúc Xắc
+started=Trận đấu bắt đầu.
+gain=Bạn đã đạt được %x% %y%!
+nogain=Ôi không! Bạn đã mất %x% %y%!

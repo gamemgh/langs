@@ -1,0 +1,9 @@
+title=Thống kê
+cp=Sao chép thống kê vào clipboard
+cp.done=Thống kê đã được sao chép vào clipboard.
+cp.fail=Không sao chép được số liệu thống kê. Có thể do sự cố của khay nhớ tạm.
+1=Bạn đã chơi trò chơi này tổng cộng %x% lần.
+2=Bạn chủ yếu chơi %x% cho %y%.
+3.zero=Bạn chưa chơi trò chơi nhỏ nào cả.
+3.one=Bạn đã chơi tổng cộng %x% trò chơi nhỏ.
+3.more=Bạn đã chơi tổng cộng %x% trò chơi nhỏ.
