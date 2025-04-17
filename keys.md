@@ -2,6 +2,7 @@
 These are keys or changes that are updated and may or may not need in your language to be translated:
 
 ## 2025-04-17, Thursday, April 17, 2025
+- Language config files can now set the key called `lastmod` which defines the last updated date. This key is added after the `name` in the main section, meaning the top section. The format for the key is `yyyy-mm-dd`, 4 digits year, 2 digits month and day.
 - Added langupdate.txt for language check update dialog.
 - `langupdate`: Located in menus/main.txt, an icon for language check update.
 - `lastmod`: Located in general.txt, last updated date display.
