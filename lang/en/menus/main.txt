@@ -1,6 +1,7 @@
 title=Main Menu.
 gm=Games Menu
 lang=Change Language (currently %x%)
+langupdate=Check for Current Language Updates
 dllang=Language Downloader
 test=Test your Speakers
 update=Check for Updates

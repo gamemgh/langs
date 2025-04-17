@@ -1,11 +1,14 @@
 title=Settings
 saved=Options saved
+ctrl.path=Data path
 ctrl.username=Username
 ctrl.gender=Gender
 ctrl.gender.set=Gender successfully set.
 ctrl.spt=Enemy spawn time (in seconds)
 ctrl.interrupt=Screen reader interrupting
 ctrl.ils=Play item loop sound
+ctrl.input=Input device
+ctrl.output=Output device
 ctrl.save=&Save options
 ctrl.reset=Reset game data to its factory default
 reset.title=Reset
