@@ -9,6 +9,7 @@ ctrl.interrupt=Screen reader interrupting
 ctrl.ils=Play item loop sound
 ctrl.input=Input device
 ctrl.output=Output device
+ctrl.mmusic=Menu music
 ctrl.save=&Save options
 ctrl.reset=Reset game data to its factory default
 reset.title=Reset

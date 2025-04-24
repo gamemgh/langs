@@ -6,7 +6,7 @@ These are keys or changes that are updated and may or may not need in your langu
 - Added langupdate.txt for language check update dialog.
 - `langupdate`: Located in menus/main.txt, an icon for language check update.
 - `lastmod`: Located in general.txt, last updated date display.
-- `ctrl.path`, `ctrl.input`, `ctrl.output`: Located in settings.txt, icons for input and output sound devices and data path.
+- `ctrl.mmusic`, `ctrl.path`, `ctrl.input`, `ctrl.output`: Located in settings.txt, icons for input and output sound devices and data path and music.
 
 ## 2025-04-03, Thirsday, April 3, 2025
 - `item`: Located in menus/dllang.txt, icon for each language that can be downloaded, now includes author name.
