@@ -1,3 +1,4 @@
 pre/**
 !pre/README.md
 *.zip
+json/**
