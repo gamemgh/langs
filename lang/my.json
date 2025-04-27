@@ -1,7 +1,7 @@
 {
   "code": "my",
   "config": {
-    "lastmod": "2025-04-27T21:39:19+06:30",
+    "lastmod": "2025-04-28T00:21:56+06:30",
     "name": "Myanmar (Burmese)"
   },
   "keys": {
@@ -526,7 +526,7 @@
       "translated": "စနစ်အချက်အလက်နှင့် ဆက်စပ်သော အမှားရှာဖွေမှတ်တမ်းများကို ကူးယူပြီးပါပြီ။ ပြဿနာအတွက် မေးမြန်းထားသော developer ထံ ထိုစာဝှက်ထားသော အချက်အလက်များကို ပေးပို့ပါ။"
     },
     "menus.main.test": {
-      "source": "Test your Speakers",
+      "source": "Test Speakers",
       "translated": "သင့်ရဲ့ စပီကာတွေကို စမ်းသပ်ပါ"
     },
     "menus.main.title": {
@@ -586,7 +586,7 @@
       "translated": "စာရင်းအင်းများ"
     },
     "menus.store.amount.invalid": {
-      "source": "You must buy at least 1!",
+      "source": "You must buy at least 1 quantity!",
       "translated": "အနည်းဆုံး ၁ ခုတော့ ဝယ်ရမယ်!"
     },
     "menus.store.amount.less": {

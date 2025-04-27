@@ -1,7 +1,7 @@
 {
   "code": "en",
   "config": {
-    "lastmod": "2025-04-27T21:39:15+06:30",
+    "lastmod": "2025-04-27T23:58:31+06:30",
     "name": "English"
   },
   "keys": {
@@ -526,8 +526,8 @@
       "translated": "System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue."
     },
     "menus.main.test": {
-      "source": "Test your Speakers",
-      "translated": "Test your Speakers"
+      "source": "Test Speakers",
+      "translated": "Test Speakers"
     },
     "menus.main.title": {
       "source": "Main Menu.",
@@ -586,8 +586,8 @@
       "translated": "Statistics"
     },
     "menus.store.amount.invalid": {
-      "source": "You must buy at least 1!",
-      "translated": "You must buy at least 1!"
+      "source": "You must buy at least 1 quantity!",
+      "translated": "You must buy at least 1 quantity!"
     },
     "menus.store.amount.less": {
       "source": "Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!",
