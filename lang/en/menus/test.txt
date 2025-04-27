@@ -1,5 +1,0 @@
-title=Where is the sound coming from?
-correct=Excellent! : you've got the right position
-wrong=You've got the wrong direction!
-press=Press the corresponding arrow
-swipe=Swipe to the corresponding direction

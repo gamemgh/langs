@@ -1,4 +1,0 @@
-title=With %x% magic energy you can cast %y% spell.
-title.plural=With %x% magic energy you can cast %y% spells.
-item=%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.
-zero=You have no available spells to cast.

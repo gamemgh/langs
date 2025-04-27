@@ -1,1 +1,0 @@
-newspell=You now have the ability to cast %a%, which requires %b% magic energy. %c%.

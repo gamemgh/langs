@@ -1,6 +1,0 @@
-mhreach=Salud máxima alcanzada
-hp1=Salud aumentada
-levelinfo=Estás en la resurrección %a% con nivel %b% y %c% puntos de experiencia. El siguiente nivel requiere %d% puntos de experiencia.
-hpinfo=%x% de %y% de salud, %z% por ciento.
-killed=Has sido asesinado por %x%.
-objget=Has obtenido %x% %y%.

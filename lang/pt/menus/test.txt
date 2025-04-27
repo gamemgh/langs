@@ -1,5 +1,0 @@
-title=De onde vem o som?
-correct=Posição certa!
-wrong=Posição errada!
-press=Pressione a seta correspondente
-swipe=Deslize para a direção correspondente

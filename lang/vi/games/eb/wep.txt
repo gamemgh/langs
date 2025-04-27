@@ -1,4 +1,0 @@
-notammo=Vũ khí này không chứa đạn.
-ammoinfo=%a% đã có %b% trong số %c% %d%, còn lại %e%
-gainnew1=Bạn đã có được một vũ khí mới, %x%.
-gainnew2=Bạn cũng nhận được %x% %y% cho điều này!

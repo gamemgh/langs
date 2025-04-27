@@ -1,3 +1,0 @@
-title=Select the weapon you want to draw.
-zero=No available weapons that you can draw.
-noe=You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist.

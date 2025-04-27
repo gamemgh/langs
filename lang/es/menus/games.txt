@@ -1,7 +1,0 @@
-title=Menú de Juegos
-quit=Volver
-invalid.name=Nombre de usuario no válido.
-invalid.gender=Por favor, configura tu género en los ajustes.
-invalid.gender.android=Por favor, elige un género válido.
-invalid.game=Este minijuego no existe.
-game.active=Ya estás jugando un juego.

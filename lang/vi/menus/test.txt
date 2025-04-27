@@ -1,5 +1,0 @@
-title=Âm thanh phát ra từ đâu?
-correct=Tuyệt vời! Bạn đã ở đúng vị trí rồi.
-wrong=Không đúng.
-press=Nhấn mũi tên tương ứng
-swipe=Vuốt theo hướng tương ứng

@@ -1,7 +1,0 @@
-title=Arquería
-done=Juego terminado.
-get=Has ganado %x% %y%. ¡Felicidades!
-started=Ronda %x%. Necesitas %y% puntos esta ronda. Te quedan %z% disparos.
-missed=Has fallado.
-life=Te quedan %x% disparos.
-points=Tienes %x% pu

@@ -1,4 +1,0 @@
-title=Troféu de energia
-description=Aumenta sua energia mágica %x% vezes mais rápido por %y% segundos
-expired=Seu Troféu de energia acabou.
-already_active=Essa magia já está ativa.

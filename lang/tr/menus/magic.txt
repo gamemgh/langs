@@ -1,4 +1,0 @@
-title=%x% büyülü enerji ile %y% büyü yapabilirsiniz
-title.plural=%x% büyülü enerji ile %y% büyü yapabilirsiniz
-item=%a%, %b% büyülü enerji gerektirir. Etkisini göstermesi %c% milisaniye sürer
-zero=Yapmak için mevcut büyünüz yok.

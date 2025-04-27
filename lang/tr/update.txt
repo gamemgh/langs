@@ -1,6 +1,0 @@
-title=Güncelleme
-checking=Güncellemeler kontrol ediliyor. Lütfen bekleyin...
-available.title=Güncelleme Mevcut
-available.description=yeni bir güncelleme %X %(build %y) mevcut. Şimdi indirilsin mi? Bu varsayılan tarayıcınızda açılır.
-available.no=Güncelleme mevcut değil
-canceled=Güncelleme iptal edildi

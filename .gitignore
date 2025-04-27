@@ -1,4 +1,7 @@
 pre/**
 !pre/README.md
-*.zip
+lang/*.zip
 json/**
+gui/**
+gui.exe
+lib/**

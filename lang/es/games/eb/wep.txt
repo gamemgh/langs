@@ -1,4 +1,0 @@
-notammo=Esta arma no tiene munición.
-ammoinfo=%a% tiene %b% de %c% %d%, quedan %e%
-gainnew1=Has obtenido un arma nueva, %x%.
-gainnew2=¡También has ganado %x% %y% por esto!

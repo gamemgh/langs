@@ -1,3 +1,0 @@
-title=Selecione a arma que deseja sacar.
-zero=Não há armas disponíveis para sacar.
-noe=Essa arma não existe ou você não está qualificado para sacá-la.

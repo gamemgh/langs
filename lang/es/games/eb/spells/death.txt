@@ -1,2 +1,0 @@
-title=Instant Kill
-description=Instantáneamente mata a todos los enemigos que te rodean, que están dentro del % x % de pasos

@@ -1,6 +1,0 @@
-title=Trình tải ngôn ngữ
-zero=Không có ngôn ngữ nào khả dụng để tải xuống
-one=Có %x% ngôn ngữ có sẵn để tải xuống
-more=Có %x% ngôn ngữ có sẵn để tải xuống
-noe=Ngôn ngữ %x% này không tồn tại
-dl=Vui lòng tải xuống %x% từ trình duyệt, sau đó giải nén vào thư mục lang. Nhấn nút OK.

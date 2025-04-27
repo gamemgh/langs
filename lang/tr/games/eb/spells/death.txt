@@ -1,2 +1,0 @@
-title=Anında öldür
-description=Sizi çevreleyen %x% adım içindeki düşmanları anında öldürür

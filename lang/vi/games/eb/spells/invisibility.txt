@@ -1,3 +1,0 @@
-title=Khiên tàng hình
-description=Ngăn chặn bị kẻ thù tấn công trong %x% giây trong khi bạn vẫn có thể tấn công chúng
-already_active=Bạn đã tàng hình, vì vậy không thể thi triển lại cho đến khi hiệu lực hết.

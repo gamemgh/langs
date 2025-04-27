@@ -1,3 +1,0 @@
-gender=¡Género no válido!
-username=¡Nombre de usuario no válido!
-spt.less=El tiempo de aparición del enemigo no debe ser menor a 1 segundo.

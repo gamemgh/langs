@@ -1,7 +1,0 @@
-title=Language Downloader
-zero=There is no available languages to download
-one=There is %x% language available to download
-more=There are %x% languages available to download
-noe=This language %x% does not exist
-dl=Please download %x% from the browser, then extract it in the lang folder. Press the OK button.
-item=%x%, by %y%.

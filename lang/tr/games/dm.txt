@@ -1,4 +1,0 @@
-title=Zar Maçı
-started=Oyun başladı.
-gain=%x% %y% kazandın!
-nogain=Oh hayır! %x% %y% kaybettin!

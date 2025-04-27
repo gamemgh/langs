@@ -1,1 +1,0 @@
-newspell=Artık %b% büyü enerjisi gerektiren %a% atma yeteneğine sahipsiniz. %c%.

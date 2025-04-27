@@ -1,1 +1,0 @@
-newspell=Ahora tienes la capacidad de lanzar %a%, lo que requiere %b% de energía mágica. %c%.

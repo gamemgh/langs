@@ -1,2 +1,0 @@
-title=Chamas
-description=Queime inimigos ao seu redor em um raio de %x% quadrados com incêndios e chamas

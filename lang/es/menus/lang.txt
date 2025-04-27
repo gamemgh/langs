@@ -1,9 +1,0 @@
-title=Elige un idioma para usar.
-zero=No hay idiomas disponibles.
-one=Hay %x% idioma disponible.
-more=Hay %x% idiomas disponibles.
-default=Idioma predeterminado de respaldo.
-done=El idioma ha sido cambiado.
-fail=Error al cambiar a este idioma %x%.
-already=Ya has configurado este idioma.
-current=Idioma actual

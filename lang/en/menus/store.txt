@@ -1,8 +1,0 @@
-title=Store. What would you like to buy?
-zero=There are no items to buy.
-item=%a%, costs %b% %c%, you can buy %d%
-item.invalid=This item does not exist.
-buy.canceled=Purchase canceled.
-amount.invalid=You must buy at least 1!
-amount.less=Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!
-buy.done=You've successfully purchased %a% %b% with %c% %d%.

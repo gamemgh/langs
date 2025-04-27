@@ -1,4 +1,0 @@
-title=Trophy စွမ်းအင်
-description=Increases magic energy %x% times faster for %y% seconds
-expired=သင့်ရဲ့ဆုဖလားစွမ်းအင်စာလုံးပေါင်းသက်တမ်းကုန်သွားပြီ။
-already_active=ဒီစာလုံးပေါင်းပြီးသားတက်ကြွဖြစ်ပါတယ်။

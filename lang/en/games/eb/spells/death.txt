@@ -1,2 +1,0 @@
-title=Instant Kill
-description=Instantly kills all enemies surrounding you, that are within %x% tiles

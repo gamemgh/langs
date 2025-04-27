@@ -1,8 +1,0 @@
-title=Tienda. ¿Qué te gustaría comprar?
-zero=No hay artículos disponibles para comprar.
-item=%a%, cuesta %b% %c%, puedes comprar %d%
-item.invalid=Este artículo no existe.
-buy.canceled=Compra cancelada.
-amount.invalid=¡Debes comprar al menos 1!
-amount.less=No tienes suficiente %a%. Tu compra requiere %b%, y solo tienes %c%, ¡necesitas más %d%!
-buy.done=Has comprado correctamente %a% %b% con %c% %d%.

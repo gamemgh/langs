@@ -1,6 +1,0 @@
-title=Update
-checking=Checking for updates. Please wait...
-available.title=Update Available
-available.description=A new update %x% (build %y%) is available. Download now? This will open at your default browser.
-available.no=No updates available
-canceled=Update canceled

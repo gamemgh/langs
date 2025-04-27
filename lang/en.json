@@ -1,1 +1,994 @@
-{"code":"en","config":{"lastmod":"2025-04-26T19:51:29+06:30","name":"English"},"keys":{"games.archery.done":{"id":"games.archery.done","source":"Game finished.","translated":"Game finished."},"games.archery.fail":{"id":"games.archery.fail","source":"Sorry, you have lost the game.","translated":"Sorry, you have lost the game."},"games.archery.get":{"id":"games.archery.get","source":"You've gained %x% %y%. Congratulations!","translated":"You've gained %x% %y%. Congratulations!"},"games.archery.life":{"id":"games.archery.life","source":"You have %x% shots left.","translated":"You have %x% shots left."},"games.archery.missed":{"id":"games.archery.missed","source":"You missed.","translated":"You missed."},"games.archery.points":{"id":"games.archery.points","source":"You have %x% points.","translated":"You have %x% points."},"games.archery.started":{"id":"games.archery.started","source":"Round %x%. You need %y% points this round. You have %z% shots left.","translated":"Round %x%. You need %y% points this round. You have %z% shots left."},"games.archery.success":{"id":"games.archery.success","source":"You've won this round!","translated":"You've won this round!"},"games.archery.title":{"id":"games.archery.title","source":"Archery","translated":"Archery"},"games.archery.tpoints":{"id":"games.archery.tpoints","source":"Total score: %x% points.","translated":"Total score: %x% points."},"games.bj.bet.done":{"id":"games.bj.bet.done","source":"Changed bet successfully!","translated":"Changed bet successfully!"},"games.bj.bet.max":{"id":"games.bj.bet.max","source":"Error. You can't bet more than what you currently have, maximum %x% %y%.","translated":"Error. You can't bet more than what you currently have, maximum %x% %y%."},"games.bj.bet.prompt":{"id":"games.bj.bet.prompt","source":"Type the amount you want to bet","translated":"Type the amount you want to bet"},"games.bj.bet.title":{"id":"games.bj.bet.title","source":"Amount","translated":"Amount"},"games.bj.ctc":{"id":"games.bj.ctc","source":"Computer's total cards is %x%, which makes it %y%.","translated":"Computer's total cards is %x%, which makes it %y%."},"games.bj.ctrl.bc":{"id":"games.bj.ctrl.bc","source":"Change bet button","translated":"Change bet button"},"games.bj.ctrl.hit":{"id":"games.bj.ctrl.hit","source":"Hit new card button","translated":"Hit new card button"},"games.bj.ctrl.hit.press":{"id":"games.bj.ctrl.hit.press","source":"Hits %x%","translated":"Hits %x%"},"games.bj.ctrl.new":{"id":"games.bj.ctrl.new","source":"New button","translated":"New button"},"games.bj.ctrl.new.press":{"id":"games.bj.ctrl.new.press","source":"New game started.","translated":"New game started."},"games.bj.ctrl.stand":{"id":"games.bj.ctrl.stand","source":"Stand the Blackjack button","translated":"Stand the Blackjack button"},"games.bj.ctrl.stand.press":{"id":"games.bj.ctrl.stand.press","source":"Standed!","translated":"Standed!"},"games.bj.draw":{"id":"games.bj.draw","source":"It's a draw!","translated":"It's a draw!"},"games.bj.finished":{"id":"games.bj.finished","source":"Game finished.","translated":"Game finished."},"games.bj.have.bet":{"id":"games.bj.have.bet","source":"Bet, currently %x% %y%.","translated":"Bet, currently %x% %y%."},"games.bj.have.bj":{"id":"games.bj.have.bj","source":"Good, you have a blackjack!","translated":"Good, you have a blackjack!"},"games.bj.have.currency":{"id":"games.bj.have.currency","source":"You currently have %x% %y%.","translated":"You currently have %x% %y%."},"games.bj.info":{"id":"games.bj.info","source":"%x%; making %y%.","translated":"%x%; making %y%."},"games.bj.losec":{"id":"games.bj.losec","source":"You've lost %x% %y%!","translated":"You've lost %x% %y%!"},"games.bj.nc":{"id":"games.bj.nc","source":"No cards","translated":"No cards"},"games.bj.no.currency":{"id":"games.bj.no.currency","source":"Sorry, you don't have enough %x% that you are currently bet. You only have %y% %x%.","translated":"Sorry, you don't have enough %x% that you are currently bet. You only have %y% %x%."},"games.bj.quit.finish":{"id":"games.bj.quit.finish","source":"Finish the current game first to be able to quit.","translated":"Finish the current game first to be able to quit."},"games.bj.start":{"id":"games.bj.start","source":"Game started.","translated":"Game started."},"games.bj.title":{"id":"games.bj.title","source":"Blackjack","translated":"Blackjack"},"games.bj.total.card":{"id":"games.bj.total.card","source":"Total cards, %x%.","translated":"Total cards, %x%."},"games.bj.total.num":{"id":"games.bj.total.num","source":"Total numbers, %x%.","translated":"Total numbers, %x%."},"games.bj.win_no":{"id":"games.bj.win_no","source":"No one wins the game!","translated":"No one wins the game!"},"games.bj.winc":{"id":"games.bj.winc","source":"You've won %x% %y%.","translated":"You've won %x% %y%."},"games.bj.winother":{"id":"games.bj.winother","source":"Computer wins the game!","translated":"Computer wins the game!"},"games.bj.winyou":{"id":"games.bj.winyou","source":"You win the game!","translated":"You win the game!"},"games.bj.yca":{"id":"games.bj.yca","source":"Your cards are:","translated":"Your cards are:"},"games.bj.ytc":{"id":"games.bj.ytc","source":"Your total cards is %x%, which makes it %y%.","translated":"Your total cards is %x%, which makes it %y%."},"games.dm.gain":{"id":"games.dm.gain","source":"You've earned %x% %y%!","translated":"You've earned %x% %y%!"},"games.dm.nogain":{"id":"games.dm.nogain","source":"Oh no! You've lost %x% %y%!","translated":"Oh no! You've lost %x% %y%!"},"games.dm.started":{"id":"games.dm.started","source":"Game started.","translated":"Game started."},"games.dm.title":{"id":"games.dm.title","source":"Dice Match","translated":"Dice Match"},"games.eb.general.title":{"id":"games.eb.general.title","source":"Endless Battle","translated":"Endless Battle"},"games.eb.magic.e_invisible":{"id":"games.eb.magic.e_invisible","source":"Your invisibility spell has expired.","translated":"Your invisibility spell has expired."},"games.eb.spells.block.description":{"id":"games.eb.spells.block.description","source":"Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them","translated":"Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them"},"games.eb.spells.block.title":{"id":"games.eb.spells.block.title","source":"Movements Block","translated":"Movements Block"},"games.eb.spells.death.description":{"id":"games.eb.spells.death.description","source":"Instantly kills all enemies surrounding you, that are within %x% tiles","translated":"Instantly kills all enemies surrounding you, that are within %x% tiles"},"games.eb.spells.death.title":{"id":"games.eb.spells.death.title","source":"Instant Kill","translated":"Instant Kill"},"games.eb.spells.flame.description":{"id":"games.eb.spells.flame.description","source":"Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health","translated":"Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health"},"games.eb.spells.flame.title":{"id":"games.eb.spells.flame.title","source":"Flame","translated":"Flame"},"games.eb.spells.heal.description":{"id":"games.eb.spells.heal.description","source":"Heal yourself to the maximum possible health","translated":"Heal yourself to the maximum possible health"},"games.eb.spells.heal.title":{"id":"games.eb.spells.heal.title","source":"Vitality Surge","translated":"Vitality Surge"},"games.eb.spells.invisibility.already_active":{"id":"games.eb.spells.invisibility.already_active","source":"You are already invisible, thus you cannot cast again until it expires.","translated":"You are already invisible, thus you cannot cast again until it expires."},"games.eb.spells.invisibility.description":{"id":"games.eb.spells.invisibility.description","source":"Prevents being hit by your enemies for %x% seconds while you are still being able to hit them","translated":"Prevents being hit by your enemies for %x% seconds while you are still being able to hit them"},"games.eb.spells.invisibility.title":{"id":"games.eb.spells.invisibility.title","source":"Invisibility Shield","translated":"Invisibility Shield"},"games.eb.user.hp1":{"id":"games.eb.user.hp1","source":"Health increased","translated":"Health increased"},"games.eb.user.hpinfo":{"id":"games.eb.user.hpinfo","source":"%x% out of %y% health, %z% percent.","translated":"%x% out of %y% health, %z% percent."},"games.eb.user.killed":{"id":"games.eb.user.killed","source":"You have been killed by %x%.","translated":"You have been killed by %x%."},"games.eb.user.levelinfo":{"id":"games.eb.user.levelinfo","source":"You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points.","translated":"You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points."},"games.eb.user.mhreach":{"id":"games.eb.user.mhreach","source":"Maximum health reached","translated":"Maximum health reached"},"games.eb.user.objget":{"id":"games.eb.user.objget","source":"You've gained %x% %y%.","translated":"You've gained %x% %y%."},"games.eb.wep.ammoinfo":{"id":"games.eb.wep.ammoinfo","source":"%a% has %b% out of %c% %d%, remains %e%","translated":"%a% has %b% out of %c% %d%, remains %e%"},"games.eb.wep.gainnew1":{"id":"games.eb.wep.gainnew1","source":"You've gained a new weapon, %x%.","translated":"You've gained a new weapon, %x%."},"games.eb.wep.gainnew2":{"id":"games.eb.wep.gainnew2","source":"You've also gained %x% %y% for this!","translated":"You've also gained %x% %y% for this!"},"games.eb.wep.notammo":{"id":"games.eb.wep.notammo","source":"This weapon does not hold ammo.","translated":"This weapon does not hold ammo."},"general.alreadyrunning":{"id":"general.alreadyrunning","source":"The game is already running!","translated":"The game is already running!"},"general.cannotfindaudio":{"id":"general.cannotfindaudio","source":"Audio file cannot be found.","translated":"Audio file cannot be found."},"general.currently":{"id":"general.currently","source":"Currently %x%","translated":"Currently %x%"},"general.error":{"id":"general.error","source":"Error","translated":"Error"},"general.exiting":{"id":"general.exiting","source":"Exiting...","translated":"Exiting..."},"general.gender.boy":{"id":"general.gender.boy","source":"Male","translated":"Male"},"general.gender.girl":{"id":"general.gender.girl","source":"Female","translated":"Female"},"general.information":{"id":"general.information","source":"Information","translated":"Information"},"general.lastmod":{"id":"general.lastmod","source":"Last updated on %x%.","translated":"Last updated on %x%."},"general.shortcuts.menu.android":{"id":"general.shortcuts.menu.android","source":"Swipe left and right to navigate, double tap with one finger to select, click back button to exit.","translated":"Swipe left and right to navigate, double tap with one finger to select, click back button to exit."},"general.shortcuts.menu.other":{"id":"general.shortcuts.menu.other","source":"Press up and down arrow keys to navigate, enter to select, and Escape to exit.","translated":"Press up and down arrow keys to navigate, enter to select, and Escape to exit."},"general.sounderror":{"id":"general.sounderror","source":"Sound error","translated":"Sound error"},"general.success":{"id":"general.success","source":"Success","translated":"Success"},"general.youhave":{"id":"general.youhave","source":"You have %x% %y%.","translated":"You have %x% %y%."},"hellothere":{"id":"hellothere","source":"Darling, Rose","translated":""},"invalid.gender":{"id":"invalid.gender","source":"Invalid gender!","translated":"Invalid gender!"},"invalid.spt.less":{"id":"invalid.spt.less","source":"Enemy spawn time should be no less than 1 second.","translated":"Enemy spawn time should be no less than 1 second."},"invalid.username":{"id":"invalid.username","source":"Invalid username!","translated":"Invalid username!"},"langupdate.available.description":{"id":"langupdate.available.description","source":"A new update %x% is available for %y% language. Download now? This will open at your default browser.","translated":"A new update %x% is available for %y% language. Download now? This will open at your default browser."},"langupdate.available.no":{"id":"langupdate.available.no","source":"No updates available for %x% language","translated":"No updates available for %x% language"},"langupdate.available.title":{"id":"langupdate.available.title","source":"Language Update Available","translated":"Language Update Available"},"langupdate.canceled":{"id":"langupdate.canceled","source":"Update canceled","translated":"Update canceled"},"langupdate.checking":{"id":"langupdate.checking","source":"Checking for %x% language updates...","translated":"Checking for %x% language updates..."},"langupdate.title":{"id":"langupdate.title","source":"Language Update","translated":"Language Update"},"magic.newspell":{"id":"magic.newspell","source":"You now have the ability to cast %a%, which requires %b% magic energy. %c%.","translated":"You now have the ability to cast %a%, which requires %b% magic energy. %c%."},"menus.dllang.dl":{"id":"menus.dllang.dl","source":"Please download %x% from the browser, then extract it in the lang folder. Press the OK button.","translated":"Please download %x% from the browser, then extract it in the lang folder. Press the OK button."},"menus.dllang.item":{"id":"menus.dllang.item","source":"%x%, by %y%.","translated":"%x%, by %y%."},"menus.dllang.more":{"id":"menus.dllang.more","source":"There are %x% languages available to download","translated":"There are %x% languages available to download"},"menus.dllang.noe":{"id":"menus.dllang.noe","source":"This language %x% does not exist","translated":"This language %x% does not exist"},"menus.dllang.one":{"id":"menus.dllang.one","source":"There is %x% language available to download","translated":"There is %x% language available to download"},"menus.dllang.title":{"id":"menus.dllang.title","source":"Language Downloader","translated":"Language Downloader"},"menus.dllang.zero":{"id":"menus.dllang.zero","source":"There is no available languages to download","translated":"There is no available languages to download"},"menus.games.game.active":{"id":"menus.games.game.active","source":"You're already playing a game.","translated":"You're already playing a game."},"menus.games.invalid.game":{"id":"menus.games.invalid.game","source":"This minigame does not exist.","translated":"This minigame does not exist."},"menus.games.invalid.gender":{"id":"menus.games.invalid.gender","source":"Please set your gender in the settings.","translated":"Please set your gender in the settings."},"menus.games.invalid.gender.android":{"id":"menus.games.invalid.gender.android","source":"Choose a valid gender please.","translated":"Choose a valid gender please."},"menus.games.invalid.name":{"id":"menus.games.invalid.name","source":"Invalid username.","translated":"Invalid username."},"menus.games.quit":{"id":"menus.games.quit","source":"Go Back","translated":"Go Back"},"menus.games.title":{"id":"menus.games.title","source":"Games Menu","translated":"Games Menu"},"menus.lang.already":{"id":"menus.lang.already","source":"You have already set this language.","translated":"You have already set this language."},"menus.lang.current":{"id":"menus.lang.current","source":"Current language","translated":"Current language"},"menus.lang.default":{"id":"menus.lang.default","source":"Default fallback language","translated":"Default fallback language"},"menus.lang.done":{"id":"menus.lang.done","source":"Language has been changed.","translated":"Language has been changed."},"menus.lang.fail":{"id":"menus.lang.fail","source":"Failed to change to this language %x%.","translated":"Failed to change to this language %x%."},"menus.lang.more":{"id":"menus.lang.more","source":"There are %x% languages available","translated":"There are %x% languages available"},"menus.lang.one":{"id":"menus.lang.one","source":"There is %x% language available.","translated":"There is %x% language available."},"menus.lang.title":{"id":"menus.lang.title","source":"Choose a language to use.","translated":"Choose a language to use."},"menus.lang.zero":{"id":"menus.lang.zero","source":"There are no available languages.","translated":"There are no available languages."},"menus.magic.item":{"id":"menus.magic.item","source":"%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.","translated":"%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect."},"menus.magic.title":{"id":"menus.magic.title","source":"With %x% magic energy you can cast %y% spell.","translated":"With %x% magic energy you can cast %y% spell."},"menus.magic.title.plural":{"id":"menus.magic.title.plural","source":"With %x% magic energy you can cast %y% spells.","translated":"With %x% magic energy you can cast %y% spells."},"menus.magic.zero":{"id":"menus.magic.zero","source":"You have no available spells to cast.","translated":"You have no available spells to cast."},"menus.main.dllang":{"id":"menus.main.dllang","source":"Language Downloader","translated":"Language Downloader"},"menus.main.gm":{"id":"menus.main.gm","source":"Games Menu","translated":"Games Menu"},"menus.main.lang":{"id":"menus.main.lang","source":"Change Language (currently %x%)","translated":"Change Language (currently %x%)"},"menus.main.langupdate":{"id":"menus.main.langupdate","source":"Check for Current Language Updates","translated":"Check for Current Language Updates"},"menus.main.quit":{"id":"menus.main.quit","source":"Exit the Game","translated":"Exit the Game"},"menus.main.settings":{"id":"menus.main.settings","source":"Settings and Preferences","translated":"Settings and Preferences"},"menus.main.status":{"id":"menus.main.status","source":"Statistics Menu","translated":"Statistics Menu"},"menus.main.store":{"id":"menus.main.store","source":"Store","translated":"Store"},"menus.main.systeminfo":{"id":"menus.main.systeminfo","source":"Get system information, only needed if you need to provide your system information for example in case of device issue playing the game","translated":"Get system information, only needed if you need to provide your system information for example in case of device issue playing the game"},"menus.main.systeminfo.done":{"id":"menus.main.systeminfo.done","source":"System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue.","translated":"System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue."},"menus.main.test":{"id":"menus.main.test","source":"Test your Speakers","translated":"Test your Speakers"},"menus.main.title":{"id":"menus.main.title","source":"Main Menu.","translated":"Main Menu."},"menus.main.update":{"id":"menus.main.update","source":"Check for Updates","translated":"Check for Updates"},"menus.main.web":{"id":"menus.main.web","source":"Visit Website","translated":"Visit Website"},"menus.main.web.done":{"id":"menus.main.web.done","source":"The website was successfully opened at your browser.","translated":"The website was successfully opened at your browser."},"menus.main.web.fail":{"id":"menus.main.web.fail","source":"Failed to open the website. It is now copied to your clipboard.","translated":"Failed to open the website. It is now copied to your clipboard."},"menus.status.1":{"id":"menus.status.1","source":"You've been executed this game for a total of %x% times.","translated":"You've been executed this game for a total of %x% times."},"menus.status.2":{"id":"menus.status.2","source":"You mostly plaied %x% for %y%.","translated":"You mostly plaied %x% for %y%."},"menus.status.3.more":{"id":"menus.status.3.more","source":"You have plaied a total of %x% games.","translated":"You have plaied a total of %x% games."},"menus.status.3.one":{"id":"menus.status.3.one","source":"You have plaied a total of %x% game.","translated":"You have plaied a total of %x% game."},"menus.status.3.zero":{"id":"menus.status.3.zero","source":"You haven't plaied any games yet.","translated":"You haven't plaied any games yet."},"menus.status.cp":{"id":"menus.status.cp","source":"Copy statistics to clipboard","translated":"Copy statistics to clipboard"},"menus.status.cp.done":{"id":"menus.status.cp.done","source":"Statistics copied to clipboard.","translated":"Statistics copied to clipboard."},"menus.status.cp.fail":{"id":"menus.status.cp.fail","source":"Failed to copy the statistics. This might be because of your clipboard's problem.","translated":"Failed to copy the statistics. This might be because of your clipboard's problem."},"menus.status.title":{"id":"menus.status.title","source":"Statistics","translated":"Statistics"},"menus.store.amount.invalid":{"id":"menus.store.amount.invalid","source":"You must buy at least 1!","translated":"You must buy at least 1!"},"menus.store.amount.less":{"id":"menus.store.amount.less","source":"Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!","translated":"Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!"},"menus.store.buy.canceled":{"id":"menus.store.buy.canceled","source":"Purchase canceled.","translated":"Purchase canceled."},"menus.store.buy.done":{"id":"menus.store.buy.done","source":"You've successfully purchased %a% %b% with %c% %d%.","translated":"You've successfully purchased %a% %b% with %c% %d%."},"menus.store.item":{"id":"menus.store.item","source":"%a%, costs %b% %c%, you can buy %d%","translated":"%a%, costs %b% %c%, you can buy %d%"},"menus.store.item.invalid":{"id":"menus.store.item.invalid","source":"This item does not exist.","translated":"This item does not exist."},"menus.store.title":{"id":"menus.store.title","source":"Store. What would you like to buy?","translated":"Store. What would you like to buy?"},"menus.store.zero":{"id":"menus.store.zero","source":"There are no items to buy.","translated":"There are no items to buy."},"menus.test.correct":{"id":"menus.test.correct","source":"Excellent! : you've got the right position","translated":"Excellent! : you've got the right position"},"menus.test.press":{"id":"menus.test.press","source":"Press the corresponding arrow","translated":"Press the corresponding arrow"},"menus.test.swipe":{"id":"menus.test.swipe","source":"Swipe to the corresponding direction","translated":"Swipe to the corresponding direction"},"menus.test.title":{"id":"menus.test.title","source":"Where is the sound coming from?","translated":"Where is the sound coming from?"},"menus.test.wrong":{"id":"menus.test.wrong","source":"You've got the wrong direction!","translated":"You've got the wrong direction!"},"menus.wpdraw.noe":{"id":"menus.wpdraw.noe","source":"You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist.","translated":"You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist."},"menus.wpdraw.title":{"id":"menus.wpdraw.title","source":"Select the weapon you want to draw.","translated":"Select the weapon you want to draw."},"menus.wpdraw.zero":{"id":"menus.wpdraw.zero","source":"No available weapons that you can draw.","translated":"No available weapons that you can draw."},"rotation.dirinfo":{"id":"rotation.dirinfo","source":"%x% at %y% degrees","translated":"%x% at %y% degrees"},"rotation.east":{"id":"rotation.east","source":"east","translated":"east"},"rotation.north":{"id":"rotation.north","source":"north","translated":"north"},"rotation.northeast":{"id":"rotation.northeast","source":"northeast","translated":"northeast"},"rotation.northwest":{"id":"rotation.northwest","source":"northwest","translated":"northwest"},"rotation.south":{"id":"rotation.south","source":"south","translated":"south"},"rotation.southeast":{"id":"rotation.southeast","source":"southeast","translated":"southeast"},"rotation.southwest":{"id":"rotation.southwest","source":"southwest","translated":"southwest"},"rotation.west":{"id":"rotation.west","source":"west","translated":"west"},"settings.ctrl.gender":{"id":"settings.ctrl.gender","source":"Gender","translated":"Gender"},"settings.ctrl.gender.set":{"id":"settings.ctrl.gender.set","source":"Gender successfully set.","translated":"Gender successfully set."},"settings.ctrl.ils":{"id":"settings.ctrl.ils","source":"Play item loop sound","translated":"Play item loop sound"},"settings.ctrl.input":{"id":"settings.ctrl.input","source":"Input device","translated":"Input device"},"settings.ctrl.interrupt":{"id":"settings.ctrl.interrupt","source":"Screen reader interrupting","translated":"Screen reader interrupting"},"settings.ctrl.mmusic":{"id":"settings.ctrl.mmusic","source":"Menu music","translated":"Menu music"},"settings.ctrl.output":{"id":"settings.ctrl.output","source":"Output device","translated":"Output device"},"settings.ctrl.path":{"id":"settings.ctrl.path","source":"Data path","translated":"Data path"},"settings.ctrl.reset":{"id":"settings.ctrl.reset","source":"Reset game data to its factory default","translated":"Reset game data to its factory default"},"settings.ctrl.save":{"id":"settings.ctrl.save","source":"&Save options","translated":"&Save options"},"settings.ctrl.spt":{"id":"settings.ctrl.spt","source":"Enemy spawn time (in seconds)","translated":"Enemy spawn time (in seconds)"},"settings.ctrl.username":{"id":"settings.ctrl.username","source":"Username","translated":"Username"},"settings.reset.description":{"id":"settings.reset.description","source":"Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!","translated":"Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!"},"settings.reset.done":{"id":"settings.reset.done","source":"All data has been cleared","translated":"All data has been cleared"},"settings.reset.title":{"id":"settings.reset.title","source":"Reset","translated":"Reset"},"settings.saved":{"id":"settings.saved","source":"Options saved","translated":"Options saved"},"settings.title":{"id":"settings.title","source":"Settings","translated":"Settings"},"spells.mgei.already_active":{"id":"spells.mgei.already_active","source":"This spell is already active.","translated":"This spell is already active."},"spells.mgei.description":{"id":"spells.mgei.description","source":"Increases magic energy %x% times faster for %y% seconds","translated":"Increases magic energy %x% times faster for %y% seconds"},"spells.mgei.expired":{"id":"spells.mgei.expired","source":"Your Trophy Energy spell has expired.","translated":"Your Trophy Energy spell has expired."},"spells.mgei.title":{"id":"spells.mgei.title","source":"Trophy Energy","translated":"Trophy Energy"},"update.available.description":{"id":"update.available.description","source":"A new update %x% (build %y%) is available. Download now? This will open at your default browser.","translated":"A new update %x% (build %y%) is available. Download now? This will open at your default browser."},"update.available.no":{"id":"update.available.no","source":"No updates available","translated":"No updates available"},"update.available.title":{"id":"update.available.title","source":"Update Available","translated":"Update Available"},"update.canceled":{"id":"update.canceled","source":"Update canceled","translated":"Update canceled"},"update.checking":{"id":"update.checking","source":"Checking for updates. Please wait...","translated":"Checking for updates. Please wait..."},"update.title":{"id":"update.title","source":"Update","translated":"Update"}}}
+{
+  "code": "en",
+  "config": {
+    "lastmod": "2025-04-26T23:34:18+06:30",
+    "name": "English"
+  },
+  "keys": {
+    "games.archery.done": {
+      "id": "games.archery.done",
+      "source": "Game finished.",
+      "translated": "Game finished."
+    },
+    "games.archery.fail": {
+      "id": "games.archery.fail",
+      "source": "Sorry, you have lost the game.",
+      "translated": "Sorry, you have lost the game."
+    },
+    "games.archery.get": {
+      "id": "games.archery.get",
+      "source": "You've gained %x% %y%. Congratulations!",
+      "translated": "You've gained %x% %y%. Congratulations!"
+    },
+    "games.archery.life": {
+      "id": "games.archery.life",
+      "source": "You have %x% shots left.",
+      "translated": "You have %x% shots left."
+    },
+    "games.archery.missed": {
+      "id": "games.archery.missed",
+      "source": "You missed.",
+      "translated": "You missed."
+    },
+    "games.archery.points": {
+      "id": "games.archery.points",
+      "source": "You have %x% points.",
+      "translated": "You have %x% points."
+    },
+    "games.archery.started": {
+      "id": "games.archery.started",
+      "source": "Round %x%. You need %y% points this round. You have %z% shots left.",
+      "translated": "Round %x%. You need %y% points this round. You have %z% shots left."
+    },
+    "games.archery.success": {
+      "id": "games.archery.success",
+      "source": "You've won this round!",
+      "translated": "You've won this round!"
+    },
+    "games.archery.title": {
+      "id": "games.archery.title",
+      "source": "Archery",
+      "translated": "Archery"
+    },
+    "games.archery.tpoints": {
+      "id": "games.archery.tpoints",
+      "source": "Total score: %x% points.",
+      "translated": "Total score: %x% points."
+    },
+    "games.bj.bet.done": {
+      "id": "games.bj.bet.done",
+      "source": "Changed bet successfully!",
+      "translated": "Changed bet successfully!"
+    },
+    "games.bj.bet.max": {
+      "id": "games.bj.bet.max",
+      "source": "Error. You can't bet more than what you currently have, maximum %x% %y%.",
+      "translated": "Error. You can't bet more than what you currently have, maximum %x% %y%."
+    },
+    "games.bj.bet.prompt": {
+      "id": "games.bj.bet.prompt",
+      "source": "Type the amount you want to bet",
+      "translated": "Type the amount you want to bet"
+    },
+    "games.bj.bet.title": {
+      "id": "games.bj.bet.title",
+      "source": "Amount",
+      "translated": "Amount"
+    },
+    "games.bj.ctc": {
+      "id": "games.bj.ctc",
+      "source": "Computer's total cards is %x%, which makes it %y%.",
+      "translated": "Computer's total cards is %x%, which makes it %y%."
+    },
+    "games.bj.ctrl.bc": {
+      "id": "games.bj.ctrl.bc",
+      "source": "Change bet button",
+      "translated": "Change bet button"
+    },
+    "games.bj.ctrl.hit": {
+      "id": "games.bj.ctrl.hit",
+      "source": "Hit new card button",
+      "translated": "Hit new card button"
+    },
+    "games.bj.ctrl.hit.press": {
+      "id": "games.bj.ctrl.hit.press",
+      "source": "Hits %x%",
+      "translated": "Hits %x%"
+    },
+    "games.bj.ctrl.new": {
+      "id": "games.bj.ctrl.new",
+      "source": "New button",
+      "translated": "New button"
+    },
+    "games.bj.ctrl.new.press": {
+      "id": "games.bj.ctrl.new.press",
+      "source": "New game started.",
+      "translated": "New game started."
+    },
+    "games.bj.ctrl.stand": {
+      "id": "games.bj.ctrl.stand",
+      "source": "Stand the Blackjack button",
+      "translated": "Stand the Blackjack button"
+    },
+    "games.bj.ctrl.stand.press": {
+      "id": "games.bj.ctrl.stand.press",
+      "source": "Standed!",
+      "translated": "Standed!"
+    },
+    "games.bj.draw": {
+      "id": "games.bj.draw",
+      "source": "It's a draw!",
+      "translated": "It's a draw!"
+    },
+    "games.bj.finished": {
+      "id": "games.bj.finished",
+      "source": "Game finished.",
+      "translated": "Game finished."
+    },
+    "games.bj.have.bet": {
+      "id": "games.bj.have.bet",
+      "source": "Bet, currently %x% %y%.",
+      "translated": "Bet, currently %x% %y%."
+    },
+    "games.bj.have.bj": {
+      "id": "games.bj.have.bj",
+      "source": "Good, you have a blackjack!",
+      "translated": "Good, you have a blackjack!"
+    },
+    "games.bj.have.currency": {
+      "id": "games.bj.have.currency",
+      "source": "You currently have %x% %y%.",
+      "translated": "You currently have %x% %y%."
+    },
+    "games.bj.info": {
+      "id": "games.bj.info",
+      "source": "%x%; making %y%.",
+      "translated": "%x%; making %y%."
+    },
+    "games.bj.losec": {
+      "id": "games.bj.losec",
+      "source": "You've lost %x% %y%!",
+      "translated": "You've lost %x% %y%!"
+    },
+    "games.bj.nc": {
+      "id": "games.bj.nc",
+      "source": "No cards",
+      "translated": "No cards"
+    },
+    "games.bj.no.currency": {
+      "id": "games.bj.no.currency",
+      "source": "Sorry, you don't have enough %x% that you are currently bet. You only have %y% %x%.",
+      "translated": "Sorry, you don't have enough %x% that you are currently bet. You only have %y% %x%."
+    },
+    "games.bj.quit.finish": {
+      "id": "games.bj.quit.finish",
+      "source": "Finish the current game first to be able to quit.",
+      "translated": "Finish the current game first to be able to quit."
+    },
+    "games.bj.start": {
+      "id": "games.bj.start",
+      "source": "Game started.",
+      "translated": "Game started."
+    },
+    "games.bj.title": {
+      "id": "games.bj.title",
+      "source": "Blackjack",
+      "translated": "Blackjack"
+    },
+    "games.bj.total.card": {
+      "id": "games.bj.total.card",
+      "source": "Total cards, %x%.",
+      "translated": "Total cards, %x%."
+    },
+    "games.bj.total.num": {
+      "id": "games.bj.total.num",
+      "source": "Total numbers, %x%.",
+      "translated": "Total numbers, %x%."
+    },
+    "games.bj.win_no": {
+      "id": "games.bj.win_no",
+      "source": "No one wins the game!",
+      "translated": "No one wins the game!"
+    },
+    "games.bj.winc": {
+      "id": "games.bj.winc",
+      "source": "You've won %x% %y%.",
+      "translated": "You've won %x% %y%."
+    },
+    "games.bj.winother": {
+      "id": "games.bj.winother",
+      "source": "Computer wins the game!",
+      "translated": "Computer wins the game!"
+    },
+    "games.bj.winyou": {
+      "id": "games.bj.winyou",
+      "source": "You win the game!",
+      "translated": "You win the game!"
+    },
+    "games.bj.yca": {
+      "id": "games.bj.yca",
+      "source": "Your cards are:",
+      "translated": "Your cards are:"
+    },
+    "games.bj.ytc": {
+      "id": "games.bj.ytc",
+      "source": "Your total cards is %x%, which makes it %y%.",
+      "translated": "Your total cards is %x%, which makes it %y%."
+    },
+    "games.dm.gain": {
+      "id": "games.dm.gain",
+      "source": "You've earned %x% %y%!",
+      "translated": "You've earned %x% %y%!"
+    },
+    "games.dm.nogain": {
+      "id": "games.dm.nogain",
+      "source": "Oh no! You've lost %x% %y%!",
+      "translated": "Oh no! You've lost %x% %y%!"
+    },
+    "games.dm.started": {
+      "id": "games.dm.started",
+      "source": "Game started.",
+      "translated": "Game started."
+    },
+    "games.dm.title": {
+      "id": "games.dm.title",
+      "source": "Dice Match",
+      "translated": "Dice Match"
+    },
+    "games.eb.general.title": {
+      "id": "games.eb.general.title",
+      "source": "Endless Battle",
+      "translated": "Endless Battle"
+    },
+    "games.eb.magic.e_invisible": {
+      "id": "games.eb.magic.e_invisible",
+      "source": "Your invisibility spell has expired.",
+      "translated": "Your invisibility spell has expired."
+    },
+    "games.eb.spells.block.description": {
+      "id": "games.eb.spells.block.description",
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
+      "translated": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them"
+    },
+    "games.eb.spells.block.title": {
+      "id": "games.eb.spells.block.title",
+      "source": "Movements Block",
+      "translated": "Movements Block"
+    },
+    "games.eb.spells.death.description": {
+      "id": "games.eb.spells.death.description",
+      "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
+      "translated": "Instantly kills all enemies surrounding you, that are within %x% tiles"
+    },
+    "games.eb.spells.death.title": {
+      "id": "games.eb.spells.death.title",
+      "source": "Instant Kill",
+      "translated": "Instant Kill"
+    },
+    "games.eb.spells.flame.description": {
+      "id": "games.eb.spells.flame.description",
+      "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health as they are burned",
+      "translated": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health as they are burned"
+    },
+    "games.eb.spells.flame.title": {
+      "id": "games.eb.spells.flame.title",
+      "source": "Flame",
+      "translated": "Flame"
+    },
+    "games.eb.spells.heal.description": {
+      "id": "games.eb.spells.heal.description",
+      "source": "Heal yourself to the maximum possible health",
+      "translated": "Heal yourself to the maximum possible health"
+    },
+    "games.eb.spells.heal.title": {
+      "id": "games.eb.spells.heal.title",
+      "source": "Vitality Surge",
+      "translated": "Vitality Surge"
+    },
+    "games.eb.spells.invisibility.already_active": {
+      "id": "games.eb.spells.invisibility.already_active",
+      "source": "You are already invisible, thus you cannot cast again until it expires.",
+      "translated": "You are already invisible, thus you cannot cast again until it expires."
+    },
+    "games.eb.spells.invisibility.description": {
+      "id": "games.eb.spells.invisibility.description",
+      "source": "Prevents being hit by your enemies for %x% seconds while you are still being able to hit them",
+      "translated": "Prevents being hit by your enemies for %x% seconds while you are still being able to hit them"
+    },
+    "games.eb.spells.invisibility.title": {
+      "id": "games.eb.spells.invisibility.title",
+      "source": "Invisibility Shield",
+      "translated": "Invisibility Shield"
+    },
+    "games.eb.user.hp1": {
+      "id": "games.eb.user.hp1",
+      "source": "Health increased",
+      "translated": "Health increased"
+    },
+    "games.eb.user.hpinfo": {
+      "id": "games.eb.user.hpinfo",
+      "source": "%x% out of %y% health, %z% percent.",
+      "translated": "%x% out of %y% health, %z% percent."
+    },
+    "games.eb.user.killed": {
+      "id": "games.eb.user.killed",
+      "source": "You have been killed by %x%.",
+      "translated": "You have been killed by %x%."
+    },
+    "games.eb.user.levelinfo": {
+      "id": "games.eb.user.levelinfo",
+      "source": "You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points.",
+      "translated": "You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points."
+    },
+    "games.eb.user.mhreach": {
+      "id": "games.eb.user.mhreach",
+      "source": "Maximum health reached",
+      "translated": "Maximum health reached"
+    },
+    "games.eb.user.objget": {
+      "id": "games.eb.user.objget",
+      "source": "You've gained %x% %y%.",
+      "translated": "You've gained %x% %y%."
+    },
+    "games.eb.wep.ammoinfo": {
+      "id": "games.eb.wep.ammoinfo",
+      "source": "%a% has %b% out of %c% %d%, remains %e%",
+      "translated": "%a% has %b% out of %c% %d%, remains %e%"
+    },
+    "games.eb.wep.gainnew1": {
+      "id": "games.eb.wep.gainnew1",
+      "source": "You've gained a new weapon, %x%.",
+      "translated": "You've gained a new weapon, %x%."
+    },
+    "games.eb.wep.gainnew2": {
+      "id": "games.eb.wep.gainnew2",
+      "source": "You've also gained %x% %y% for this!",
+      "translated": "You've also gained %x% %y% for this!"
+    },
+    "games.eb.wep.notammo": {
+      "id": "games.eb.wep.notammo",
+      "source": "This weapon does not hold ammo.",
+      "translated": "This weapon does not hold ammo."
+    },
+    "general.alreadyrunning": {
+      "id": "general.alreadyrunning",
+      "source": "The game is already running!",
+      "translated": "The game is already running!"
+    },
+    "general.cannotfindaudio": {
+      "id": "general.cannotfindaudio",
+      "source": "Audio file cannot be found.",
+      "translated": "Audio file cannot be found."
+    },
+    "general.currently": {
+      "id": "general.currently",
+      "source": "Currently %x%",
+      "translated": "Currently %x%"
+    },
+    "general.error": {
+      "id": "general.error",
+      "source": "Error",
+      "translated": "Error"
+    },
+    "general.exiting": {
+      "id": "general.exiting",
+      "source": "Exiting...",
+      "translated": "Exiting..."
+    },
+    "general.gender.boy": {
+      "id": "general.gender.boy",
+      "source": "Male",
+      "translated": "Male"
+    },
+    "general.gender.girl": {
+      "id": "general.gender.girl",
+      "source": "Female",
+      "translated": "Female"
+    },
+    "general.information": {
+      "id": "general.information",
+      "source": "Information",
+      "translated": "Information"
+    },
+    "general.lastmod": {
+      "id": "general.lastmod",
+      "source": "Last updated on %x%.",
+      "translated": "Last updated on %x%."
+    },
+    "general.shortcuts.menu.android": {
+      "id": "general.shortcuts.menu.android",
+      "source": "Swipe left and right to navigate, double tap with one finger to select, click back button to exit.",
+      "translated": "Swipe left and right to navigate, double tap with one finger to select, click back button to exit."
+    },
+    "general.shortcuts.menu.other": {
+      "id": "general.shortcuts.menu.other",
+      "source": "Press up and down arrow keys to navigate, enter to select, and Escape to exit.",
+      "translated": "Press up and down arrow keys to navigate, enter to select, and Escape to exit."
+    },
+    "general.sounderror": {
+      "id": "general.sounderror",
+      "source": "Sound error",
+      "translated": "Sound error"
+    },
+    "general.success": {
+      "id": "general.success",
+      "source": "Success",
+      "translated": "Success"
+    },
+    "general.youhave": {
+      "id": "general.youhave",
+      "source": "You have %x% %y%.",
+      "translated": "You have %x% %y%."
+    },
+    "invalid.gender": {
+      "id": "invalid.gender",
+      "source": "Invalid gender!",
+      "translated": "Invalid gender!"
+    },
+    "invalid.spt.less": {
+      "id": "invalid.spt.less",
+      "source": "Enemy spawn time should be no less than 1 second.",
+      "translated": "Enemy spawn time should be no less than 1 second."
+    },
+    "invalid.username": {
+      "id": "invalid.username",
+      "source": "Invalid username!",
+      "translated": "Invalid username!"
+    },
+    "langupdate.available.description": {
+      "id": "langupdate.available.description",
+      "source": "A new update %x% is available for %y% language. Download now? This will open at your default browser.",
+      "translated": "A new update %x% is available for %y% language. Download now? This will open at your default browser."
+    },
+    "langupdate.available.no": {
+      "id": "langupdate.available.no",
+      "source": "No updates available for %x% language",
+      "translated": "No updates available for %x% language"
+    },
+    "langupdate.available.title": {
+      "id": "langupdate.available.title",
+      "source": "Language Update Available",
+      "translated": "Language Update Available"
+    },
+    "langupdate.canceled": {
+      "id": "langupdate.canceled",
+      "source": "Update canceled",
+      "translated": "Update canceled"
+    },
+    "langupdate.checking": {
+      "id": "langupdate.checking",
+      "source": "Checking for %x% language updates...",
+      "translated": "Checking for %x% language updates..."
+    },
+    "langupdate.title": {
+      "id": "langupdate.title",
+      "source": "Language Update",
+      "translated": "Language Update"
+    },
+    "magic.newspell": {
+      "id": "magic.newspell",
+      "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
+      "translated": "You now have the ability to cast %a%, which requires %b% magic energy. %c%."
+    },
+    "menus.dllang.dl": {
+      "id": "menus.dllang.dl",
+      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "translated": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button."
+    },
+    "menus.dllang.item": {
+      "id": "menus.dllang.item",
+      "source": "%x%, by %y%.",
+      "translated": "%x%, by %y%."
+    },
+    "menus.dllang.more": {
+      "id": "menus.dllang.more",
+      "source": "There are %x% languages available to download",
+      "translated": "There are %x% languages available to download"
+    },
+    "menus.dllang.noe": {
+      "id": "menus.dllang.noe",
+      "source": "This language %x% does not exist",
+      "translated": "This language %x% does not exist"
+    },
+    "menus.dllang.one": {
+      "id": "menus.dllang.one",
+      "source": "There is %x% language available to download",
+      "translated": "There is %x% language available to download"
+    },
+    "menus.dllang.title": {
+      "id": "menus.dllang.title",
+      "source": "Language Downloader",
+      "translated": "Language Downloader"
+    },
+    "menus.dllang.zero": {
+      "id": "menus.dllang.zero",
+      "source": "There is no available languages to download",
+      "translated": "There is no available languages to download"
+    },
+    "menus.games.game.active": {
+      "id": "menus.games.game.active",
+      "source": "You're already playing a game.",
+      "translated": "You're already playing a game."
+    },
+    "menus.games.invalid.game": {
+      "id": "menus.games.invalid.game",
+      "source": "This minigame does not exist.",
+      "translated": "This minigame does not exist."
+    },
+    "menus.games.invalid.gender": {
+      "id": "menus.games.invalid.gender",
+      "source": "Please set your gender in the settings.",
+      "translated": "Please set your gender in the settings."
+    },
+    "menus.games.invalid.gender.android": {
+      "id": "menus.games.invalid.gender.android",
+      "source": "Choose a valid gender please.",
+      "translated": "Choose a valid gender please."
+    },
+    "menus.games.invalid.name": {
+      "id": "menus.games.invalid.name",
+      "source": "Invalid username.",
+      "translated": "Invalid username."
+    },
+    "menus.games.quit": {
+      "id": "menus.games.quit",
+      "source": "Go Back",
+      "translated": "Go Back"
+    },
+    "menus.games.title": {
+      "id": "menus.games.title",
+      "source": "Games Menu",
+      "translated": "Games Menu"
+    },
+    "menus.lang.already": {
+      "id": "menus.lang.already",
+      "source": "You have already set this language.",
+      "translated": "You have already set this language."
+    },
+    "menus.lang.current": {
+      "id": "menus.lang.current",
+      "source": "Current language",
+      "translated": "Current language"
+    },
+    "menus.lang.default": {
+      "id": "menus.lang.default",
+      "source": "Default fallback language",
+      "translated": "Default fallback language"
+    },
+    "menus.lang.done": {
+      "id": "menus.lang.done",
+      "source": "Language has been changed.",
+      "translated": "Language has been changed."
+    },
+    "menus.lang.fail": {
+      "id": "menus.lang.fail",
+      "source": "Failed to change to this language %x%.",
+      "translated": "Failed to change to this language %x%."
+    },
+    "menus.lang.more": {
+      "id": "menus.lang.more",
+      "source": "There are %x% languages available",
+      "translated": "There are %x% languages available"
+    },
+    "menus.lang.one": {
+      "id": "menus.lang.one",
+      "source": "There is %x% language available.",
+      "translated": "There is %x% language available."
+    },
+    "menus.lang.title": {
+      "id": "menus.lang.title",
+      "source": "Choose a language to use.",
+      "translated": "Choose a language to use."
+    },
+    "menus.lang.zero": {
+      "id": "menus.lang.zero",
+      "source": "There are no available languages.",
+      "translated": "There are no available languages."
+    },
+    "menus.magic.item": {
+      "id": "menus.magic.item",
+      "source": "%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.",
+      "translated": "%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect."
+    },
+    "menus.magic.title": {
+      "id": "menus.magic.title",
+      "source": "With %x% magic energy you can cast %y% spell.",
+      "translated": "With %x% magic energy you can cast %y% spell."
+    },
+    "menus.magic.title.plural": {
+      "id": "menus.magic.title.plural",
+      "source": "With %x% magic energy you can cast %y% spells.",
+      "translated": "With %x% magic energy you can cast %y% spells."
+    },
+    "menus.magic.zero": {
+      "id": "menus.magic.zero",
+      "source": "You have no available spells to cast.",
+      "translated": "You have no available spells to cast."
+    },
+    "menus.main.dllang": {
+      "id": "menus.main.dllang",
+      "source": "Language Downloader",
+      "translated": "Language Downloader"
+    },
+    "menus.main.gm": {
+      "id": "menus.main.gm",
+      "source": "Games Menu",
+      "translated": "Games Menu"
+    },
+    "menus.main.lang": {
+      "id": "menus.main.lang",
+      "source": "Change Language (currently %x%)",
+      "translated": "Change Language (currently %x%)"
+    },
+    "menus.main.langupdate": {
+      "id": "menus.main.langupdate",
+      "source": "Check for Current Language Updates",
+      "translated": "Check for Current Language Updates"
+    },
+    "menus.main.quit": {
+      "id": "menus.main.quit",
+      "source": "Exit the Game",
+      "translated": "Exit the Game"
+    },
+    "menus.main.settings": {
+      "id": "menus.main.settings",
+      "source": "Settings and Preferences",
+      "translated": "Settings and Preferences"
+    },
+    "menus.main.status": {
+      "id": "menus.main.status",
+      "source": "Statistics Menu",
+      "translated": "Statistics Menu"
+    },
+    "menus.main.store": {
+      "id": "menus.main.store",
+      "source": "Store",
+      "translated": "Store"
+    },
+    "menus.main.systeminfo": {
+      "id": "menus.main.systeminfo",
+      "source": "Get system information, only needed if you need to provide your system information for example in case of device issue playing the game",
+      "translated": "Get system information, only needed if you need to provide your system information for example in case of device issue playing the game"
+    },
+    "menus.main.systeminfo.done": {
+      "id": "menus.main.systeminfo.done",
+      "source": "System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue.",
+      "translated": "System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue."
+    },
+    "menus.main.test": {
+      "id": "menus.main.test",
+      "source": "Test your Speakers",
+      "translated": "Test your Speakers"
+    },
+    "menus.main.title": {
+      "id": "menus.main.title",
+      "source": "Main Menu.",
+      "translated": "Main Menu."
+    },
+    "menus.main.update": {
+      "id": "menus.main.update",
+      "source": "Check for Updates",
+      "translated": "Check for Updates"
+    },
+    "menus.main.web": {
+      "id": "menus.main.web",
+      "source": "Visit Website",
+      "translated": "Visit Website"
+    },
+    "menus.main.web.done": {
+      "id": "menus.main.web.done",
+      "source": "The website was successfully opened at your browser.",
+      "translated": "The website was successfully opened at your browser."
+    },
+    "menus.main.web.fail": {
+      "id": "menus.main.web.fail",
+      "source": "Failed to open the website. It is now copied to your clipboard.",
+      "translated": "Failed to open the website. It is now copied to your clipboard."
+    },
+    "menus.status.1": {
+      "id": "menus.status.1",
+      "source": "You've been executed this game for a total of %x% times.",
+      "translated": "You've been executed this game for a total of %x% times."
+    },
+    "menus.status.2": {
+      "id": "menus.status.2",
+      "source": "You mostly plaied %x% for %y%.",
+      "translated": "You mostly plaied %x% for %y%."
+    },
+    "menus.status.3.more": {
+      "id": "menus.status.3.more",
+      "source": "You have plaied a total of %x% games.",
+      "translated": "You have plaied a total of %x% games."
+    },
+    "menus.status.3.one": {
+      "id": "menus.status.3.one",
+      "source": "You have plaied a total of %x% game.",
+      "translated": "You have plaied a total of %x% game."
+    },
+    "menus.status.3.zero": {
+      "id": "menus.status.3.zero",
+      "source": "You haven't plaied any games yet.",
+      "translated": "You haven't plaied any games yet."
+    },
+    "menus.status.cp": {
+      "id": "menus.status.cp",
+      "source": "Copy statistics to clipboard",
+      "translated": "Copy statistics to clipboard"
+    },
+    "menus.status.cp.done": {
+      "id": "menus.status.cp.done",
+      "source": "Statistics copied to clipboard.",
+      "translated": "Statistics copied to clipboard."
+    },
+    "menus.status.cp.fail": {
+      "id": "menus.status.cp.fail",
+      "source": "Failed to copy the statistics. This might be because of your clipboard's problem.",
+      "translated": "Failed to copy the statistics. This might be because of your clipboard's problem."
+    },
+    "menus.status.title": {
+      "id": "menus.status.title",
+      "source": "Statistics",
+      "translated": "Statistics"
+    },
+    "menus.store.amount.invalid": {
+      "id": "menus.store.amount.invalid",
+      "source": "You must buy at least 1!",
+      "translated": "You must buy at least 1!"
+    },
+    "menus.store.amount.less": {
+      "id": "menus.store.amount.less",
+      "source": "Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!",
+      "translated": "Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!"
+    },
+    "menus.store.buy.canceled": {
+      "id": "menus.store.buy.canceled",
+      "source": "Purchase canceled.",
+      "translated": "Purchase canceled."
+    },
+    "menus.store.buy.done": {
+      "id": "menus.store.buy.done",
+      "source": "You've successfully purchased %a% %b% with %c% %d%.",
+      "translated": "You've successfully purchased %a% %b% with %c% %d%."
+    },
+    "menus.store.item": {
+      "id": "menus.store.item",
+      "source": "%a%, costs %b% %c%, you can buy %d%",
+      "translated": "%a%, costs %b% %c%, you can buy %d%"
+    },
+    "menus.store.item.invalid": {
+      "id": "menus.store.item.invalid",
+      "source": "This item does not exist.",
+      "translated": "This item does not exist."
+    },
+    "menus.store.title": {
+      "id": "menus.store.title",
+      "source": "Store. What would you like to buy?",
+      "translated": "Store. What would you like to buy?"
+    },
+    "menus.store.zero": {
+      "id": "menus.store.zero",
+      "source": "There are no items to buy.",
+      "translated": "There are no items to buy."
+    },
+    "menus.test.correct": {
+      "id": "menus.test.correct",
+      "source": "Excellent! : you've got the right position",
+      "translated": "Excellent! : you've got the right position"
+    },
+    "menus.test.press": {
+      "id": "menus.test.press",
+      "source": "Press the corresponding arrow",
+      "translated": "Press the corresponding arrow"
+    },
+    "menus.test.swipe": {
+      "id": "menus.test.swipe",
+      "source": "Swipe to the corresponding direction",
+      "translated": "Swipe to the corresponding direction"
+    },
+    "menus.test.title": {
+      "id": "menus.test.title",
+      "source": "Where is the sound coming from?",
+      "translated": "Where is the sound coming from?"
+    },
+    "menus.test.wrong": {
+      "id": "menus.test.wrong",
+      "source": "You've got the wrong direction!",
+      "translated": "You've got the wrong direction!"
+    },
+    "menus.wpdraw.noe": {
+      "id": "menus.wpdraw.noe",
+      "source": "You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist.",
+      "translated": "You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist."
+    },
+    "menus.wpdraw.title": {
+      "id": "menus.wpdraw.title",
+      "source": "Select the weapon you want to draw.",
+      "translated": "Select the weapon you want to draw."
+    },
+    "menus.wpdraw.zero": {
+      "id": "menus.wpdraw.zero",
+      "source": "No available weapons that you can draw.",
+      "translated": "No available weapons that you can draw."
+    },
+    "rotation.dirinfo": {
+      "id": "rotation.dirinfo",
+      "source": "%x% at %y% degrees",
+      "translated": "%x% at %y% degrees"
+    },
+    "rotation.east": {
+      "id": "rotation.east",
+      "source": "east",
+      "translated": "east"
+    },
+    "rotation.north": {
+      "id": "rotation.north",
+      "source": "north",
+      "translated": "north"
+    },
+    "rotation.northeast": {
+      "id": "rotation.northeast",
+      "source": "northeast",
+      "translated": "northeast"
+    },
+    "rotation.northwest": {
+      "id": "rotation.northwest",
+      "source": "northwest",
+      "translated": "northwest"
+    },
+    "rotation.south": {
+      "id": "rotation.south",
+      "source": "south",
+      "translated": "south"
+    },
+    "rotation.southeast": {
+      "id": "rotation.southeast",
+      "source": "southeast",
+      "translated": "southeast"
+    },
+    "rotation.southwest": {
+      "id": "rotation.southwest",
+      "source": "southwest",
+      "translated": "southwest"
+    },
+    "rotation.west": {
+      "id": "rotation.west",
+      "source": "west",
+      "translated": "west"
+    },
+    "settings.ctrl.gender": {
+      "id": "settings.ctrl.gender",
+      "source": "Gender",
+      "translated": "Gender"
+    },
+    "settings.ctrl.gender.set": {
+      "id": "settings.ctrl.gender.set",
+      "source": "Gender successfully set.",
+      "translated": "Gender successfully set."
+    },
+    "settings.ctrl.ils": {
+      "id": "settings.ctrl.ils",
+      "source": "Play item loop sound",
+      "translated": "Play item loop sound"
+    },
+    "settings.ctrl.input": {
+      "id": "settings.ctrl.input",
+      "source": "Input device",
+      "translated": "Input device"
+    },
+    "settings.ctrl.interrupt": {
+      "id": "settings.ctrl.interrupt",
+      "source": "Screen reader interrupting",
+      "translated": "Screen reader interrupting"
+    },
+    "settings.ctrl.mmusic": {
+      "id": "settings.ctrl.mmusic",
+      "source": "Menu music",
+      "translated": "Menu music"
+    },
+    "settings.ctrl.output": {
+      "id": "settings.ctrl.output",
+      "source": "Output device",
+      "translated": "Output device"
+    },
+    "settings.ctrl.path": {
+      "id": "settings.ctrl.path",
+      "source": "Data path",
+      "translated": "Data path"
+    },
+    "settings.ctrl.reset": {
+      "id": "settings.ctrl.reset",
+      "source": "Reset game data to its factory default",
+      "translated": "Reset game data to its factory default"
+    },
+    "settings.ctrl.save": {
+      "id": "settings.ctrl.save",
+      "source": "&Save options",
+      "translated": "&Save options"
+    },
+    "settings.ctrl.spt": {
+      "id": "settings.ctrl.spt",
+      "source": "Enemy spawn time (in seconds)",
+      "translated": "Enemy spawn time (in seconds)"
+    },
+    "settings.ctrl.username": {
+      "id": "settings.ctrl.username",
+      "source": "Username",
+      "translated": "Username"
+    },
+    "settings.reset.description": {
+      "id": "settings.reset.description",
+      "source": "Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!",
+      "translated": "Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!"
+    },
+    "settings.reset.done": {
+      "id": "settings.reset.done",
+      "source": "All data has been cleared",
+      "translated": "All data has been cleared"
+    },
+    "settings.reset.title": {
+      "id": "settings.reset.title",
+      "source": "Reset",
+      "translated": "Reset"
+    },
+    "settings.saved": {
+      "id": "settings.saved",
+      "source": "Options saved",
+      "translated": "Options saved"
+    },
+    "settings.title": {
+      "id": "settings.title",
+      "source": "Settings",
+      "translated": "Settings"
+    },
+    "spells.mgei.already_active": {
+      "id": "spells.mgei.already_active",
+      "source": "This spell is already active.",
+      "translated": "This spell is already active."
+    },
+    "spells.mgei.description": {
+      "id": "spells.mgei.description",
+      "source": "Increases magic energy %x% times faster for %y% seconds",
+      "translated": "Increases magic energy %x% times faster for %y% seconds"
+    },
+    "spells.mgei.expired": {
+      "id": "spells.mgei.expired",
+      "source": "Your Trophy Energy spell has expired.",
+      "translated": "Your Trophy Energy spell has expired."
+    },
+    "spells.mgei.title": {
+      "id": "spells.mgei.title",
+      "source": "Trophy Energy",
+      "translated": "Trophy Energy"
+    },
+    "update.available.description": {
+      "id": "update.available.description",
+      "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
+      "translated": "A new update %x% (build %y%) is available. Download now? This will open at your default browser."
+    },
+    "update.available.no": {
+      "id": "update.available.no",
+      "source": "No updates available",
+      "translated": "No updates available"
+    },
+    "update.available.title": {
+      "id": "update.available.title",
+      "source": "Update Available",
+      "translated": "Update Available"
+    },
+    "update.canceled": {
+      "id": "update.canceled",
+      "source": "Update canceled",
+      "translated": "Update canceled"
+    },
+    "update.checking": {
+      "id": "update.checking",
+      "source": "Checking for updates. Please wait...",
+      "translated": "Checking for updates. Please wait..."
+    },
+    "update.title": {
+      "id": "update.title",
+      "source": "Update",
+      "translated": "Update"
+    }
+  }
+}

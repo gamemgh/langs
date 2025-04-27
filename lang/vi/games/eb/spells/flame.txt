@@ -1,2 +1,0 @@
-title=Thiêu Đốt
-description=Thiêu đốt kẻ thù xung quanh trong phạm vi %x% ô bằng lửa, làm giảm máu của chúng

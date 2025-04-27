@@ -1,4 +1,0 @@
-title=Partida de dados
-started=Jogo iniciado.
-gain=Você ganhou %x% %y%!
-nogain=Oh não! Você perdeu %x% %y%!

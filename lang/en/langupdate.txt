@@ -1,6 +1,0 @@
-title=Language Update
-checking=Checking for %x% language updates...
-available.title=Language Update Available
-available.description=A new update %x% is available for %y% language. Download now? This will open at your default browser.
-available.no=No updates available for %x% language
-canceled=Update canceled

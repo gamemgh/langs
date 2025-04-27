@@ -1,9 +1,0 @@
-north=မြောက်
-northeast=မြောက်အရှေ့
-east=အရှေ့
-southeast=တောင်အရှေ့
-south=တောင်
-southwest=တောင်အနောက်
-west=အနောက်
-northwest=မြောက်အနောက်
-dirinfo=%x% ကို %y% ဒီဂရီတွင်

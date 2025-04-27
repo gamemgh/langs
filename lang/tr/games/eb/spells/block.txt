@@ -1,2 +1,0 @@
-title=Hareket engelleme
-description=Sizi çevreleyen %x% adım içindeki düşmanları geçici olarak engeller ve yürüyememelerini sağlar, fakat hala vurabilirler
