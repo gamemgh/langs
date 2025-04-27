@@ -1,7 +1,7 @@
 {
   "code": "my",
   "config": {
-    "lastmod": "2025-04-27T11:54:24+06:30",
+    "lastmod": "2025-04-27T16:01:51+06:30",
     "name": "Myanmar (Burmese)"
   },
   "keys": {
@@ -419,11 +419,6 @@
       "id": "general.youhave",
       "source": "You have %x% %y%.",
       "translated": "သင့်မှာ %x% %y% ရှိပါတယ်။"
-    },
-    "hellothere": {
-      "id": "hellothere",
-      "source": "Darling, Rose",
-      "translated": "ချစ်လေး၊ နှင်းဆီ"
     },
     "invalid.gender": {
       "id": "invalid.gender",
