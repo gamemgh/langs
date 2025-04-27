@@ -1,992 +1,795 @@
 {
   "code": "my",
   "config": {
-    "lastmod": "2025-04-27T16:01:51+06:30",
+    "lastmod": "2025-04-27T21:39:19+06:30",
     "name": "Myanmar (Burmese)"
   },
   "keys": {
     "games.archery.done": {
-      "id": "games.archery.done",
       "source": "Game finished.",
       "translated": "ဂိမ်း ပြီးဆုံးသွားပါပြီ။"
     },
     "games.archery.fail": {
-      "id": "games.archery.fail",
       "source": "Sorry, you have lost the game.",
       "translated": "စိတ်မကောင်းပါဘူး၊ ဂိမ်းရှုံးသွားပါပြီ။"
     },
     "games.archery.get": {
-      "id": "games.archery.get",
       "source": "You've gained %x% %y%. Congratulations!",
       "translated": "သင် %x% %y% ရရှိခဲ့ပါတယ်။ ဂုဏ်ယူပါတယ်!"
     },
     "games.archery.life": {
-      "id": "games.archery.life",
       "source": "You have %x% shots left.",
       "translated": "သင့်မှာ %x% ကြိမ် ပစ်ခွင့် ကျန်ပါသေးတယ်။"
     },
     "games.archery.missed": {
-      "id": "games.archery.missed",
       "source": "You missed.",
       "translated": "လွဲသွားတယ်။"
     },
     "games.archery.points": {
-      "id": "games.archery.points",
       "source": "You have %x% points.",
       "translated": "သင့်မှာ %x% မှတ် ရရှိထားပါတယ်။"
     },
     "games.archery.started": {
-      "id": "games.archery.started",
       "source": "Round %x%. You need %y% points this round. You have %z% shots left.",
       "translated": "အလှည့် %x%။ ဒီအလှည့်မှာ သင် %y% မှတ် လိုအပ်ပါတယ်။ သင့်မှာ %z% ကြိမ် ပစ်ခွင့် ကျန်ပါသေးတယ်။"
     },
     "games.archery.success": {
-      "id": "games.archery.success",
       "source": "You've won this round!",
       "translated": "ဒီအလှည့်မှာ သင် အနိုင်ရသွားပါပြီ!"
     },
     "games.archery.title": {
-      "id": "games.archery.title",
       "source": "Archery",
       "translated": "မြှားပစ်"
     },
     "games.archery.tpoints": {
-      "id": "games.archery.tpoints",
       "source": "Total score: %x% points.",
       "translated": "စုစုပေါင်းရမှတ်: %x% မှတ်။"
     },
     "games.bj.bet.done": {
-      "id": "games.bj.bet.done",
       "source": "Changed bet successfully!",
       "translated": "လောင်းကြေး အောင်မြင်စွာ ပြောင်းလဲပြီးပါပြီ!"
     },
     "games.bj.bet.max": {
-      "id": "games.bj.bet.max",
       "source": "Error. You can't bet more than what you currently have, maximum %x% %y%.",
       "translated": "အမှား။ သင့်လက်ရှိရှိတာထက် ပိုမလောင်းနိုင်ပါ၊ အများဆုံး %x% %y% ပါ။"
     },
     "games.bj.bet.prompt": {
-      "id": "games.bj.bet.prompt",
       "source": "Type the amount you want to bet",
       "translated": "လောင်းလိုသော ပမာဏကို ရိုက်ထည့်ပါ"
     },
     "games.bj.bet.title": {
-      "id": "games.bj.bet.title",
       "source": "Amount",
       "translated": "ပမာဏ"
     },
     "games.bj.ctc": {
-      "id": "games.bj.ctc",
       "source": "Computer's total cards is %x%, which makes it %y%.",
       "translated": "ကွန်ပျူတာရဲ့ စုစုပေါင်းကတ်အရေအတွက်က %x% ဖြစ်ပြီး၊ ဒါဟာ %y% ပါ။"
     },
     "games.bj.ctrl.bc": {
-      "id": "games.bj.ctrl.bc",
       "source": "Change bet button",
       "translated": "လောင်းကြေးပြောင်းရန် ခလုတ်"
     },
     "games.bj.ctrl.hit": {
-      "id": "games.bj.ctrl.hit",
       "source": "Hit new card button",
       "translated": "ကတ်အသစ်ယူရန် ခလုတ်"
     },
     "games.bj.ctrl.hit.press": {
-      "id": "games.bj.ctrl.hit.press",
       "source": "Hits %x%",
       "translated": "%x% ရိုက်သည်"
     },
     "games.bj.ctrl.new": {
-      "id": "games.bj.ctrl.new",
       "source": "New button",
       "translated": "အသစ် ခလုတ်"
     },
     "games.bj.ctrl.new.press": {
-      "id": "games.bj.ctrl.new.press",
       "source": "New game started.",
       "translated": "ဂိမ်းအသစ် စတင်ပါပြီ။"
     },
     "games.bj.ctrl.stand": {
-      "id": "games.bj.ctrl.stand",
       "source": "Stand the Blackjack button",
       "translated": "Blackjack ရပ်ရန် ခလုတ်"
     },
     "games.bj.ctrl.stand.press": {
-      "id": "games.bj.ctrl.stand.press",
       "source": "Standed!",
       "translated": "ရပ်လိုက်ပြီ!"
     },
     "games.bj.draw": {
-      "id": "games.bj.draw",
       "source": "It's a draw!",
       "translated": "သရေကျသွားတယ်!"
     },
     "games.bj.finished": {
-      "id": "games.bj.finished",
       "source": "Game finished.",
       "translated": "ဂိမ်း ပြီးဆုံးသွားပါပြီ။"
     },
     "games.bj.have.bet": {
-      "id": "games.bj.have.bet",
       "source": "Bet, currently %x% %y%.",
       "translated": "လောင်းကြေး၊ လက်ရှိ %x% %y%။"
     },
     "games.bj.have.bj": {
-      "id": "games.bj.have.bj",
       "source": "Good, you have a blackjack!",
       "translated": "ကောင်းပြီ၊ သင် Blackjack ရရှိထားပါတယ်!"
     },
     "games.bj.have.currency": {
-      "id": "games.bj.have.currency",
       "source": "You currently have %x% %y%.",
       "translated": "သင့်မှာ လက်ရှိ %x% %y% ရှိပါတယ်။"
     },
     "games.bj.info": {
-      "id": "games.bj.info",
       "source": "%x%; making %y%.",
       "translated": "%x%; %y% ဖြစ်ပါတယ်။"
     },
     "games.bj.losec": {
-      "id": "games.bj.losec",
       "source": "You've lost %x% %y%!",
       "translated": "သင် %x% %y% ဆုံးရှုံးသွားပါပြီ!"
     },
     "games.bj.nc": {
-      "id": "games.bj.nc",
       "source": "No cards",
       "translated": "ကတ်မရှိပါ"
     },
     "games.bj.no.currency": {
-      "id": "games.bj.no.currency",
       "source": "Sorry, you don't have enough %x% that you are currently bet. You only have %y% %x%.",
       "translated": "စိတ်မကောင်းပါဘူး၊ သင်လောင်းထားတဲ့ %x% လုံလောက်အောင် မရှိပါဘူး။ သင့်မှာ %y% %x% ပဲရှိပါတယ်။"
     },
     "games.bj.quit.finish": {
-      "id": "games.bj.quit.finish",
       "source": "Finish the current game first to be able to quit.",
       "translated": "ထွက်နိုင်ဖို့ လက်ရှိဂိမ်းကို အရင်ဆုံး ပြီးအောင်လုပ်ပါ။"
     },
     "games.bj.start": {
-      "id": "games.bj.start",
       "source": "Game started.",
       "translated": "ဂိမ်း စတင်ပါပြီ။"
     },
     "games.bj.title": {
-      "id": "games.bj.title",
       "source": "Blackjack",
       "translated": "Blackjack"
     },
     "games.bj.total.card": {
-      "id": "games.bj.total.card",
       "source": "Total cards, %x%.",
       "translated": "စုစုပေါင်းကတ်အရေအတွက်၊ %x%။"
     },
     "games.bj.total.num": {
-      "id": "games.bj.total.num",
       "source": "Total numbers, %x%.",
       "translated": "စုစုပေါင်းနံပါတ်များ၊ %x%။"
     },
     "games.bj.win_no": {
-      "id": "games.bj.win_no",
       "source": "No one wins the game!",
       "translated": "ဘယ်သူမှ ဂိမ်းမနိုင်ဘူး!"
     },
     "games.bj.winc": {
-      "id": "games.bj.winc",
       "source": "You've won %x% %y%.",
       "translated": "သင် %x% %y% အနိုင်ရရှိသွားပါပြီ!"
     },
     "games.bj.winother": {
-      "id": "games.bj.winother",
       "source": "Computer wins the game!",
       "translated": "ကွန်ပျူတာ ဂိမ်းအနိုင်ရသွားတယ်!"
     },
     "games.bj.winyou": {
-      "id": "games.bj.winyou",
       "source": "You win the game!",
       "translated": "သင် ဂိမ်းအနိုင်ရသွားတယ်!"
     },
     "games.bj.yca": {
-      "id": "games.bj.yca",
       "source": "Your cards are:",
       "translated": "သင့်ကတ်တွေက:"
     },
     "games.bj.ytc": {
-      "id": "games.bj.ytc",
       "source": "Your total cards is %x%, which makes it %y%.",
       "translated": "သင့်ရဲ့ စုစုပေါင်းကတ်အရေအတွက်က %x% ဖြစ်ပြီး၊ ဒါဟာ %y% ပါ။"
     },
     "games.dm.gain": {
-      "id": "games.dm.gain",
       "source": "You've earned %x% %y%!",
       "translated": "သင် %x% %y% ရရှိခဲ့ပါတယ်!"
     },
     "games.dm.nogain": {
-      "id": "games.dm.nogain",
       "source": "Oh no! You've lost %x% %y%!",
       "translated": "အိုး မဟုတ်ဘူး! သင် %x% %y% ဆုံးရှုံးသွားပါပြီ!"
     },
     "games.dm.started": {
-      "id": "games.dm.started",
       "source": "Game started.",
       "translated": "ဂိမ်း စတင်ပါပြီ။"
     },
     "games.dm.title": {
-      "id": "games.dm.title",
       "source": "Dice Match",
       "translated": "အန်စာတုံး တူညီစေခြင်း"
     },
     "games.eb.general.title": {
-      "id": "games.eb.general.title",
       "source": "Endless Battle",
       "translated": "အဆုံးမဲ့ တိုက်ပွဲ"
     },
     "games.eb.magic.e_invisible": {
-      "id": "games.eb.magic.e_invisible",
       "source": "Your invisibility spell has expired.",
       "translated": "သင့်ရဲ့ မမြင်နိုင်တဲ့ မှော်စွမ်းအား ကုန်ဆုံးသွားပါပြီ။"
     },
     "games.eb.spells.block.description": {
-      "id": "games.eb.spells.block.description",
       "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
       "translated": "သင့်ပတ်လည် %x% အကွာအဝေးအတွင်းရှိ ရန်သူအားလုံးကို ခေတ္တပိတ်ဆို့ထားပြီး၊ သင်တိုက်ခိုက်နိုင်စဥ်မှာ သူတို့ လမ်းလျှောက်လို့မရတော့ပါ"
     },
     "games.eb.spells.block.title": {
-      "id": "games.eb.spells.block.title",
       "source": "Movements Block",
       "translated": "လှုပ်ရှားမှု ပိတ်ဆို့ခြင်း"
     },
     "games.eb.spells.death.description": {
-      "id": "games.eb.spells.death.description",
       "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
       "translated": "သင့်ပတ်လည် %x% အကွာအဝေးအတွင်းရှိ ရန်သူအားလုံးကို ချက်ချင်းသတ်ပစ်သည်"
     },
     "games.eb.spells.death.title": {
-      "id": "games.eb.spells.death.title",
       "source": "Instant Kill",
       "translated": "ချက်ချင်း သတ်ခြင်း"
     },
     "games.eb.spells.flame.description": {
-      "id": "games.eb.spells.flame.description",
       "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health as they are burned",
       "translated": "%x% အကွာအဝေးအတွင်းရှိ ရန်သူများကို မီးလျှံများဖြင့် လောင်ကျွမ်းစေပြီး သူတို့၏ ကျန်းမာရေးကို လျော့ကျစေသည်"
     },
     "games.eb.spells.flame.title": {
-      "id": "games.eb.spells.flame.title",
       "source": "Flame",
       "translated": "မီးလျှံ"
     },
     "games.eb.spells.heal.description": {
-      "id": "games.eb.spells.heal.description",
       "source": "Heal yourself to the maximum possible health",
       "translated": "သင့်ကိုယ်သင် ဖြစ်နိုင်သမျှ အများဆုံး ကျန်းမာရေးအထိ ကုသပါ"
     },
     "games.eb.spells.heal.title": {
-      "id": "games.eb.spells.heal.title",
       "source": "Vitality Surge",
       "translated": "အားအင် ပြန်လည်ပြည့်ဖြိုးခြင်း"
     },
     "games.eb.spells.invisibility.already_active": {
-      "id": "games.eb.spells.invisibility.already_active",
       "source": "You are already invisible, thus you cannot cast again until it expires.",
       "translated": "သင်ဟာ မမြင်နိုင်တဲ့ အခြေအနေမှာ ရှိနေပြီးသားမို့၊ အာနိသင် မကုန်မချင်း ထပ်ပြီး သုံးလို့မရပါဘူး။"
     },
     "games.eb.spells.invisibility.description": {
-      "id": "games.eb.spells.invisibility.description",
       "source": "Prevents being hit by your enemies for %x% seconds while you are still being able to hit them",
       "translated": "သင့်ရန်သူတွေရဲ့ တိုက်ခိုက်ခြင်းကို %x% စက္ကန့်ကြာ ကာကွယ်ပေးပြီး၊ သင်ကတော့ သူတို့ကို ပြန်တိုက်ခိုက်နိုင်ပါတယ်"
     },
     "games.eb.spells.invisibility.title": {
-      "id": "games.eb.spells.invisibility.title",
       "source": "Invisibility Shield",
       "translated": "မမြင်နိုင်တဲ့ အကာအကွယ်"
     },
     "games.eb.user.hp1": {
-      "id": "games.eb.user.hp1",
       "source": "Health increased",
       "translated": "ကျန်းမာရေး တိုးလာသည်"
     },
     "games.eb.user.hpinfo": {
-      "id": "games.eb.user.hpinfo",
       "source": "%x% out of %y% health, %z% percent.",
       "translated": "ကျန်းမာရေး %y% မှာ %x% ရာခိုင်နှုန်း၊ %z% ရာခိုင်နှုန်း။"
     },
     "games.eb.user.killed": {
-      "id": "games.eb.user.killed",
       "source": "You have been killed by %x%.",
       "translated": "သင်ဟာ %x% ကြောင့် သေဆုံးသွားပါပြီ။"
     },
     "games.eb.user.levelinfo": {
-      "id": "games.eb.user.levelinfo",
       "source": "You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points.",
       "translated": "သင်ဟာ ရှင်ပြန်ထမြောက်ခြင်း အကြိမ် %a% မှာ၊ အဆင့် %b% နဲ့ အတွေ့အကြုံမှတ် %c% ရရှိထားပါတယ်။ နောက်တစ်ဆင့်အတွက် အတွေ့အကြုံမှတ် %d% လိုအပ်ပါတယ်။"
     },
     "games.eb.user.mhreach": {
-      "id": "games.eb.user.mhreach",
       "source": "Maximum health reached",
       "translated": "အများဆုံး ကျန်းမာရေး အခြေအနေသို့ ရောက်ရှိပါပြီ"
     },
     "games.eb.user.objget": {
-      "id": "games.eb.user.objget",
       "source": "You've gained %x% %y%.",
       "translated": "သင် %x% %y% ရရှိခဲ့ပါတယ်။"
     },
     "games.eb.wep.ammoinfo": {
-      "id": "games.eb.wep.ammoinfo",
       "source": "%a% has %b% out of %c% %d%, remains %e%",
       "translated": "%a% မှာ %c% %d% ထဲက %b% ကျည်ဆန် ကျန်ရှိပြီး၊ %e% ကျန်ပါတယ်။"
     },
     "games.eb.wep.gainnew1": {
-      "id": "games.eb.wep.gainnew1",
       "source": "You've gained a new weapon, %x%.",
       "translated": "သင် လက်နက်အသစ် %x% ရရှိခဲ့ပါတယ်။"
     },
     "games.eb.wep.gainnew2": {
-      "id": "games.eb.wep.gainnew2",
       "source": "You've also gained %x% %y% for this!",
       "translated": "ဒါ့အပြင် သင် %x% %y% လည်း ရရှိခဲ့ပါတယ်!"
     },
     "games.eb.wep.notammo": {
-      "id": "games.eb.wep.notammo",
       "source": "This weapon does not hold ammo.",
       "translated": "ဒီလက်နက်မှာ ကျည်ဆန် မပါပါဘူး။"
     },
     "general.alreadyrunning": {
-      "id": "general.alreadyrunning",
       "source": "The game is already running!",
       "translated": "ဂိမ်းက အခု လည်ပတ်နေပြီးသားပါ!"
     },
     "general.cannotfindaudio": {
-      "id": "general.cannotfindaudio",
       "source": "Audio file cannot be found.",
       "translated": "အသံဖိုင်ကို ရှာမတွေ့ပါ။"
     },
     "general.currently": {
-      "id": "general.currently",
       "source": "Currently %x%",
       "translated": "လက်ရှိ %x%"
     },
     "general.error": {
-      "id": "general.error",
       "source": "Error",
       "translated": "အမှား"
     },
     "general.exiting": {
-      "id": "general.exiting",
       "source": "Exiting...",
       "translated": "ထွက်နေပါပြီ..."
     },
     "general.gender.boy": {
-      "id": "general.gender.boy",
       "source": "Male",
       "translated": "အမျိုးသား"
     },
     "general.gender.girl": {
-      "id": "general.gender.girl",
       "source": "Female",
       "translated": "အမျိုးသမီး"
     },
     "general.information": {
-      "id": "general.information",
       "source": "Information",
       "translated": "အချက်အလက်"
     },
     "general.lastmod": {
-      "id": "general.lastmod",
       "source": "Last updated on %x%.",
       "translated": "%x% မှာ နောက်ဆုံး အပ်ဒိတ် လုပ်ထားပါတယ်။"
     },
     "general.shortcuts.menu.android": {
-      "id": "general.shortcuts.menu.android",
       "source": "Swipe left and right to navigate, double tap with one finger to select, click back button to exit.",
       "translated": "ဘယ်ညာ ပွတ်ဆွဲပြီး သွားလာပါ၊ တစ်ချောင်းတည်းနဲ့ နှစ်ချက်ထိပြီး ရွေးပါ၊ နောက်ပြန်ခလုတ်ကို နှိပ်ပြီး ထွက်ပါ။"
     },
     "general.shortcuts.menu.other": {
-      "id": "general.shortcuts.menu.other",
       "source": "Press up and down arrow keys to navigate, enter to select, and Escape to exit.",
       "translated": "အပေါ်နဲ့အောက် မြှားခလုတ်ကို နှိပ်ပြီး သွားလာပါ၊ Enter ကိုနှိပ်ပြီး ရွေးပါ၊ Escape ကိုနှိပ်ပြီး ထွက်ပါ။"
     },
     "general.sounderror": {
-      "id": "general.sounderror",
       "source": "Sound error",
       "translated": "အသံ အမှား"
     },
     "general.success": {
-      "id": "general.success",
       "source": "Success",
       "translated": "အောင်မြင်သည်"
     },
     "general.youhave": {
-      "id": "general.youhave",
       "source": "You have %x% %y%.",
       "translated": "သင့်မှာ %x% %y% ရှိပါတယ်။"
     },
     "invalid.gender": {
-      "id": "invalid.gender",
       "source": "Invalid gender!",
       "translated": "မမှန်ကန်သော ကျား/မ!"
     },
     "invalid.spt.less": {
-      "id": "invalid.spt.less",
       "source": "Enemy spawn time should be no less than 1 second.",
       "translated": "ရန်သူပေါ်လာချိန်သည် ၁ စက္ကန့်ထက် မနည်းရပါ။"
     },
     "invalid.username": {
-      "id": "invalid.username",
       "source": "Invalid username!",
       "translated": "မမှန်ကန်သော အသုံးပြုသူအမည်!"
     },
     "langupdate.available.description": {
-      "id": "langupdate.available.description",
       "source": "A new update %x% is available for %y% language. Download now? This will open at your default browser.",
       "translated": "%y% ဘာသာစကားအတွက် အပ်ဒိတ်အသစ် %x% ရရှိနိုင်ပါပြီ။ ယခု ဒေါင်းလုပ်ဆွဲမလား။ ၎င်းသည် သင်၏ ပုံမှန် ဘရောက်ဆာတွင် ဖွင့်ပါလိမ့်မည်။"
     },
     "langupdate.available.no": {
-      "id": "langupdate.available.no",
       "source": "No updates available for %x% language",
       "translated": "%x% ဘာသာစကားအတွက် အပ်ဒိတ်များ မရှိပါ။"
     },
     "langupdate.available.title": {
-      "id": "langupdate.available.title",
       "source": "Language Update Available",
       "translated": "ဘာသာစကား အပ်ဒိတ် ရရှိနိုင်ပါသည်"
     },
     "langupdate.canceled": {
-      "id": "langupdate.canceled",
       "source": "Update canceled",
       "translated": "အပ်ဒိတ် ပယ်ဖျက်လိုက်ပါပြီ"
     },
     "langupdate.checking": {
-      "id": "langupdate.checking",
       "source": "Checking for %x% language updates...",
       "translated": "%x% ဘာသာစကား အပ်ဒိတ်များကို စစ်ဆေးနေပါသည်..."
     },
     "langupdate.title": {
-      "id": "langupdate.title",
       "source": "Language Update",
       "translated": "ဘာသာစကား အပ်ဒိတ်"
     },
     "magic.newspell": {
-      "id": "magic.newspell",
       "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
       "translated": "သင်ဟာ %a% ကို သုံးနိုင်ပါပြီ၊ ဒါကိုသုံးဖို့ မှော်စွမ်းအင် %b% လိုအပ်ပါတယ်။ %c%။"
     },
     "menus.dllang.dl": {
-      "id": "menus.dllang.dl",
       "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
       "translated": "ကျေးဇူးပြု၍ ဘရောက်ဆာမှ %x% ကို ဒေါင်းလုပ်ဆွဲပြီး lang ဖိုင်တွဲထဲတွင် ဖြည့်ပါ။ OK ခလုတ်ကို နှိပ်ပါ။"
     },
     "menus.dllang.item": {
-      "id": "menus.dllang.item",
       "source": "%x%, by %y%.",
       "translated": "%x%၊ %y% ရေးသားသည်။"
     },
     "menus.dllang.more": {
-      "id": "menus.dllang.more",
       "source": "There are %x% languages available to download",
       "translated": "ဒေါင်းလုပ်ဆွဲရန် ဘာသာစကား %x% ရှိသည်"
     },
     "menus.dllang.noe": {
-      "id": "menus.dllang.noe",
       "source": "This language %x% does not exist",
       "translated": "ဒီဘာသာစကား %x% မရှိပါ"
     },
     "menus.dllang.one": {
-      "id": "menus.dllang.one",
       "source": "There is %x% language available to download",
       "translated": "ဒေါင်းလုပ်ဆွဲရန် ဘာသာစကား %x% ခု ရှိသည်"
     },
     "menus.dllang.title": {
-      "id": "menus.dllang.title",
       "source": "Language Downloader",
       "translated": "ဘာသာစကား ဒေါင်းလုပ်ကိရိယာ"
     },
     "menus.dllang.zero": {
-      "id": "menus.dllang.zero",
       "source": "There is no available languages to download",
       "translated": "ဒေါင်းလုပ်ဆွဲရန် ဘာသာစကားများ မရှိပါ"
     },
     "menus.games.game.active": {
-      "id": "menus.games.game.active",
       "source": "You're already playing a game.",
       "translated": "သင်ဟာ ဂိမ်းတစ်ခု ကစားနေပြီးသားပါ။"
     },
     "menus.games.invalid.game": {
-      "id": "menus.games.invalid.game",
       "source": "This minigame does not exist.",
       "translated": "ဒီ မီနီဂိမ်း မရှိပါဘူး။"
     },
     "menus.games.invalid.gender": {
-      "id": "menus.games.invalid.gender",
       "source": "Please set your gender in the settings.",
       "translated": "ကျေးဇူးပြု၍ သင်၏ ကျား/မ ကို ဆက်တင်များတွင် သတ်မှတ်ပါ။"
     },
     "menus.games.invalid.gender.android": {
-      "id": "menus.games.invalid.gender.android",
       "source": "Choose a valid gender please.",
       "translated": "ကျေးဇူးပြု၍ မှန်ကန်သော ကျား/မ ကို ရွေးချယ်ပါ။"
     },
     "menus.games.invalid.name": {
-      "id": "menus.games.invalid.name",
       "source": "Invalid username.",
       "translated": "မမှန်ကန်သော အသုံးပြုသူအမည်။"
     },
     "menus.games.quit": {
-      "id": "menus.games.quit",
       "source": "Go Back",
       "translated": "နောက်သို့ ပြန်သွားပါ"
     },
     "menus.games.title": {
-      "id": "menus.games.title",
       "source": "Games Menu",
       "translated": "ဂိမ်းများ မီနူး"
     },
     "menus.lang.already": {
-      "id": "menus.lang.already",
       "source": "You have already set this language.",
       "translated": "သင်သည် ဤဘာသာစကားကို သတ်မှတ်ပြီးဖြစ်သည်။"
     },
     "menus.lang.current": {
-      "id": "menus.lang.current",
       "source": "Current language",
       "translated": "လက်ရှိ ဘာသာစကား"
     },
     "menus.lang.default": {
-      "id": "menus.lang.default",
       "source": "Default fallback language",
       "translated": "ပုံမှန် အရန် ဘာသာစကား"
     },
     "menus.lang.done": {
-      "id": "menus.lang.done",
       "source": "Language has been changed.",
       "translated": "ဘာသာစကား ပြောင်းလဲပြီးပါပြီ။"
     },
     "menus.lang.fail": {
-      "id": "menus.lang.fail",
       "source": "Failed to change to this language %x%.",
       "translated": "ဒီဘာသာစကား %x% ကို ပြောင်းလဲရန် မအောင်မြင်ပါ။"
     },
     "menus.lang.more": {
-      "id": "menus.lang.more",
       "source": "There are %x% languages available",
       "translated": "ရရှိနိုင်သော ဘာသာစကား %x% ခု ရှိသည်"
     },
     "menus.lang.one": {
-      "id": "menus.lang.one",
       "source": "There is %x% language available.",
       "translated": "ရရှိနိုင်သော ဘာသာစကား %x% ခု ရှိသည်။"
     },
     "menus.lang.title": {
-      "id": "menus.lang.title",
       "source": "Choose a language to use.",
       "translated": "အသုံးပြုလိုသော ဘာသာစကားကို ရွေးချယ်ပါ။"
     },
     "menus.lang.zero": {
-      "id": "menus.lang.zero",
       "source": "There are no available languages.",
       "translated": "ရရှိနိုင်သော ဘာသာစကားများ မရှိပါ။"
     },
     "menus.magic.item": {
-      "id": "menus.magic.item",
       "source": "%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.",
       "translated": "%a%၊ သုံးရန် မှော်စွမ်းအင် %b% လိုအပ်သည်။ အာနိသင်ပြရန် %c% မီလီစက္ကန့် ကြာသည်။"
     },
     "menus.magic.title": {
-      "id": "menus.magic.title",
       "source": "With %x% magic energy you can cast %y% spell.",
       "translated": "မှော်စွမ်းအင် %x% ဖြင့် သင် %y% မှော်ကို သုံးနိုင်သည်။"
     },
     "menus.magic.title.plural": {
-      "id": "menus.magic.title.plural",
       "source": "With %x% magic energy you can cast %y% spells.",
       "translated": "မှော်စွမ်းအင် %x% ဖြင့် သင် မှော် %y% ခုကို သုံးနိုင်သည်။"
     },
     "menus.magic.zero": {
-      "id": "menus.magic.zero",
       "source": "You have no available spells to cast.",
       "translated": "သင့်မှာ သုံးနိုင်တဲ့ မှော်တွေ မရှိပါဘူး။"
     },
     "menus.main.dllang": {
-      "id": "menus.main.dllang",
       "source": "Language Downloader",
       "translated": "ဘာသာစကား ဒေါင်းလုပ်ကိရိယာ"
     },
     "menus.main.gm": {
-      "id": "menus.main.gm",
       "source": "Games Menu",
       "translated": "ဂိမ်းများ မီနူး"
     },
     "menus.main.lang": {
-      "id": "menus.main.lang",
       "source": "Change Language (currently %x%)",
       "translated": "ဘာသာစကား ပြောင်းလဲပါ (လက်ရှိ %x%)"
     },
     "menus.main.langupdate": {
-      "id": "menus.main.langupdate",
       "source": "Check for Current Language Updates",
       "translated": "လက်ရှိ ဘာသာစကား အပ်ဒိတ်များကို စစ်ဆေးပါ"
     },
     "menus.main.quit": {
-      "id": "menus.main.quit",
       "source": "Exit the Game",
       "translated": "ဂိမ်းမှ ထွက်ပါ"
     },
     "menus.main.settings": {
-      "id": "menus.main.settings",
       "source": "Settings and Preferences",
       "translated": "ဆက်တင်များနှင့် နှစ်သက်ရာများ"
     },
     "menus.main.status": {
-      "id": "menus.main.status",
       "source": "Statistics Menu",
       "translated": "စာရင်းအင်း မီနူး"
     },
     "menus.main.store": {
-      "id": "menus.main.store",
       "source": "Store",
       "translated": "စတိုးဆိုင်"
     },
     "menus.main.systeminfo": {
-      "id": "menus.main.systeminfo",
       "source": "Get system information, only needed if you need to provide your system information for example in case of device issue playing the game",
       "translated": "စနစ်အချက်အလက်ကို ရယူပါ၊ ဥပမာ ဂိမ်းကစားရာတွင် စက်ပစ္စည်းပြဿနာရှိပါက သင်၏စနစ်အချက်အလက်ကို ပေးရန်လိုအပ်မှသာ လိုအပ်ပါသည်။"
     },
     "menus.main.systeminfo.done": {
-      "id": "menus.main.systeminfo.done",
       "source": "System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue.",
       "translated": "စနစ်အချက်အလက်နှင့် ဆက်စပ်သော အမှားရှာဖွေမှတ်တမ်းများကို ကူးယူပြီးပါပြီ။ ပြဿနာအတွက် မေးမြန်းထားသော developer ထံ ထိုစာဝှက်ထားသော အချက်အလက်များကို ပေးပို့ပါ။"
     },
     "menus.main.test": {
-      "id": "menus.main.test",
       "source": "Test your Speakers",
       "translated": "သင့်ရဲ့ စပီကာတွေကို စမ်းသပ်ပါ"
     },
     "menus.main.title": {
-      "id": "menus.main.title",
       "source": "Main Menu.",
       "translated": "ပင်မ မီနူး။"
     },
     "menus.main.update": {
-      "id": "menus.main.update",
       "source": "Check for Updates",
       "translated": "အပ်ဒိတ်များ ရှိမရှိ စစ်ဆေးပါ"
     },
     "menus.main.web": {
-      "id": "menus.main.web",
       "source": "Visit Website",
       "translated": "ဝက်ဘ်ဆိုက်သို့ ဝင်ရောက်ပါ"
     },
     "menus.main.web.done": {
-      "id": "menus.main.web.done",
       "source": "The website was successfully opened at your browser.",
       "translated": "ဝက်ဘ်ဆိုက်ကို သင်၏ ဘရောက်ဆာတွင် အောင်မြင်စွာ ဖွင့်လိုက်ပါပြီ။"
     },
     "menus.main.web.fail": {
-      "id": "menus.main.web.fail",
       "source": "Failed to open the website. It is now copied to your clipboard.",
       "translated": "ဝက်ဘ်ဆိုက်ကို ဖွင့်ရန် မအောင်မြင်ပါ။ ယခု ၎င်းကို သင်၏ ကလစ်ဘုတ်သို့ ကူးယူပြီးပါပြီ။"
     },
     "menus.status.1": {
-      "id": "menus.status.1",
       "source": "You've been executed this game for a total of %x% times.",
       "translated": "သင်ဟာ ဒီဂိမ်းကို စုစုပေါင်း %x% ကြိမ်တိုင်တိုင် ဖွင့်ခဲ့ပါတယ်။"
     },
     "menus.status.2": {
-      "id": "menus.status.2",
       "source": "You mostly plaied %x% for %y%.",
       "translated": "သင်ဟာ အများအားဖြင့် %y% အတွင်း %x% ကို ကစားခဲ့ပါတယ်။"
     },
     "menus.status.3.more": {
-      "id": "menus.status.3.more",
       "source": "You have plaied a total of %x% games.",
       "translated": "သင်ဟာ စုစုပေါင်း ဂိမ်း %x% ခု ကစားခဲ့ပါတယ်။"
     },
     "menus.status.3.one": {
-      "id": "menus.status.3.one",
       "source": "You have plaied a total of %x% game.",
       "translated": "သင်ဟာ စုစုပေါင်း ဂိမ်း %x% ခု ကစားခဲ့ပါတယ်။"
     },
     "menus.status.3.zero": {
-      "id": "menus.status.3.zero",
       "source": "You haven't plaied any games yet.",
       "translated": "သင်ဟာ ဂိမ်းတစ်ခုမှ မကစားရသေးပါဘူး။"
     },
     "menus.status.cp": {
-      "id": "menus.status.cp",
       "source": "Copy statistics to clipboard",
       "translated": "စာရင်းအင်းများကို ကလစ်ဘုတ်သို့ ကူးယူပါ"
     },
     "menus.status.cp.done": {
-      "id": "menus.status.cp.done",
       "source": "Statistics copied to clipboard.",
       "translated": "စာရင်းအင်းများကို ကလစ်ဘုတ်သို့ ကူးယူပြီးပါပြီ။"
     },
     "menus.status.cp.fail": {
-      "id": "menus.status.cp.fail",
       "source": "Failed to copy the statistics. This might be because of your clipboard's problem.",
       "translated": "စာရင်းအင်းများကို ကူးယူရန် မအောင်မြင်ပါ။ ၎င်းသည် သင်၏ ကလစ်ဘုတ်ပြဿနာကြောင့် ဖြစ်နိုင်သည်။"
     },
     "menus.status.title": {
-      "id": "menus.status.title",
       "source": "Statistics",
       "translated": "စာရင်းအင်းများ"
     },
     "menus.store.amount.invalid": {
-      "id": "menus.store.amount.invalid",
       "source": "You must buy at least 1!",
       "translated": "အနည်းဆုံး ၁ ခုတော့ ဝယ်ရမယ်!"
     },
     "menus.store.amount.less": {
-      "id": "menus.store.amount.less",
       "source": "Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!",
       "translated": "%a% မလုံလောက်ပါ။ သင်ဝယ်ယူရန် %b% လိုအပ်ပြီး၊ သင့်မှာ %c% ပဲရှိတာမို့၊ နောက်ထပ် %d% လိုအပ်ပါတယ်!"
     },
     "menus.store.buy.canceled": {
-      "id": "menus.store.buy.canceled",
       "source": "Purchase canceled.",
       "translated": "ဝယ်ယူမှုကို ပယ်ဖျက်လိုက်ပါပြီ။"
     },
     "menus.store.buy.done": {
-      "id": "menus.store.buy.done",
       "source": "You've successfully purchased %a% %b% with %c% %d%.",
       "translated": "သင်ဟာ %c% %d% နဲ့ %a% %b% ကို အောင်မြင်စွာ ဝယ်ယူပြီးပါပြီ။"
     },
     "menus.store.item": {
-      "id": "menus.store.item",
       "source": "%a%, costs %b% %c%, you can buy %d%",
       "translated": "%a%၊ ဈေးနှုန်း %b% %c%၊ သင် %d% ဝယ်ယူနိုင်သည်"
     },
     "menus.store.item.invalid": {
-      "id": "menus.store.item.invalid",
       "source": "This item does not exist.",
       "translated": "ဒီပစ္စည်း မရှိပါဘူး။"
     },
     "menus.store.title": {
-      "id": "menus.store.title",
       "source": "Store. What would you like to buy?",
       "translated": "စတိုးဆိုင်။ ဘာဝယ်ချင်လဲ?"
     },
     "menus.store.zero": {
-      "id": "menus.store.zero",
       "source": "There are no items to buy.",
       "translated": "ဝယ်ယူရန် ပစ္စည်းများ မရှိပါ။"
     },
     "menus.test.correct": {
-      "id": "menus.test.correct",
       "source": "Excellent! : you've got the right position",
       "translated": "အလွန်ကောင်းသည်! : သင် မှန်ကန်သော နေရာကို ရရှိထားသည်"
     },
     "menus.test.press": {
-      "id": "menus.test.press",
       "source": "Press the corresponding arrow",
       "translated": "သက်ဆိုင်ရာ မြှားကို နှိပ်ပါ"
     },
     "menus.test.swipe": {
-      "id": "menus.test.swipe",
       "source": "Swipe to the corresponding direction",
       "translated": "သက်ဆိုင်ရာ ဦးတည်ရာသို့ ပွတ်ဆွဲပါ"
     },
     "menus.test.title": {
-      "id": "menus.test.title",
       "source": "Where is the sound coming from?",
       "translated": "အသံ ဘယ်က လာတာလဲ?"
     },
     "menus.test.wrong": {
-      "id": "menus.test.wrong",
       "source": "You've got the wrong direction!",
       "translated": "သင် ဦးတည်ရာ မှားနေပြီ!"
     },
     "menus.wpdraw.noe": {
-      "id": "menus.wpdraw.noe",
       "source": "You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist.",
       "translated": "သင်ဟာ အရည်အချင်း မပြည့်မီသေးတာ ဒါမှမဟုတ် လက်နက်ကိုယ်တိုင် မရှိတာကြောင့် ဒီလက်နက်ကို ထုတ်ယူလို့ မရပါဘူး။"
     },
     "menus.wpdraw.title": {
-      "id": "menus.wpdraw.title",
       "source": "Select the weapon you want to draw.",
       "translated": "သင် ထုတ်ယူလိုသော လက်နက်ကို ရွေးချယ်ပါ။"
     },
     "menus.wpdraw.zero": {
-      "id": "menus.wpdraw.zero",
       "source": "No available weapons that you can draw.",
       "translated": "သင် ထုတ်ယူနိုင်သော လက်နက်များ မရှိပါ။"
     },
     "rotation.dirinfo": {
-      "id": "rotation.dirinfo",
       "source": "%x% at %y% degrees",
       "translated": "%y% ဒီဂရီမှာ %x%"
     },
     "rotation.east": {
-      "id": "rotation.east",
       "source": "east",
       "translated": "အရှေ့"
     },
     "rotation.north": {
-      "id": "rotation.north",
       "source": "north",
       "translated": "မြောက်"
     },
     "rotation.northeast": {
-      "id": "rotation.northeast",
       "source": "northeast",
       "translated": "အရှေ့မြောက်"
     },
     "rotation.northwest": {
-      "id": "rotation.northwest",
       "source": "northwest",
       "translated": "အနောက်မြောက်"
     },
     "rotation.south": {
-      "id": "rotation.south",
       "source": "south",
       "translated": "တောင်"
     },
     "rotation.southeast": {
-      "id": "rotation.southeast",
       "source": "southeast",
       "translated": "အရှေ့တောင်"
     },
     "rotation.southwest": {
-      "id": "rotation.southwest",
       "source": "southwest",
       "translated": "အနောက်တောင်"
     },
     "rotation.west": {
-      "id": "rotation.west",
       "source": "west",
       "translated": "အနောက်"
     },
     "settings.ctrl.gender": {
-      "id": "settings.ctrl.gender",
       "source": "Gender",
       "translated": "ကျား/မ"
     },
     "settings.ctrl.gender.set": {
-      "id": "settings.ctrl.gender.set",
       "source": "Gender successfully set.",
       "translated": "ကျား/မ အောင်မြင်စွာ သတ်မှတ်ပြီးပါပြီ။"
     },
     "settings.ctrl.ils": {
-      "id": "settings.ctrl.ils",
       "source": "Play item loop sound",
       "translated": "ပစ္စည်း အဆက်မပြတ် အသံမြည်ခြင်းကို ဖွင့်ပါ"
     },
     "settings.ctrl.input": {
-      "id": "settings.ctrl.input",
       "source": "Input device",
       "translated": "ထည့်သွင်းကိရိယာ"
     },
     "settings.ctrl.interrupt": {
-      "id": "settings.ctrl.interrupt",
       "source": "Screen reader interrupting",
       "translated": "စခရင်ဖတ်စက် အနှောင့်အယှက်ပေးခြင်း"
     },
     "settings.ctrl.mmusic": {
-      "id": "settings.ctrl.mmusic",
       "source": "Menu music",
       "translated": "မီနူး တေးဂီတ"
     },
     "settings.ctrl.output": {
-      "id": "settings.ctrl.output",
       "source": "Output device",
       "translated": "ထုတ်လွှတ်ကိရိယာ"
     },
     "settings.ctrl.path": {
-      "id": "settings.ctrl.path",
       "source": "Data path",
       "translated": "ဒေတာလမ်းကြောင်း"
     },
     "settings.ctrl.reset": {
-      "id": "settings.ctrl.reset",
       "source": "Reset game data to its factory default",
       "translated": "ဂိမ်းဒေတာကို စက်ရုံထုတ် ပုံစံသို့ ပြန်လည်သတ်မှတ်ပါ"
     },
     "settings.ctrl.save": {
-      "id": "settings.ctrl.save",
       "source": "&Save options",
       "translated": "&ရွေးချယ်မှုများကို သိမ်းဆည်းပါ"
     },
     "settings.ctrl.spt": {
-      "id": "settings.ctrl.spt",
       "source": "Enemy spawn time (in seconds)",
       "translated": "ရန်သူပေါ်လာချိန် (စက္ကန့်အတွင်း)"
     },
     "settings.ctrl.username": {
-      "id": "settings.ctrl.username",
       "source": "Username",
       "translated": "အသုံးပြုသူအမည်"
     },
     "settings.reset.description": {
-      "id": "settings.reset.description",
       "source": "Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!",
       "translated": "ဂိမ်းဆက်တင်ကို ဖျက်လိုသည်မှာ သေချာပါသလား။ ၎င်းတွင် သင်သတ်မှတ်ထားသော ဆက်တင်များနှင့် သင်၏ ဂိမ်းကစားမှုများလည်း ပါဝင်ပါသည်။"
     },
     "settings.reset.done": {
-      "id": "settings.reset.done",
       "source": "All data has been cleared",
       "translated": "ဒေတာအားလုံး ဖျက်ပြီးပါပြီ"
     },
     "settings.reset.title": {
-      "id": "settings.reset.title",
       "source": "Reset",
       "translated": "ပြန်လည်သတ်မှတ်"
     },
     "settings.saved": {
-      "id": "settings.saved",
       "source": "Options saved",
       "translated": "ရွေးချယ်မှုများကို သိမ်းဆည်းပြီးပါပြီ"
     },
     "settings.title": {
-      "id": "settings.title",
       "source": "Settings",
       "translated": "ဆက်တင်များ"
     },
     "spells.mgei.already_active": {
-      "id": "spells.mgei.already_active",
       "source": "This spell is already active.",
       "translated": "ဒီမှော်က အခု လှုပ်ရှားနေပြီးသားပါ။"
     },
     "spells.mgei.description": {
-      "id": "spells.mgei.description",
       "source": "Increases magic energy %x% times faster for %y% seconds",
       "translated": "မှော်စွမ်းအင်ကို %y% စက္ကန့်ကြာ %x% ဆ ပိုမြန်အောင် တိုးမြှင့်ပေးသည်"
     },
     "spells.mgei.expired": {
-      "id": "spells.mgei.expired",
       "source": "Your Trophy Energy spell has expired.",
       "translated": "သင့်ရဲ့ Trophy Energy မှော် ကုန်ဆုံးသွားပါပြီ။"
     },
     "spells.mgei.title": {
-      "id": "spells.mgei.title",
       "source": "Trophy Energy",
       "translated": "အောင်မြင်မှု စွမ်းအင်"
     },
     "update.available.description": {
-      "id": "update.available.description",
       "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
       "translated": "အပ်ဒိတ်အသစ် %x% (တည်ဆောက်မှု %y%) ရရှိနိုင်ပါပြီ။ ယခု ဒေါင်းလုပ်ဆွဲမလား။ ၎င်းသည် သင်၏ ပုံမှန် ဘရောက်ဆာတွင် ဖွင့်ပါလိမ့်မည်။"
     },
     "update.available.no": {
-      "id": "update.available.no",
       "source": "No updates available",
       "translated": "အပ်ဒိတ်များ မရှိပါ"
     },
     "update.available.title": {
-      "id": "update.available.title",
       "source": "Update Available",
       "translated": "အပ်ဒိတ် ရရှိနိုင်သည်"
     },
     "update.canceled": {
-      "id": "update.canceled",
       "source": "Update canceled",
       "translated": "အပ်ဒိတ် ပယ်ဖျက်လိုက်ပါပြီ"
     },
     "update.checking": {
-      "id": "update.checking",
       "source": "Checking for updates. Please wait...",
       "translated": "အပ်ဒိတ်များ စစ်ဆေးနေပါသည်။ ခဏစောင့်ပါ..."
     },
     "update.title": {
-      "id": "update.title",
       "source": "Update",
       "translated": "အပ်ဒိတ်"
     }
