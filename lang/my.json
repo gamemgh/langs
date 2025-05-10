@@ -1,7 +1,7 @@
 {
   "code": "my",
   "config": {
-    "lastmod": "2025-04-28T00:21:56+06:30",
+    "lastmod": "2025-04-28T15:07:21+06:30",
     "name": "Myanmar (Burmese)"
   },
   "keys": {
@@ -482,8 +482,8 @@
       "translated": "မှော်စွမ်းအင် %x% ဖြင့် သင် မှော် %y% ခုကို သုံးနိုင်သည်။"
     },
     "menus.magic.zero": {
-      "source": "You have no available spells to cast.",
-      "translated": "သင့်မှာ သုံးနိုင်တဲ့ မှော်တွေ မရှိပါဘူး။"
+      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "translated": "သငျသညျသွန်းဖို့မရရှိနိုင်စာလုံးပေါင်းရှိသည်။ သင့်မှာ %x% မှော်စွမ်းအင်ရှိတယ်။"
     },
     "menus.main.dllang": {
       "source": "Language Downloader",

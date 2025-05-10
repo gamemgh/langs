@@ -1,7 +1,7 @@
 {
   "code": "en",
   "config": {
-    "lastmod": "2025-04-27T23:58:31+06:30",
+    "lastmod": "2025-04-28T15:06:09+06:30",
     "name": "English"
   },
   "keys": {
@@ -482,8 +482,8 @@
       "translated": "With %x% magic energy you can cast %y% spells."
     },
     "menus.magic.zero": {
-      "source": "You have no available spells to cast.",
-      "translated": "You have no available spells to cast."
+      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "translated": "You have no available spells to cast. You have %x% magic energy."
     },
     "menus.main.dllang": {
       "source": "Language Downloader",
