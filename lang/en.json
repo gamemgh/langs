@@ -1,7 +1,7 @@
 {
   "code": "en",
   "config": {
-    "lastmod": "2025-04-28T15:06:09+06:30",
+    "lastmod": "2025-06-03T10:54:07+06:30",
     "name": "English"
   },
   "keys": {
@@ -684,6 +684,50 @@
     "rotation.west": {
       "source": "west",
       "translated": "west"
+    },
+    "rt.day": {
+      "source": "%x% day",
+      "translated": "%x% day"
+    },
+    "rt.days": {
+      "source": "%x% days",
+      "translated": "%x% days"
+    },
+    "rt.hour": {
+      "source": "%x% hour",
+      "translated": "%x% hour"
+    },
+    "rt.hours": {
+      "source": "%x% hours",
+      "translated": "%x% hours"
+    },
+    "rt.minute": {
+      "source": "%x% minute",
+      "translated": "%x% minute"
+    },
+    "rt.minutes": {
+      "source": "%x% minutes",
+      "translated": "%x% minutes"
+    },
+    "rt.ms": {
+      "source": "%x% millisecond",
+      "translated": "%x% millisecond"
+    },
+    "rt.mss": {
+      "source": "%x% milliseconds",
+      "translated": "%x% milliseconds"
+    },
+    "rt.second": {
+      "source": "%x% second",
+      "translated": "%x% second"
+    },
+    "rt.seconds": {
+      "source": "%x% seconds",
+      "translated": "%x% seconds"
+    },
+    "rt.zero": {
+      "source": "no time at all",
+      "translated": "no time at all"
     },
     "settings.ctrl.gender": {
       "source": "Gender",

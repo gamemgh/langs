@@ -1,7 +1,7 @@
 {
   "code": "my",
   "config": {
-    "lastmod": "2025-06-01T16:31:36+06:30",
+    "lastmod": "2025-06-03T11:02:34+06:30",
     "name": "Myanmar (Burmese)"
   },
   "keys": {
@@ -684,6 +684,50 @@
     "rotation.west": {
       "source": "west",
       "translated": "အနောက်"
+    },
+    "rt.day": {
+      "source": "%x% day",
+      "translated": "%x% နေ့"
+    },
+    "rt.days": {
+      "source": "%x% days",
+      "translated": "%x% နေ့"
+    },
+    "rt.hour": {
+      "source": "%x% hour",
+      "translated": "%x% နာရီ"
+    },
+    "rt.hours": {
+      "source": "%x% hours",
+      "translated": "%x% နာရီ"
+    },
+    "rt.minute": {
+      "source": "%x% minute",
+      "translated": "%x% မိနစ်"
+    },
+    "rt.minutes": {
+      "source": "%x% minutes",
+      "translated": "%x% မိနစ်"
+    },
+    "rt.ms": {
+      "source": "%x% millisecond",
+      "translated": "%x% မီလီစက္ကန့်"
+    },
+    "rt.mss": {
+      "source": "%x% milliseconds",
+      "translated": "%x% မီလီစက္ကန့်"
+    },
+    "rt.second": {
+      "source": "%x% second",
+      "translated": "%x% စက်ဏန့်"
+    },
+    "rt.seconds": {
+      "source": "%x% seconds",
+      "translated": "%x% စက်ဏန့်"
+    },
+    "rt.zero": {
+      "source": "no time at all",
+      "translated": "လုံးဝအချိန်မရှိပါ"
     },
     "settings.ctrl.gender": {
       "source": "Gender",
