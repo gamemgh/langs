@@ -1,7 +1,7 @@
 {
   "code": "my",
   "config": {
-    "lastmod": "2025-06-03T11:02:34+06:30",
+    "lastmod": "2025-07-05T13:36:28+06:30",
     "name": "Myanmar (Burmese)"
   },
   "keys": {
@@ -376,6 +376,18 @@
     "magic.newspell": {
       "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
       "translated": "သင်ဟာ %a% ကို သုံးနိုင်ပါပြီ၊ ဒါကိုသုံးဖို့ မှော်စွမ်းအင် %b% လိုအပ်ပါတယ်။ %c%။"
+    },
+    "menus.dl.b": {
+      "source": "Download on browser",
+      "translated": "browser ပေါ်တွင် download လုပ်ပါ"
+    },
+    "menus.dl.d": {
+      "source": "Download using in-game system",
+      "translated": "In-Game System ကို သုံး. download လုပ်ပါ"
+    },
+    "menus.dl.title": {
+      "source": "Choose download method",
+      "translated": "ဒေါင်းလုပ်နည်းလမ်းကိုရွေးချယ်ပါ"
     },
     "menus.dllang.dl": {
       "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",

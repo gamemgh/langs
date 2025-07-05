@@ -1,7 +1,7 @@
 {
   "code": "en",
   "config": {
-    "lastmod": "2025-06-03T10:54:07+06:30",
+    "lastmod": "2025-06-09T16:37:16+06:30",
     "name": "English"
   },
   "keys": {
@@ -376,6 +376,18 @@
     "magic.newspell": {
       "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
       "translated": "You now have the ability to cast %a%, which requires %b% magic energy. %c%."
+    },
+    "menus.dl.b": {
+      "source": "Download on browser",
+      "translated": "Download on browser"
+    },
+    "menus.dl.d": {
+      "source": "Download using in-game system",
+      "translated": "Download using in-game system"
+    },
+    "menus.dl.title": {
+      "source": "Choose download method",
+      "translated": "Choose download method"
     },
     "menus.dllang.dl": {
       "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
