@@ -1,7 +1,7 @@
 {
   "code": "my",
   "config": {
-    "lastmod": "2025-07-05T13:36:28+06:30",
+    "lastmod": "2025-07-06T09:48:02+06:30",
     "name": "Myanmar (Burmese)"
   },
   "keys": {
@@ -614,7 +614,7 @@
       "translated": "သင်ဟာ %c% %d% နဲ့ %a% %b% ကို အောင်မြင်စွာ ဝယ်ယူပြီးပါပြီ။"
     },
     "menus.store.item": {
-      "source": "%a%, costs %b% %c%, you can buy %d%",
+      "source": "%a%, costs %b% %c%, you can purchase %d%",
       "translated": "%a%၊ ဈေးနှုန်း %b% %c%၊ သင် %d% ဝယ်ယူနိုင်သည်"
     },
     "menus.store.item.invalid": {
@@ -622,11 +622,11 @@
       "translated": "ဒီပစ္စည်း မရှိပါဘူး။"
     },
     "menus.store.title": {
-      "source": "Store. What would you like to buy?",
+      "source": "Store. What would you like to purchase?",
       "translated": "စတိုးဆိုင်။ ဘာဝယ်ချင်လဲ?"
     },
     "menus.store.zero": {
-      "source": "There are no items to buy.",
+      "source": "There are no items to purchase.",
       "translated": "ဝယ်ယူရန် ပစ္စည်းများ မရှိပါ။"
     },
     "menus.test.correct": {

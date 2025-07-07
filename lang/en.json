@@ -1,7 +1,7 @@
 {
   "code": "en",
   "config": {
-    "lastmod": "2025-06-09T16:37:16+06:30",
+    "lastmod": "2025-07-06T12:10:59+06:30",
     "name": "English"
   },
   "keys": {
@@ -337,6 +337,10 @@
       "source": "You have %x% %y%.",
       "translated": "You have %x% %y%."
     },
+    "inv.ditem": {
+      "source": "%x%, you have %y%",
+      "translated": "%x%, you have %y%"
+    },
     "invalid.gender": {
       "source": "Invalid gender!",
       "translated": "Invalid gender!"
@@ -350,8 +354,8 @@
       "translated": "Invalid username!"
     },
     "langupdate.available.description": {
-      "source": "A new update %x% is available for %y% language. Download now? This will open at your default browser.",
-      "translated": "A new update %x% is available for %y% language. Download now? This will open at your default browser."
+      "source": "A new update %x% is available for %y% language. Download now?",
+      "translated": "A new update %x% is available for %y% language. Download now?"
     },
     "langupdate.available.no": {
       "source": "No updates available for %x% language",
@@ -614,20 +618,20 @@
       "translated": "You've successfully purchased %a% %b% with %c% %d%."
     },
     "menus.store.item": {
-      "source": "%a%, costs %b% %c%, you can buy %d%",
-      "translated": "%a%, costs %b% %c%, you can buy %d%"
+      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "translated": "%a%, costs %b% %c%, you can purchase %d%"
     },
     "menus.store.item.invalid": {
       "source": "This item does not exist.",
       "translated": "This item does not exist."
     },
     "menus.store.title": {
-      "source": "Store. What would you like to buy?",
-      "translated": "Store. What would you like to buy?"
+      "source": "Store. What would you like to purchase?",
+      "translated": "Store. What would you like to purchase?"
     },
     "menus.store.zero": {
-      "source": "There are no items to buy.",
-      "translated": "There are no items to buy."
+      "source": "There are no items to purchase.",
+      "translated": "There are no items to purchase."
     },
     "menus.test.correct": {
       "source": "Excellent! : you've got the right position",
@@ -826,8 +830,8 @@
       "translated": "Trophy Energy"
     },
     "update.available.description": {
-      "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
-      "translated": "A new update %x% (build %y%) is available. Download now? This will open at your default browser."
+      "source": "A new update %x% (build %y%) is available. Download now?",
+      "translated": "A new update %x% (build %y%) is available. Download now?"
     },
     "update.available.no": {
       "source": "No updates available",
