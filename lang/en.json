@@ -1,7 +1,7 @@
 {
   "code": "en",
   "config": {
-    "lastmod": "2025-07-06T12:10:59+06:30",
+    "lastmod": "2025-07-24T19:44:21+06:30",
     "name": "English"
   },
   "keys": {
@@ -198,24 +198,24 @@
       "translated": "Your invisibility spell has expired."
     },
     "games.eb.spells.block.description": {
-      "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
-      "translated": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them"
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "translated": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them"
     },
     "games.eb.spells.block.title": {
       "source": "Movements Block",
       "translated": "Movements Block"
     },
     "games.eb.spells.death.description": {
-      "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
-      "translated": "Instantly kills all enemies surrounding you, that are within %x% tiles"
+      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "translated": "Instantly kills all enemies surrounding you, that are within %x% meters"
     },
     "games.eb.spells.death.title": {
       "source": "Instant Kill",
       "translated": "Instant Kill"
     },
     "games.eb.spells.flame.description": {
-      "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health as they are burned",
-      "translated": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health as they are burned"
+      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "translated": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned"
     },
     "games.eb.spells.flame.title": {
       "source": "Flame",
