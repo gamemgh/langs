@@ -192,7 +192,7 @@
       "translated": "Görünmezlik büyünüzün süresi doldu."
     },
     "games.eb.spells.block.description": {
-      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
       "translated": "Sizi çevreleyen %x% adım içindeki düşmanları geçici olarak engeller ve yürüyememelerini sağlar, fakat hala vurabilirler"
     },
     "games.eb.spells.block.title": {
@@ -200,7 +200,7 @@
       "translated": "Hareket engelleme"
     },
     "games.eb.spells.death.description": {
-      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
       "translated": "Sizi çevreleyen %x% adım içindeki düşmanları anında öldürür"
     },
     "games.eb.spells.death.title": {
@@ -208,7 +208,7 @@
       "translated": "Anında öldür"
     },
     "games.eb.spells.flame.description": {
-      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health",
       "translated": "Yangın ve alevlerle %x% adım içindeki düşmanları yakarak sağlıklarını alır"
     },
     "games.eb.spells.flame.title": {
@@ -336,7 +336,7 @@
       "translated": "Artık %b% büyü enerjisi gerektiren %a% atma yeteneğine sahipsiniz. %c%."
     },
     "menus.dllang.dl": {
-      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "source": "Please download %x% from the browser, then extract it in the lang folder. Press the OK button.",
       "translated": "Lütfen tarayıcıdan %x% indirin, ardından Lang klasörüne çıkarın. Tamam düğmesine basın."
     },
     "menus.dllang.more": {
@@ -436,7 +436,7 @@
       "translated": "%x% büyülü enerji ile %y% büyü yapabilirsiniz"
     },
     "menus.magic.zero": {
-      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "source": "You have no available spells to cast.",
       "translated": "Yapmak için mevcut büyünüz yok."
     },
     "menus.main.dllang": {
@@ -472,7 +472,7 @@
       "translated": "Sistem bilgileri ve ilgili hata ayıklama günlükleri panoya kopyalanmıştır. Lütfen bu şifreli bilgileri geliştiriciye gönderin"
     },
     "menus.main.test": {
-      "source": "Test Speakers",
+      "source": "Test your Speakers",
       "translated": "hoparlör testi"
     },
     "menus.main.title": {
@@ -496,7 +496,7 @@
       "translated": "Web sitesi açılamadı. Şimdi panonuza kopyalanıyor."
     },
     "menus.store.amount.invalid": {
-      "source": "You must buy at least 1 quantity!",
+      "source": "You must buy at least 1!",
       "translated": "En az 1 satın almalısın!"
     },
     "menus.store.amount.less": {
@@ -512,7 +512,7 @@
       "translated": "%a% %b% eşyasını %c% %d% karşılığında satın aldın."
     },
     "menus.store.item": {
-      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "source": "%a%, costs %b% %c%, you can buy %d%",
       "translated": "%a%, %b% %c% gerektirir %d% tane satın alabilirsin"
     },
     "menus.store.item.invalid": {
@@ -520,11 +520,11 @@
       "translated": "Bu öğe mevcut değil."
     },
     "menus.store.title": {
-      "source": "Store. What would you like to purchase?",
+      "source": "Store. What would you like to buy?",
       "translated": "Mağaza. Ne satın almak istersiniz?"
     },
     "menus.store.zero": {
-      "source": "There are no items to purchase.",
+      "source": "There are no items to buy.",
       "translated": "Satın alınacak eşya yok."
     },
     "menus.test.correct": {
@@ -648,7 +648,7 @@
       "translated": "Ayarlar"
     },
     "update.available.description": {
-      "source": "A new update %x% (build %y%) is available. Download now?",
+      "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
       "translated": "yeni bir güncelleme %X %(build %y) mevcut. Şimdi indirilsin mi? Bu varsayılan tarayıcınızda açılır."
     },
     "update.available.no": {

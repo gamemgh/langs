@@ -196,7 +196,7 @@
       "translated": "Tàng hình của bạn đã hết hiệu lực."
     },
     "games.eb.spells.block.description": {
-      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
       "translated": "Tạm thời phong tỏa tất cả kẻ địch xung quanh bạn trong phạm vi %x% ô, khiến chúng không thể di chuyển nhưng bạn vẫn có thể tấn công chúng."
     },
     "games.eb.spells.block.title": {
@@ -204,7 +204,7 @@
       "translated": "Phong Ấn"
     },
     "games.eb.spells.death.description": {
-      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
       "translated": "Giết chết tức thì tất cả kẻ thù xung quanh bạn, trong phạm vi %x% ô"
     },
     "games.eb.spells.death.title": {
@@ -212,7 +212,7 @@
       "translated": "Sát Nộ"
     },
     "games.eb.spells.flame.description": {
-      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health",
       "translated": "Thiêu đốt kẻ thù xung quanh trong phạm vi %x% ô bằng lửa, làm giảm máu của chúng"
     },
     "games.eb.spells.flame.title": {
@@ -348,7 +348,7 @@
       "translated": "Bạn giờ đây có thể sử dụng phép thuật %a%, cần %b% năng lượng phép thuật. %c%."
     },
     "menus.dllang.dl": {
-      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "source": "Please download %x% from the browser, then extract it in the lang folder. Press the OK button.",
       "translated": "Vui lòng tải xuống %x% từ trình duyệt, sau đó giải nén vào thư mục lang. Nhấn nút OK."
     },
     "menus.dllang.more": {
@@ -448,7 +448,7 @@
       "translated": "Với %x% năng lượng phép thuật, bạn có thể niệm %y% câu thần chú."
     },
     "menus.magic.zero": {
-      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "source": "You have no available spells to cast.",
       "translated": "Bạn không có phép thuật nào khả dụng để thi triển."
     },
     "menus.main.dllang": {
@@ -488,7 +488,7 @@
       "translated": "Thông tin hệ thống và log debug liên quan đã được sao chép vào clipboard. Vui lòng cung cấp thông tin đã được mã hóa đó cho nhà phát triển yêu cầu thông tin về sự cố."
     },
     "menus.main.test": {
-      "source": "Test Speakers",
+      "source": "Test your Speakers",
       "translated": "Thử loa của bạn"
     },
     "menus.main.title": {
@@ -548,7 +548,7 @@
       "translated": "Thống kê"
     },
     "menus.store.amount.invalid": {
-      "source": "You must buy at least 1 quantity!",
+      "source": "You must buy at least 1!",
       "translated": "Bạn phải mua ít nhất 1!"
     },
     "menus.store.amount.less": {
@@ -564,7 +564,7 @@
       "translated": "Bạn đã mua thành công %a% %b% với giá %c% %d%."
     },
     "menus.store.item": {
-      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "source": "%a%, costs %b% %c%, you can buy %d%",
       "translated": "%a%, giá %b% %c%, bạn có thể mua %d%"
     },
     "menus.store.item.invalid": {
@@ -572,11 +572,11 @@
       "translated": "Mặt hàng này không tồn tại."
     },
     "menus.store.title": {
-      "source": "Store. What would you like to purchase?",
+      "source": "Store. What would you like to buy?",
       "translated": "Cửa hàng. bạn muốn mua gì?"
     },
     "menus.store.zero": {
-      "source": "There are no items to purchase.",
+      "source": "There are no items to buy.",
       "translated": "Không có mặt hàng nào để mua."
     },
     "menus.test.correct": {
@@ -716,7 +716,7 @@
       "translated": "Năng lượng chiến thắng"
     },
     "update.available.description": {
-      "source": "A new update %x% (build %y%) is available. Download now?",
+      "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
       "translated": "Bản cập nhật mới %x% (phiên bản %y%) đã có. Tải xuống ngay không? Thao tác này sẽ mở trình duyệt mặc định của bạn."
     },
     "update.available.no": {

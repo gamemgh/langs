@@ -180,7 +180,7 @@
       "translated": "Tu hechizo de invisibilidad ha expirado."
     },
     "games.eb.spells.block.description": {
-      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
       "translated": "Bloquea temporalmente a todos los enemigos que te rodean y que están dentro de un radio de %x% casillas, dejándolos incapaces de moverse mientras tú aún puedes golpearlos."
     },
     "games.eb.spells.block.title": {
@@ -188,7 +188,7 @@
       "translated": "Bloqueo de Movimientos"
     },
     "games.eb.spells.death.description": {
-      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
       "translated": "Instantáneamente mata a todos los enemigos que te rodean, que están dentro del % x % de pasos"
     },
     "games.eb.spells.death.title": {
@@ -196,7 +196,7 @@
       "translated": "Instant Kill"
     },
     "games.eb.spells.flame.description": {
-      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health",
       "translated": "Quema a los enemigos cercanos dentro del rango de %x% casillas con fuego y llamas, reduciendo su salud."
     },
     "games.eb.spells.flame.title": {
@@ -324,7 +324,7 @@
       "translated": "Ahora tienes la capacidad de lanzar %a%, lo que requiere %b% de energía mágica. %c%."
     },
     "menus.dllang.dl": {
-      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "source": "Please download %x% from the browser, then extract it in the lang folder. Press the OK button.",
       "translated": "Por favor, descarga %x% desde el navegador, luego extráelo en la carpeta lang. Presiona el botón OK."
     },
     "menus.dllang.more": {
@@ -424,7 +424,7 @@
       "translated": "Con %x% de energía mágica puedes lanzar los hechizos %y%."
     },
     "menus.magic.zero": {
-      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "source": "You have no available spells to cast.",
       "translated": "No tienes hechizos disponibles para lanzar."
     },
     "menus.main.dllang": {
@@ -464,7 +464,7 @@
       "translated": "La información del sistema y los registros de depuración relacionados han sido copiados al portapapeles. Por favor, proporciona esa información cifrada al desarrollador que te la solicitó para el problema."
     },
     "menus.main.test": {
-      "source": "Test Speakers",
+      "source": "Test your Speakers",
       "translated": "Probar tus altavoces"
     },
     "menus.main.title": {
@@ -500,7 +500,7 @@
       "translated": "Estadísticas"
     },
     "menus.store.amount.invalid": {
-      "source": "You must buy at least 1 quantity!",
+      "source": "You must buy at least 1!",
       "translated": "¡Debes comprar al menos 1!"
     },
     "menus.store.amount.less": {
@@ -516,7 +516,7 @@
       "translated": "Has comprado correctamente %a% %b% con %c% %d%."
     },
     "menus.store.item": {
-      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "source": "%a%, costs %b% %c%, you can buy %d%",
       "translated": "%a%, cuesta %b% %c%, puedes comprar %d%"
     },
     "menus.store.item.invalid": {
@@ -524,11 +524,11 @@
       "translated": "Este artículo no existe."
     },
     "menus.store.title": {
-      "source": "Store. What would you like to purchase?",
+      "source": "Store. What would you like to buy?",
       "translated": "Tienda. ¿Qué te gustaría comprar?"
     },
     "menus.store.zero": {
-      "source": "There are no items to purchase.",
+      "source": "There are no items to buy.",
       "translated": "No hay artículos disponibles para comprar."
     },
     "menus.test.correct": {
@@ -652,7 +652,7 @@
       "translated": "Ajustes"
     },
     "update.available.description": {
-      "source": "A new update %x% (build %y%) is available. Download now?",
+      "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
       "translated": "Una nueva actualización %x% (build %y%) está disponible. ¿Descargar ahora? Esto abrirá en tu navegador predeterminado."
     },
     "update.available.no": {

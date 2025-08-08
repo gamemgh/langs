@@ -68,7 +68,7 @@
       "translated": "Ваша магия невидимости закончилась."
     },
     "games.eb.spells.block.description": {
-      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
       "translated": "Временно блокирует всех врагов вокруг на радиусе %x% квадратов, делая их неспособными"
     },
     "games.eb.spells.block.title": {
@@ -76,7 +76,7 @@
       "translated": "Блокировать движения"
     },
     "games.eb.spells.death.description": {
-      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
       "translated": "Мгновенно убивает всех врагов вокруг на радиусе %x% квадратов"
     },
     "games.eb.spells.death.title": {
@@ -84,7 +84,7 @@
       "translated": "Мгновенная смерть"
     },
     "games.eb.spells.flame.description": {
-      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health",
       "translated": "Поджигайте врагов вокруг на радиусе %x% квадратов с помощью огня и пламени"
     },
     "games.eb.spells.flame.title": {
@@ -208,7 +208,7 @@
       "translated": "Теперь вы можете использовать магию %a%, она требует %b% магической энергии. %c%."
     },
     "menus.dllang.dl": {
-      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "source": "Please download %x% from the browser, then extract it in the lang folder. Press the OK button.",
       "translated": "Пожалуйста, скачайте %x% прямо в вашем браузере и распакуйте его в папку lang. Нажмите кнопку OK."
     },
     "menus.dllang.more": {
@@ -300,7 +300,7 @@
       "translated": "%a%, требует %b% магической энергии для использования. Эффект наступает через %c% миллисекунд."
     },
     "menus.magic.zero": {
-      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "source": "You have no available spells to cast.",
       "translated": "У вас нет доступных магий для использования."
     },
     "menus.main.gm": {
@@ -332,7 +332,7 @@
       "translated": "Информация о системе и журналы отладки скопированы в буфер обмена. Пожалуйста, предоставьте эти данные в зашифрованном виде разработчику для исправления проблем."
     },
     "menus.main.test": {
-      "source": "Test Speakers",
+      "source": "Test your Speakers",
       "translated": "Проверить динамики"
     },
     "menus.main.title": {
@@ -356,7 +356,7 @@
       "translated": "Ошибка при открытии сайта. Ссылка скопирована в ваш буфер обмена."
     },
     "menus.store.amount.invalid": {
-      "source": "You must buy at least 1 quantity!",
+      "source": "You must buy at least 1!",
       "translated": "Вы должны купить хотя бы 1!"
     },
     "menus.store.amount.less": {
@@ -372,7 +372,7 @@
       "translated": "Готово. Вы купили %a% %b% за %c% %d%."
     },
     "menus.store.item": {
-      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "source": "%a%, costs %b% %c%, you can buy %d%",
       "translated": "%a%, стоит %b% %c%, вы можете купить %d%"
     },
     "menus.store.item.invalid": {
@@ -380,11 +380,11 @@
       "translated": "Этот товар не существует."
     },
     "menus.store.title": {
-      "source": "Store. What would you like to purchase?",
+      "source": "Store. What would you like to buy?",
       "translated": "Магазин. Что вы хотите купить?"
     },
     "menus.store.zero": {
-      "source": "There are no items to purchase.",
+      "source": "There are no items to buy.",
       "translated": "Нет доступных товаров для покупки."
     },
     "menus.test.correct": {
@@ -496,7 +496,7 @@
       "translated": "Настройки"
     },
     "update.available.description": {
-      "source": "A new update %x% (build %y%) is available. Download now?",
+      "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
       "translated": "Найдено новое обновление %x% (%y%). Хотите скачать его? Оно откроется в вашем стандартном браузере."
     },
     "update.available.no": {
