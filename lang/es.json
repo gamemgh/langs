@@ -1,7 +1,7 @@
 {
   "config": {
     "name": "español"
-  }
+  },
   "keys": {
     "games.archery.done": {
       "source": "Game finished.",
