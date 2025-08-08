@@ -1,0 +1,523 @@
+{
+  "config": {
+    "name": "Russian"
+  }
+  "keys": {
+    "games.archery.done": {
+      "source": "Game finished.",
+      "translated": "Конец игры."
+    },
+    "games.archery.fail": {
+      "source": "Sorry, you have lost the game.",
+      "translated": "Вы проиграли."
+    },
+    "games.archery.get": {
+      "source": "You've gained %x% %y%. Congratulations!",
+      "translated": "Вы заработали %x% %y%. Поздравляем!"
+    },
+    "games.archery.life": {
+      "source": "You have %x% shots left.",
+      "translated": "%x% выстрелов осталось."
+    },
+    "games.archery.missed": {
+      "source": "You missed.",
+      "translated": "Вы промахнулись."
+    },
+    "games.archery.points": {
+      "source": "You have %x% points.",
+      "translated": "У вас %x% очков."
+    },
+    "games.archery.started": {
+      "source": "Round %x%. You need %y% points this round. You have %z% shots left.",
+      "translated": "Раунд %x%. Вам нужно набрать %y% очков, чтобы пройти в следующий раунд. У вас осталось %z% выстрелов."
+    },
+    "games.archery.success": {
+      "source": "You've won this round!",
+      "translated": "Вы выиграли этот раунд!"
+    },
+    "games.archery.title": {
+      "source": "Archery",
+      "translated": "Стрельба из лука"
+    },
+    "games.archery.tpoints": {
+      "source": "Total score: %x% points.",
+      "translated": "Общий счёт: %x% очков."
+    },
+    "games.dm.gain": {
+      "source": "You've earned %x% %y%!",
+      "translated": "Вы выиграли %x% %y%!"
+    },
+    "games.dm.nogain": {
+      "source": "Oh no! You've lost %x% %y%!",
+      "translated": "О нет! Вы проиграли %x% %y%!"
+    },
+    "games.dm.started": {
+      "source": "Game started.",
+      "translated": "Игра началась."
+    },
+    "games.dm.title": {
+      "source": "Dice Match",
+      "translated": "Игра в кости"
+    },
+    "games.eb.general.title": {
+      "source": "Endless Battle",
+      "translated": "Бесконечная битва"
+    },
+    "games.eb.magic.e_invisible": {
+      "source": "Your invisibility spell has expired.",
+      "translated": "Ваша магия невидимости закончилась."
+    },
+    "games.eb.spells.block.description": {
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "translated": "Временно блокирует всех врагов вокруг на радиусе %x% квадратов, делая их неспособными"
+    },
+    "games.eb.spells.block.title": {
+      "source": "Movements Block",
+      "translated": "Блокировать движения"
+    },
+    "games.eb.spells.death.description": {
+      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "translated": "Мгновенно убивает всех врагов вокруг на радиусе %x% квадратов"
+    },
+    "games.eb.spells.death.title": {
+      "source": "Instant Kill",
+      "translated": "Мгновенная смерть"
+    },
+    "games.eb.spells.flame.description": {
+      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "translated": "Поджигайте врагов вокруг на радиусе %x% квадратов с помощью огня и пламени"
+    },
+    "games.eb.spells.flame.title": {
+      "source": "Flame",
+      "translated": "Огненные струи"
+    },
+    "games.eb.spells.heal.description": {
+      "source": "Heal yourself to the maximum possible health",
+      "translated": "Исцелите себя на максимально возможное количество здоровья"
+    },
+    "games.eb.spells.heal.title": {
+      "source": "Vitality Surge",
+      "translated": "Всплеск жизненной силы"
+    },
+    "games.eb.spells.invisibility.description": {
+      "source": "Prevents being hit by your enemies for %x% seconds while you are still being able to hit them",
+      "translated": "Не быть поражённым врагами в течение %x% секунд"
+    },
+    "games.eb.spells.invisibility.title": {
+      "source": "Invisibility Shield",
+      "translated": "Невидимость"
+    },
+    "games.eb.user.elmhreach": {
+      "source": "games.eb.user.elmhreach",
+      "translated": "Максимальное здоровье достигнуто"
+    },
+    "games.eb.user.hp1": {
+      "source": "Health increased",
+      "translated": "Здоровье увеличено"
+    },
+    "games.eb.user.hpinfo": {
+      "source": "%x% out of %y% health, %z% percent.",
+      "translated": "%x% из %y% здоровья, %z% процентов."
+    },
+    "games.eb.user.killed": {
+      "source": "You have been killed by %x%.",
+      "translated": "%x% убил вас."
+    },
+    "games.eb.user.levelinfo": {
+      "source": "You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points.",
+      "translated": "Воскрешение %a%, уровень %b%, %c% очков опыта. %d% очков опыта до следующего уровня."
+    },
+    "games.eb.user.objget": {
+      "source": "You've gained %x% %y%.",
+      "translated": "%x% %y%."
+    },
+    "games.eb.wep.ammoinfo": {
+      "source": "%a% has %b% out of %c% %d%, remains %e%",
+      "translated": "%b% из %c% %d% в оружии %a%, осталось %e%"
+    },
+    "games.eb.wep.gainnew1": {
+      "source": "You've gained a new weapon, %x%.",
+      "translated": "Вы получили новое оружие! %x%."
+    },
+    "games.eb.wep.gainnew2": {
+      "source": "You've also gained %x% %y% for this!",
+      "translated": "И получили %x% %y% за это!"
+    },
+    "games.eb.wep.notammo": {
+      "source": "This weapon does not hold ammo.",
+      "translated": "Не требует боеприпасов"
+    },
+    "general.alreadyrunning": {
+      "source": "The game is already running!",
+      "translated": "Игра уже запущена!"
+    },
+    "general.cannotfindaudio": {
+      "source": "Audio file cannot be found.",
+      "translated": "Файл аудио не найден."
+    },
+    "general.currently": {
+      "source": "Currently %x%",
+      "translated": "%x% в данный момент"
+    },
+    "general.error": {
+      "source": "Error",
+      "translated": "Ошибка"
+    },
+    "general.exiting": {
+      "source": "Exiting...",
+      "translated": "Выход..."
+    },
+    "general.gender.boy": {
+      "source": "Male",
+      "translated": "Мужской"
+    },
+    "general.gender.girl": {
+      "source": "Female",
+      "translated": "Женский"
+    },
+    "general.information": {
+      "source": "Information",
+      "translated": "Информация"
+    },
+    "general.sounderror": {
+      "source": "Sound error",
+      "translated": "Ошибка звука"
+    },
+    "general.success": {
+      "source": "Success",
+      "translated": "Успех"
+    },
+    "general.youhave": {
+      "source": "You have %x% %y%.",
+      "translated": "%x% %y%."
+    },
+    "invalid.gender": {
+      "source": "Invalid gender!",
+      "translated": "Неверный пол!"
+    },
+    "invalid.spt.less": {
+      "source": "Enemy spawn time should be no less than 1 second.",
+      "translated": "Время появления врагов не может быть менее 1 секунды."
+    },
+    "invalid.username": {
+      "source": "Invalid username!",
+      "translated": "Неверное имя пользователя!"
+    },
+    "magic.newspell": {
+      "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
+      "translated": "Теперь вы можете использовать магию %a%, она требует %b% магической энергии. %c%."
+    },
+    "menus.dllang.dl": {
+      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "translated": "Пожалуйста, скачайте %x% прямо в вашем браузере и распакуйте его в папку lang. Нажмите кнопку OK."
+    },
+    "menus.dllang.more": {
+      "source": "There are %x% languages available to download",
+      "translated": "Доступно %x% языков для скачивания"
+    },
+    "menus.dllang.noe": {
+      "source": "This language %x% does not exist",
+      "translated": "Этот язык %x% не существует"
+    },
+    "menus.dllang.one": {
+      "source": "There is %x% language available to download",
+      "translated": "Доступен %x% язык для скачивания"
+    },
+    "menus.dllang.title": {
+      "source": "Language Downloader",
+      "translated": "Менеджер языков"
+    },
+    "menus.dllang.zero": {
+      "source": "There is no available languages to download",
+      "translated": "Нет доступных языков для скачивания"
+    },
+    "menus.games.game.active": {
+      "source": "You're already playing a game.",
+      "translated": "Вы уже играете в игру."
+    },
+    "menus.games.invalid.game": {
+      "source": "This minigame does not exist.",
+      "translated": "Эта мини-игра не существует."
+    },
+    "menus.games.invalid.gender": {
+      "source": "Please set your gender in the settings.",
+      "translated": "Пожалуйста, укажите ваш пол в настройках."
+    },
+    "menus.games.invalid.gender.android": {
+      "source": "Choose a valid gender please.",
+      "translated": "Пожалуйста, выберите правильный пол."
+    },
+    "menus.games.invalid.name": {
+      "source": "Invalid username.",
+      "translated": "Неверное имя пользователя."
+    },
+    "menus.games.quit": {
+      "source": "Go Back",
+      "translated": "Назад"
+    },
+    "menus.games.title": {
+      "source": "Games Menu",
+      "translated": "Список игр"
+    },
+    "menus.lang.already": {
+      "source": "You have already set this language.",
+      "translated": "Этот язык уже установлен."
+    },
+    "menus.lang.current": {
+      "source": "Current language",
+      "translated": "Текущий язык"
+    },
+    "menus.lang.default": {
+      "source": "Default fallback language",
+      "translated": "Язык по умолчанию"
+    },
+    "menus.lang.done": {
+      "source": "Language has been changed.",
+      "translated": "Язык был изменён."
+    },
+    "menus.lang.fail": {
+      "source": "Failed to change to this language %x%.",
+      "translated": "Ошибка при изменении на язык %x%."
+    },
+    "menus.lang.more": {
+      "source": "There are %x% languages available",
+      "translated": "Доступно %x% языков."
+    },
+    "menus.lang.one": {
+      "source": "There is %x% language available.",
+      "translated": "Доступен %x% язык."
+    },
+    "menus.lang.title": {
+      "source": "Choose a language to use.",
+      "translated": "Выберите язык."
+    },
+    "menus.lang.zero": {
+      "source": "There are no available languages.",
+      "translated": "Нет доступных языков."
+    },
+    "menus.magic.item": {
+      "source": "%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.",
+      "translated": "%a%, требует %b% магической энергии для использования. Эффект наступает через %c% миллисекунд."
+    },
+    "menus.magic.zero": {
+      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "translated": "У вас нет доступных магий для использования."
+    },
+    "menus.main.gm": {
+      "source": "Games Menu",
+      "translated": "Список игр"
+    },
+    "menus.main.lang": {
+      "source": "Change Language (currently %x%)",
+      "translated": "Сменить язык (%x% в использовании)"
+    },
+    "menus.main.quit": {
+      "source": "Exit the Game",
+      "translated": "Выход"
+    },
+    "menus.main.settings": {
+      "source": "Settings and Preferences",
+      "translated": "Настройки"
+    },
+    "menus.main.store": {
+      "source": "Store",
+      "translated": "Магазин"
+    },
+    "menus.main.systeminfo": {
+      "source": "Get system information, only needed if you need to provide your system information for example in case of device issue playing the game",
+      "translated": "Получить информацию о системе, необходимо, если вам нужно предоставить информацию о вашей системе, например, если игра не запускается"
+    },
+    "menus.main.systeminfo.done": {
+      "source": "System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue.",
+      "translated": "Информация о системе и журналы отладки скопированы в буфер обмена. Пожалуйста, предоставьте эти данные в зашифрованном виде разработчику для исправления проблем."
+    },
+    "menus.main.test": {
+      "source": "Test Speakers",
+      "translated": "Проверить динамики"
+    },
+    "menus.main.title": {
+      "source": "Main Menu.",
+      "translated": "Главное меню"
+    },
+    "menus.main.update": {
+      "source": "Check for Updates",
+      "translated": "Проверить обновления"
+    },
+    "menus.main.web": {
+      "source": "Visit Website",
+      "translated": "Посетить сайт игры"
+    },
+    "menus.main.web.done": {
+      "source": "The website was successfully opened at your browser.",
+      "translated": "Сайт успешно открыт в вашем браузере."
+    },
+    "menus.main.web.fail": {
+      "source": "Failed to open the website. It is now copied to your clipboard.",
+      "translated": "Ошибка при открытии сайта. Ссылка скопирована в ваш буфер обмена."
+    },
+    "menus.store.amount.invalid": {
+      "source": "You must buy at least 1 quantity!",
+      "translated": "Вы должны купить хотя бы 1!"
+    },
+    "menus.store.amount.less": {
+      "source": "Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!",
+      "translated": "%a% недостаточно. Ваша покупка составляет %b%, а у вас всего %c%, нужно ещё %d%!"
+    },
+    "menus.store.buy.canceled": {
+      "source": "Purchase canceled.",
+      "translated": "Покупка отменена."
+    },
+    "menus.store.buy.done": {
+      "source": "You've successfully purchased %a% %b% with %c% %d%.",
+      "translated": "Готово. Вы купили %a% %b% за %c% %d%."
+    },
+    "menus.store.item": {
+      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "translated": "%a%, стоит %b% %c%, вы можете купить %d%"
+    },
+    "menus.store.item.invalid": {
+      "source": "This item does not exist.",
+      "translated": "Этот товар не существует."
+    },
+    "menus.store.title": {
+      "source": "Store. What would you like to purchase?",
+      "translated": "Магазин. Что вы хотите купить?"
+    },
+    "menus.store.zero": {
+      "source": "There are no items to purchase.",
+      "translated": "Нет доступных товаров для покупки."
+    },
+    "menus.test.correct": {
+      "source": "Excellent! : you've got the right position",
+      "translated": "Правильное положение!"
+    },
+    "menus.test.press": {
+      "source": "Press the corresponding arrow",
+      "translated": "Нажмите соответствующую стрелку"
+    },
+    "menus.test.swipe": {
+      "source": "Swipe to the corresponding direction",
+      "translated": "Проведите в соответствующем направлении"
+    },
+    "menus.test.title": {
+      "source": "Where is the sound coming from?",
+      "translated": "Откуда исходит звук?"
+    },
+    "menus.test.wrong": {
+      "source": "You've got the wrong direction!",
+      "translated": "Неправильное положение!"
+    },
+    "rotation.dirinfo": {
+      "source": "%x% at %y% degrees",
+      "translated": "%x% на %y% градусов"
+    },
+    "rotation.east": {
+      "source": "east",
+      "translated": "восток"
+    },
+    "rotation.north": {
+      "source": "north",
+      "translated": "север"
+    },
+    "rotation.northeast": {
+      "source": "northeast",
+      "translated": "северо-восток"
+    },
+    "rotation.northwest": {
+      "source": "northwest",
+      "translated": "северо-запад"
+    },
+    "rotation.south": {
+      "source": "south",
+      "translated": "юг"
+    },
+    "rotation.southeast": {
+      "source": "southeast",
+      "translated": "юго-восток"
+    },
+    "rotation.southwest": {
+      "source": "southwest",
+      "translated": "юго-запад"
+    },
+    "rotation.west": {
+      "source": "west",
+      "translated": "запад"
+    },
+    "settings.ctrl.gender": {
+      "source": "Gender",
+      "translated": "Пол"
+    },
+    "settings.ctrl.gender.set": {
+      "source": "Gender successfully set.",
+      "translated": "Пол успешно установлен."
+    },
+    "settings.ctrl.ils": {
+      "source": "Play item loop sound",
+      "translated": "Воспроизведение звуков предметов"
+    },
+    "settings.ctrl.interrupt": {
+      "source": "Screen reader interrupting",
+      "translated": "Прерывание работы экранного чтеца"
+    },
+    "settings.ctrl.reset": {
+      "source": "Reset game data to its factory default",
+      "translated": "Сбросить данные игры к заводским настройкам"
+    },
+    "settings.ctrl.save": {
+      "source": "&Save options",
+      "translated": "&Сохранить настройки"
+    },
+    "settings.ctrl.spt": {
+      "source": "Enemy spawn time (in seconds)",
+      "translated": "Время появления врагов (установить в секундах)"
+    },
+    "settings.ctrl.username": {
+      "source": "Username",
+      "translated": "Имя пользователя"
+    },
+    "settings.reset.description": {
+      "source": "Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!",
+      "translated": "Вы уверены, что хотите сбросить? Это удалит все настройки и прогресс в игре!"
+    },
+    "settings.reset.done": {
+      "source": "All data has been cleared",
+      "translated": "Успешно сброшено"
+    },
+    "settings.reset.title": {
+      "source": "Reset",
+      "translated": "Сбросить"
+    },
+    "settings.saved": {
+      "source": "Options saved",
+      "translated": "Настройки сохранены"
+    },
+    "settings.title": {
+      "source": "Settings",
+      "translated": "Настройки"
+    },
+    "update.available.description": {
+      "source": "A new update %x% (build %y%) is available. Download now?",
+      "translated": "Найдено новое обновление %x% (%y%). Хотите скачать его? Оно откроется в вашем стандартном браузере."
+    },
+    "update.available.no": {
+      "source": "No updates available",
+      "translated": "Обновлений нет"
+    },
+    "update.available.title": {
+      "source": "Update Available",
+      "translated": "Доступно обновление"
+    },
+    "update.canceled": {
+      "source": "Update canceled",
+      "translated": "Обновление отменено"
+    },
+    "update.checking": {
+      "source": "Checking for updates. Please wait...",
+      "translated": "Проверка обновлений, пожалуйста, подождите..."
+    },
+    "update.title": {
+      "source": "Update",
+      "translated": "Менеджер обновлений"
+    }
+  }
+}

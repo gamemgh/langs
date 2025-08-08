@@ -1,0 +1,675 @@
+{
+  "config": {
+    "name": "Turkish"
+  }
+  "keys": {
+    "games.archery.done": {
+      "source": "Game finished.",
+      "translated": "Oyun bitti."
+    },
+    "games.archery.fail": {
+      "source": "Sorry, you have lost the game.",
+      "translated": "Üzgünüm, oyunu kaybettin."
+    },
+    "games.archery.get": {
+      "source": "You've gained %x% %y%. Congratulations!",
+      "translated": "%x% %y% kazandın. Tebrikler!"
+    },
+    "games.archery.life": {
+      "source": "You have %x% shots left.",
+      "translated": "kalan atış hakkın %x%"
+    },
+    "games.archery.missed": {
+      "source": "You missed.",
+      "translated": "Kaçırdın."
+    },
+    "games.archery.points": {
+      "source": "You have %x% points.",
+      "translated": "%x% puanın var."
+    },
+    "games.archery.started": {
+      "source": "Round %x%. You need %y% points this round. You have %z% shots left.",
+      "translated": "Tur %x%. Bu tur için %y% puana ihtiyacın var. Kalan atış hakkın %z%"
+    },
+    "games.archery.success": {
+      "source": "You've won this round!",
+      "translated": "Bu turu kazandın!"
+    },
+    "games.archery.title": {
+      "source": "Archery",
+      "translated": "Okçuluk"
+    },
+    "games.archery.tpoints": {
+      "source": "Total score: %x% points.",
+      "translated": "Toplam skor: %x% puan."
+    },
+    "games.bj.bet.done": {
+      "source": "Changed bet successfully!",
+      "translated": "Bahis başarıyla değiştirildi!"
+    },
+    "games.bj.bet.max": {
+      "source": "Error. You can't bet more than what you currently have, maximum %x% %y%.",
+      "translated": "Hata. Şu an sahip olduğundan fazla bahis yapamazsın, maksimum %x% %y%."
+    },
+    "games.bj.bet.prompt": {
+      "source": "Type the amount you want to bet",
+      "translated": "Bahis miktarını girin"
+    },
+    "games.bj.bet.title": {
+      "source": "Amount",
+      "translated": "Miktar"
+    },
+    "games.bj.ctc": {
+      "source": "Computer's total cards is %x%, which makes it %y%.",
+      "translated": "Bilgisayarın toplam kartları %x%, bu da %y% yapıyor."
+    },
+    "games.bj.ctrl.bc": {
+      "source": "Change bet button",
+      "translated": "Bahis değiştir düğme"
+    },
+    "games.bj.ctrl.hit": {
+      "source": "Hit new card button",
+      "translated": "Kart çek düğme"
+    },
+    "games.bj.ctrl.hit.press": {
+      "source": "Hits %x%",
+      "translated": "%x% çekildi."
+    },
+    "games.bj.ctrl.new": {
+      "source": "New button",
+      "translated": "Yeni oyun düğme"
+    },
+    "games.bj.ctrl.new.press": {
+      "source": "New game started.",
+      "translated": "Yeni oyun başladı."
+    },
+    "games.bj.ctrl.stand": {
+      "source": "Stand the Blackjack button",
+      "translated": "Blackjack dur düğme"
+    },
+    "games.bj.ctrl.stand.press": {
+      "source": "Standed!",
+      "translated": "Duruldu!"
+    },
+    "games.bj.finished": {
+      "source": "Game finished.",
+      "translated": "Oyun bitti."
+    },
+    "games.bj.have.bet": {
+      "source": "Bet, currently %x% %y%.",
+      "translated": "Bahis, şu an %x% %y%."
+    },
+    "games.bj.have.bj": {
+      "source": "Good, you have a blackjack!",
+      "translated": "Tebrikler, blackjack yaptın!"
+    },
+    "games.bj.have.currency": {
+      "source": "You currently have %x% %y%.",
+      "translated": "Şu an %x% %y% paran var."
+    },
+    "games.bj.info": {
+      "source": "%x%; making %y%.",
+      "translated": "%x%; toplam %y%."
+    },
+    "games.bj.losec": {
+      "source": "You've lost %x% %y%!",
+      "translated": "%x% %y% kaybettin!"
+    },
+    "games.bj.nc": {
+      "source": "No cards",
+      "translated": "Kart yok"
+    },
+    "games.bj.no.currency": {
+      "source": "Sorry, you don't have enough %x% that you are currently bet. You only have %y% %x%.",
+      "translated": "Üzgünüm, şu an %x% bahisi yapmak için yeterli paran yok. Sadece %y% %x% var."
+    },
+    "games.bj.quit.finish": {
+      "source": "Finish the current game first to be able to quit.",
+      "translated": "Çıkmak için önce mevcut oyunu bitirmelisin."
+    },
+    "games.bj.start": {
+      "source": "Game started.",
+      "translated": "Oyun başladı."
+    },
+    "games.bj.title": {
+      "source": "Blackjack",
+      "translated": "Blackjack"
+    },
+    "games.bj.total.card": {
+      "source": "Total cards, %x%.",
+      "translated": "Toplam kartlar, %x%."
+    },
+    "games.bj.total.num": {
+      "source": "Total numbers, %x%.",
+      "translated": "Toplam sayılar, %x%."
+    },
+    "games.bj.win_no": {
+      "source": "No one wins the game!",
+      "translated": "Kimse oyunu kazanamadı!"
+    },
+    "games.bj.winc": {
+      "source": "You've won %x% %y%.",
+      "translated": "%x% %y% kazandın."
+    },
+    "games.bj.winother": {
+      "source": "Computer wins the game!",
+      "translated": "Bilgisayar oyunu kazandı!"
+    },
+    "games.bj.winyou": {
+      "source": "You win the game!",
+      "translated": "Oyunu kazandın!"
+    },
+    "games.bj.yca": {
+      "source": "Your cards are:",
+      "translated": "Kartların:"
+    },
+    "games.bj.ytc": {
+      "source": "Your total cards is %x%, which makes it %y%.",
+      "translated": "Toplam kartların %x%, bu da %y% yapıyor."
+    },
+    "games.dm.gain": {
+      "source": "You've earned %x% %y%!",
+      "translated": "%x% %y% kazandın!"
+    },
+    "games.dm.nogain": {
+      "source": "Oh no! You've lost %x% %y%!",
+      "translated": "Oh hayır! %x% %y% kaybettin!"
+    },
+    "games.dm.started": {
+      "source": "Game started.",
+      "translated": "Oyun başladı."
+    },
+    "games.dm.title": {
+      "source": "Dice Match",
+      "translated": "Zar Maçı"
+    },
+    "games.eb.general.title": {
+      "source": "Endless Battle",
+      "translated": "Sonsuz Savaş"
+    },
+    "games.eb.magic.e_invisible": {
+      "source": "Your invisibility spell has expired.",
+      "translated": "Görünmezlik büyünüzün süresi doldu."
+    },
+    "games.eb.spells.block.description": {
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "translated": "Sizi çevreleyen %x% adım içindeki düşmanları geçici olarak engeller ve yürüyememelerini sağlar, fakat hala vurabilirler"
+    },
+    "games.eb.spells.block.title": {
+      "source": "Movements Block",
+      "translated": "Hareket engelleme"
+    },
+    "games.eb.spells.death.description": {
+      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "translated": "Sizi çevreleyen %x% adım içindeki düşmanları anında öldürür"
+    },
+    "games.eb.spells.death.title": {
+      "source": "Instant Kill",
+      "translated": "Anında öldür"
+    },
+    "games.eb.spells.flame.description": {
+      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "translated": "Yangın ve alevlerle %x% adım içindeki düşmanları yakarak sağlıklarını alır"
+    },
+    "games.eb.spells.flame.title": {
+      "source": "Flame",
+      "translated": "Alev"
+    },
+    "games.eb.spells.heal.description": {
+      "source": "Heal yourself to the maximum possible health",
+      "translated": "Kendinizi mümkün olan en fazla sağlığa iyileştirir"
+    },
+    "games.eb.spells.heal.title": {
+      "source": "Vitality Surge",
+      "translated": "Canlılık dalgalanması"
+    },
+    "games.eb.spells.invisibility.already_active": {
+      "source": "You are already invisible, thus you cannot cast again until it expires.",
+      "translated": "Zaten görünmezsiniz, bu nedenle sona erene kadar tekrar yapamazsınız"
+    },
+    "games.eb.spells.invisibility.description": {
+      "source": "Prevents being hit by your enemies for %x% seconds while you are still being able to hit them",
+      "translated": "%x% saniye boyunca düşmanlarınız tarafından vurulmanızı önler"
+    },
+    "games.eb.spells.invisibility.title": {
+      "source": "Invisibility Shield",
+      "translated": "Görünmezlik kalkanı"
+    },
+    "games.eb.user.hp1": {
+      "source": "Health increased",
+      "translated": "Sağlık arttırıldı"
+    },
+    "games.eb.user.hpinfo": {
+      "source": "%x% out of %y% health, %z% percent.",
+      "translated": "%x% / %y% sağlık, %z% yüzde."
+    },
+    "games.eb.user.killed": {
+      "source": "You have been killed by %x%.",
+      "translated": "%x% tarafından öldürüldün."
+    },
+    "games.eb.user.levelinfo": {
+      "source": "You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points.",
+      "translated": "Dirilişin %a% Seviyen %b% ve deneyim puanın. %c% bir sonraki seviye için gerekli deneyim puanı: %d%"
+    },
+    "games.eb.user.mhreach": {
+      "source": "Maximum health reached",
+      "translated": "Maksimum Sağlığa ulaşıldı"
+    },
+    "games.eb.user.objget": {
+      "source": "You've gained %x% %y%.",
+      "translated": "%x% %y% kazandın."
+    },
+    "games.eb.wep.ammoinfo": {
+      "source": "%a% has %b% out of %c% %d%, remains %e%",
+      "translated": "%a% %b% / %c% %d%, kalan %e%"
+    },
+    "games.eb.wep.gainnew1": {
+      "source": "You've gained a new weapon, %x%.",
+      "translated": "yeni bir silah kazandın, %x%."
+    },
+    "games.eb.wep.gainnew2": {
+      "source": "You've also gained %x% %y% for this!",
+      "translated": "Bunun için %x% %y% kazandın!"
+    },
+    "games.eb.wep.notammo": {
+      "source": "This weapon does not hold ammo.",
+      "translated": "bu silahın mermiye ihtiyacı yok"
+    },
+    "general.alreadyrunning": {
+      "source": "The game is already running!",
+      "translated": "Oyun zaten çalışıyor!"
+    },
+    "general.cannotfindaudio": {
+      "source": "Audio file cannot be found.",
+      "translated": "Ses dosyası bulunamadı."
+    },
+    "general.currently": {
+      "source": "Currently %x%",
+      "translated": "Şu anda %x%"
+    },
+    "general.error": {
+      "source": "Error",
+      "translated": "Hata"
+    },
+    "general.exiting": {
+      "source": "Exiting...",
+      "translated": "Çıkış yapılıyor..."
+    },
+    "general.gender.boy": {
+      "source": "Male",
+      "translated": "Erkek"
+    },
+    "general.gender.girl": {
+      "source": "Female",
+      "translated": "Kadın"
+    },
+    "general.information": {
+      "source": "Information",
+      "translated": "Bilgi"
+    },
+    "general.sounderror": {
+      "source": "Sound error",
+      "translated": "Ses hatası"
+    },
+    "general.success": {
+      "source": "Success",
+      "translated": "Başarılı"
+    },
+    "general.youhave": {
+      "source": "You have %x% %y%.",
+      "translated": "Sahipsin %x% %y%."
+    },
+    "invalid.gender": {
+      "source": "Invalid gender!",
+      "translated": "Geçersiz Cinsiyet!"
+    },
+    "invalid.spt.less": {
+      "source": "Enemy spawn time should be no less than 1 second.",
+      "translated": "Düşman doğma süresi 1 saniyeden az olmamalıdır."
+    },
+    "invalid.username": {
+      "source": "Invalid username!",
+      "translated": "Geçersiz Kullanıcı Adı!"
+    },
+    "magic.newspell": {
+      "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
+      "translated": "Artık %b% büyü enerjisi gerektiren %a% atma yeteneğine sahipsiniz. %c%."
+    },
+    "menus.dllang.dl": {
+      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "translated": "Lütfen tarayıcıdan %x% indirin, ardından Lang klasörüne çıkarın. Tamam düğmesine basın."
+    },
+    "menus.dllang.more": {
+      "source": "There are %x% languages available to download",
+      "translated": "İndirmek için %x% dil mevcut"
+    },
+    "menus.dllang.noe": {
+      "source": "This language %x% does not exist",
+      "translated": "bu dil %x% mevcut değil"
+    },
+    "menus.dllang.one": {
+      "source": "There is %x% language available to download",
+      "translated": "İndirmek için %x% dil mevcut"
+    },
+    "menus.dllang.title": {
+      "source": "Language Downloader",
+      "translated": "Dil İndirici"
+    },
+    "menus.dllang.zero": {
+      "source": "There is no available languages to download",
+      "translated": "İndirilecek mevcut dil yok"
+    },
+    "menus.games.game.active": {
+      "source": "You're already playing a game.",
+      "translated": "Zaten bir oyun oynuyorsun."
+    },
+    "menus.games.invalid.game": {
+      "source": "This minigame does not exist.",
+      "translated": "Bu mini oyun mevcut değil."
+    },
+    "menus.games.invalid.gender": {
+      "source": "Please set your gender in the settings.",
+      "translated": "Lütfen cinsiyetinizi ayarlardan ayarlayın."
+    },
+    "menus.games.invalid.gender.android": {
+      "source": "Choose a valid gender please.",
+      "translated": "Lütfen geçerli bir cinsiyet seçin."
+    },
+    "menus.games.invalid.name": {
+      "source": "Invalid username.",
+      "translated": "Geçersiz kullanıcı adı."
+    },
+    "menus.games.quit": {
+      "source": "Go Back",
+      "translated": "Geri dön"
+    },
+    "menus.games.title": {
+      "source": "Games Menu",
+      "translated": "Oyun Menüsü"
+    },
+    "menus.lang.already": {
+      "source": "You have already set this language.",
+      "translated": "Bu dili zaten ayarladınız."
+    },
+    "menus.lang.current": {
+      "source": "Current language",
+      "translated": "mevcut dil"
+    },
+    "menus.lang.default": {
+      "source": "Default fallback language",
+      "translated": "varsayılan dil"
+    },
+    "menus.lang.done": {
+      "source": "Language has been changed.",
+      "translated": "Dil değiştirildi."
+    },
+    "menus.lang.fail": {
+      "source": "Failed to change to this language %x%.",
+      "translated": "%x%diline geçilemedi."
+    },
+    "menus.lang.more": {
+      "source": "There are %x% languages available",
+      "translated": "%x% dil mevcut"
+    },
+    "menus.lang.one": {
+      "source": "There is %x% language available.",
+      "translated": "%x% Dil mevcut."
+    },
+    "menus.lang.title": {
+      "source": "Choose a language to use.",
+      "translated": "Kullanılacak bir dil seçin."
+    },
+    "menus.lang.zero": {
+      "source": "There are no available languages.",
+      "translated": "Kullanılabilir dil mevcut değil."
+    },
+    "menus.magic.item": {
+      "source": "%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.",
+      "translated": "%a%, %b% büyülü enerji gerektirir. Etkisini göstermesi %c% milisaniye sürer"
+    },
+    "menus.magic.title": {
+      "source": "With %x% magic energy you can cast %y% spell.",
+      "translated": "%x% büyülü enerji ile %y% büyü yapabilirsiniz"
+    },
+    "menus.magic.title.plural": {
+      "source": "With %x% magic energy you can cast %y% spells.",
+      "translated": "%x% büyülü enerji ile %y% büyü yapabilirsiniz"
+    },
+    "menus.magic.zero": {
+      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "translated": "Yapmak için mevcut büyünüz yok."
+    },
+    "menus.main.dllang": {
+      "source": "Language Downloader",
+      "translated": "Dil İndirici"
+    },
+    "menus.main.gm": {
+      "source": "Games Menu",
+      "translated": "Oyun Menüsü"
+    },
+    "menus.main.lang": {
+      "source": "Change Language (currently %x%)",
+      "translated": "Dili değiştir (mevcut dil %x%)"
+    },
+    "menus.main.quit": {
+      "source": "Exit the Game",
+      "translated": "Oyundan çık"
+    },
+    "menus.main.settings": {
+      "source": "Settings and Preferences",
+      "translated": "Ayarlar ve tercihler"
+    },
+    "menus.main.store": {
+      "source": "Store",
+      "translated": "Mağaza"
+    },
+    "menus.main.systeminfo": {
+      "source": "Get system information, only needed if you need to provide your system information for example in case of device issue playing the game",
+      "translated": "Sistem bilgilerini alın, sadece sistem bilgilerinizi vermeniz gerekiyorsa, örneğin oyunu oynarken cihaz sorunu durumunda"
+    },
+    "menus.main.systeminfo.done": {
+      "source": "System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue.",
+      "translated": "Sistem bilgileri ve ilgili hata ayıklama günlükleri panoya kopyalanmıştır. Lütfen bu şifreli bilgileri geliştiriciye gönderin"
+    },
+    "menus.main.test": {
+      "source": "Test Speakers",
+      "translated": "hoparlör testi"
+    },
+    "menus.main.title": {
+      "source": "Main Menu.",
+      "translated": "Ana menü"
+    },
+    "menus.main.update": {
+      "source": "Check for Updates",
+      "translated": "Güncellemeleri kontrol et"
+    },
+    "menus.main.web": {
+      "source": "Visit Website",
+      "translated": "Web sitesini ziyaret et"
+    },
+    "menus.main.web.done": {
+      "source": "The website was successfully opened at your browser.",
+      "translated": "Web sitesi tarayıcınızda başarıyla açıldı."
+    },
+    "menus.main.web.fail": {
+      "source": "Failed to open the website. It is now copied to your clipboard.",
+      "translated": "Web sitesi açılamadı. Şimdi panonuza kopyalanıyor."
+    },
+    "menus.store.amount.invalid": {
+      "source": "You must buy at least 1 quantity!",
+      "translated": "En az 1 satın almalısın!"
+    },
+    "menus.store.amount.less": {
+      "source": "Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!",
+      "translated": "%a% yeterli değil. Satın alman %b% gerektirir ve sende sadece %c% var, %d% daha ihtiyacın var!"
+    },
+    "menus.store.buy.canceled": {
+      "source": "Purchase canceled.",
+      "translated": "Satın Alma İptal edildi."
+    },
+    "menus.store.buy.done": {
+      "source": "You've successfully purchased %a% %b% with %c% %d%.",
+      "translated": "%a% %b% eşyasını %c% %d% karşılığında satın aldın."
+    },
+    "menus.store.item": {
+      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "translated": "%a%, %b% %c% gerektirir %d% tane satın alabilirsin"
+    },
+    "menus.store.item.invalid": {
+      "source": "This item does not exist.",
+      "translated": "Bu öğe mevcut değil."
+    },
+    "menus.store.title": {
+      "source": "Store. What would you like to purchase?",
+      "translated": "Mağaza. Ne satın almak istersiniz?"
+    },
+    "menus.store.zero": {
+      "source": "There are no items to purchase.",
+      "translated": "Satın alınacak eşya yok."
+    },
+    "menus.test.correct": {
+      "source": "Excellent! : you've got the right position",
+      "translated": "Harika! : doğru pozisyona sahipsin"
+    },
+    "menus.test.press": {
+      "source": "Press the corresponding arrow",
+      "translated": "Karşılık gelen oka basın"
+    },
+    "menus.test.swipe": {
+      "source": "Swipe to the corresponding direction",
+      "translated": "Karşılık gelen yöne kaydırın"
+    },
+    "menus.test.title": {
+      "source": "Where is the sound coming from?",
+      "translated": "Ses nereden geliyor?"
+    },
+    "menus.test.wrong": {
+      "source": "You've got the wrong direction!",
+      "translated": "Yanlış yöne sahipsin!"
+    },
+    "menus.wpdraw.noe": {
+      "source": "You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist.",
+      "translated": "Bu silahı kullanamazsınız, çünkü ya kalifiye değilsiniz ya da silahın kendisi yok."
+    },
+    "menus.wpdraw.title": {
+      "source": "Select the weapon you want to draw.",
+      "translated": "Kullanmak istediğiniz silahı seçin"
+    },
+    "menus.wpdraw.zero": {
+      "source": "No available weapons that you can draw.",
+      "translated": "kullanabileceğiniz mevcut silah yok."
+    },
+    "rotation.dirinfo": {
+      "source": "%x% at %y% degrees",
+      "translated": "%x% yönü %y% derece"
+    },
+    "rotation.east": {
+      "source": "east",
+      "translated": "doğu"
+    },
+    "rotation.north": {
+      "source": "north",
+      "translated": "kuzey"
+    },
+    "rotation.northeast": {
+      "source": "northeast",
+      "translated": "kuzeydoğu"
+    },
+    "rotation.northwest": {
+      "source": "northwest",
+      "translated": "kuzeybatı"
+    },
+    "rotation.south": {
+      "source": "south",
+      "translated": "güney"
+    },
+    "rotation.southeast": {
+      "source": "southeast",
+      "translated": "güneydoğu"
+    },
+    "rotation.southwest": {
+      "source": "southwest",
+      "translated": "güneybatı"
+    },
+    "rotation.west": {
+      "source": "west",
+      "translated": "batı"
+    },
+    "settings.ctrl.gender": {
+      "source": "Gender",
+      "translated": "Cinsiyet"
+    },
+    "settings.ctrl.gender.set": {
+      "source": "Gender successfully set.",
+      "translated": "Cinsiyet başarıyla ayarlandı."
+    },
+    "settings.ctrl.ils": {
+      "source": "Play item loop sound",
+      "translated": "İtem seslerini oynat"
+    },
+    "settings.ctrl.interrupt": {
+      "source": "Screen reader interrupting",
+      "translated": "Ekran Okuyucu Kesintisi"
+    },
+    "settings.ctrl.reset": {
+      "source": "Reset game data to its factory default",
+      "translated": "Oyun verilerini fabrika varsayılanına sıfırla"
+    },
+    "settings.ctrl.save": {
+      "source": "&Save options",
+      "translated": "Seçenekleri Kaydet"
+    },
+    "settings.ctrl.spt": {
+      "source": "Enemy spawn time (in seconds)",
+      "translated": "Düşman doğma süresi (saniye cinsinden)"
+    },
+    "settings.ctrl.username": {
+      "source": "Username",
+      "translated": "Kullanıcı adı"
+    },
+    "settings.reset.description": {
+      "source": "Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!",
+      "translated": "Oyun yapılandırmasını silmek istediğinizden emin misiniz? Bu aynı zamanda ayarladığınız ayarları ve oyununuzu da içerir!"
+    },
+    "settings.reset.done": {
+      "source": "All data has been cleared",
+      "translated": "Tüm veriler temizlendi"
+    },
+    "settings.reset.title": {
+      "source": "Reset",
+      "translated": "Sıfırla"
+    },
+    "settings.saved": {
+      "source": "Options saved",
+      "translated": "Ayarlar kaydedildi"
+    },
+    "settings.title": {
+      "source": "Settings",
+      "translated": "Ayarlar"
+    },
+    "update.available.description": {
+      "source": "A new update %x% (build %y%) is available. Download now?",
+      "translated": "yeni bir güncelleme %X %(build %y) mevcut. Şimdi indirilsin mi? Bu varsayılan tarayıcınızda açılır."
+    },
+    "update.available.no": {
+      "source": "No updates available",
+      "translated": "Güncelleme mevcut değil"
+    },
+    "update.available.title": {
+      "source": "Update Available",
+      "translated": "Güncelleme Mevcut"
+    },
+    "update.canceled": {
+      "source": "Update canceled",
+      "translated": "Güncelleme iptal edildi"
+    },
+    "update.checking": {
+      "source": "Checking for updates. Please wait...",
+      "translated": "Güncellemeler kontrol ediliyor. Lütfen bekleyin..."
+    },
+    "update.title": {
+      "source": "Update",
+      "translated": "Güncelleme"
+    }
+  }
+}

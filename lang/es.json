@@ -1,0 +1,679 @@
+{
+  "config": {
+    "name": "español"
+  }
+  "keys": {
+    "games.archery.done": {
+      "source": "Game finished.",
+      "translated": "Juego terminado."
+    },
+    "games.archery.get": {
+      "source": "You've gained %x% %y%. Congratulations!",
+      "translated": "Has ganado %x% %y%. ¡Felicidades!"
+    },
+    "games.archery.life": {
+      "source": "You have %x% shots left.",
+      "translated": "Te quedan %x% disparos."
+    },
+    "games.archery.missed": {
+      "source": "You missed.",
+      "translated": "Has fallado."
+    },
+    "games.archery.points": {
+      "source": "You have %x% points.",
+      "translated": "Tienes %x% pu"
+    },
+    "games.archery.started": {
+      "source": "Round %x%. You need %y% points this round. You have %z% shots left.",
+      "translated": "Ronda %x%. Necesitas %y% puntos esta ronda. Te quedan %z% disparos."
+    },
+    "games.archery.title": {
+      "source": "Archery",
+      "translated": "Arquería"
+    },
+    "games.bj.bet.done": {
+      "source": "Changed bet successfully!",
+      "translated": "¡Apuesta cambiada con éxito!"
+    },
+    "games.bj.bet.max": {
+      "source": "Error. You can't bet more than what you currently have, maximum %x% %y%.",
+      "translated": "Error. No puedes apostar más de lo que tienes actualmente, máximo %x% %y%."
+    },
+    "games.bj.bet.prompt": {
+      "source": "Type the amount you want to bet",
+      "translated": "Escribe la cantidad que deseas apostar"
+    },
+    "games.bj.bet.title": {
+      "source": "Amount",
+      "translated": "Cantidad"
+    },
+    "games.bj.ctc": {
+      "source": "Computer's total cards is %x%, which makes it %y%.",
+      "translated": "El total de las cartas de la computadora es %x%, lo que lo hace %y%."
+    },
+    "games.bj.ctrl.bc": {
+      "source": "Change bet button",
+      "translated": "Botón para cambiar la apuesta"
+    },
+    "games.bj.ctrl.hit": {
+      "source": "Hit new card button",
+      "translated": "Botón para pedir nueva carta"
+    },
+    "games.bj.ctrl.hit.press": {
+      "source": "Hits %x%",
+      "translated": "Has pedido %x%"
+    },
+    "games.bj.ctrl.new": {
+      "source": "New button",
+      "translated": "Nuevo botón"
+    },
+    "games.bj.ctrl.new.press": {
+      "source": "New game started.",
+      "translated": "Nuevo juego iniciado."
+    },
+    "games.bj.ctrl.stand": {
+      "source": "Stand the Blackjack button",
+      "translated": "Botón para plantarse en Blackjack"
+    },
+    "games.bj.ctrl.stand.press": {
+      "source": "Standed!",
+      "translated": "¡Te has plantado!"
+    },
+    "games.bj.finished": {
+      "source": "Game finished.",
+      "translated": "Juego terminado."
+    },
+    "games.bj.have.bet": {
+      "source": "Bet, currently %x% %y%.",
+      "translated": "Apuesta, actualmente %x% %y%."
+    },
+    "games.bj.have.bj": {
+      "source": "Good, you have a blackjack!",
+      "translated": "¡Bien, tienes un blackjack!"
+    },
+    "games.bj.have.currency": {
+      "source": "You currently have %x% %y%.",
+      "translated": "Actualmente tienes %x% %y%."
+    },
+    "games.bj.info": {
+      "source": "%x%; making %y%.",
+      "translated": "%x%; haciendo %y%."
+    },
+    "games.bj.losec": {
+      "source": "You've lost %x% %y%!",
+      "translated": "¡Has perdido %x% %y%!"
+    },
+    "games.bj.nc": {
+      "source": "No cards",
+      "translated": "Sin cartas"
+    },
+    "games.bj.no.currency": {
+      "source": "Sorry, you don't have enough %x% that you are currently bet. You only have %y% %x%.",
+      "translated": "Lo siento, no tienes suficientes %x% para la apuesta actual. Solo tienes %y% %x%."
+    },
+    "games.bj.quit.finish": {
+      "source": "Finish the current game first to be able to quit.",
+      "translated": "Termina el juego actual primero para poder salir."
+    },
+    "games.bj.start": {
+      "source": "Game started.",
+      "translated": "Juego iniciado."
+    },
+    "games.bj.title": {
+      "source": "Blackjack",
+      "translated": "Blackjack"
+    },
+    "games.bj.total.card": {
+      "source": "Total cards, %x%.",
+      "translated": "Cartas totales, %x%."
+    },
+    "games.bj.total.num": {
+      "source": "Total numbers, %x%.",
+      "translated": "Números totales, %x%."
+    },
+    "games.bj.win_no": {
+      "source": "No one wins the game!",
+      "translated": "¡Nadie gana el juego!"
+    },
+    "games.bj.winc": {
+      "source": "You've won %x% %y%.",
+      "translated": "¡Has ganado %x% %y%!"
+    },
+    "games.bj.winother": {
+      "source": "Computer wins the game!",
+      "translated": "¡La computadora gana el juego!"
+    },
+    "games.bj.winyou": {
+      "source": "You win the game!",
+      "translated": "¡Tú ganas el juego!"
+    },
+    "games.bj.yca": {
+      "source": "Your cards are:",
+      "translated": "Tus cartas son:"
+    },
+    "games.bj.ytc": {
+      "source": "Your total cards is %x%, which makes it %y%.",
+      "translated": "El total de tus cartas es %x%, lo que lo hace %y%."
+    },
+    "games.dm.gain": {
+      "source": "You've earned %x% %y%!",
+      "translated": "¡Has ganado %x% %y%!"
+    },
+    "games.dm.nogain": {
+      "source": "Oh no! You've lost %x% %y%!",
+      "translated": "¡Oh no! Has perdido %x% %y%!"
+    },
+    "games.dm.started": {
+      "source": "Game started.",
+      "translated": "Juego iniciado."
+    },
+    "games.dm.title": {
+      "source": "Dice Match",
+      "translated": "Juego de Dados"
+    },
+    "games.eb.general.title": {
+      "source": "Endless Battle",
+      "translated": "Batalla Infinita"
+    },
+    "games.eb.magic.e_invisible": {
+      "source": "Your invisibility spell has expired.",
+      "translated": "Tu hechizo de invisibilidad ha expirado."
+    },
+    "games.eb.spells.block.description": {
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "translated": "Bloquea temporalmente a todos los enemigos que te rodean y que están dentro de un radio de %x% casillas, dejándolos incapaces de moverse mientras tú aún puedes golpearlos."
+    },
+    "games.eb.spells.block.title": {
+      "source": "Movements Block",
+      "translated": "Bloqueo de Movimientos"
+    },
+    "games.eb.spells.death.description": {
+      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "translated": "Instantáneamente mata a todos los enemigos que te rodean, que están dentro del % x % de pasos"
+    },
+    "games.eb.spells.death.title": {
+      "source": "Instant Kill",
+      "translated": "Instant Kill"
+    },
+    "games.eb.spells.flame.description": {
+      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "translated": "Quema a los enemigos cercanos dentro del rango de %x% casillas con fuego y llamas, reduciendo su salud."
+    },
+    "games.eb.spells.flame.title": {
+      "source": "Flame",
+      "translated": "Llama"
+    },
+    "games.eb.spells.heal.description": {
+      "source": "Heal yourself to the maximum possible health",
+      "translated": "te Recupera hasta alcanzar la salud máxima posible."
+    },
+    "games.eb.spells.heal.title": {
+      "source": "Vitality Surge",
+      "translated": "Ola de Vitalidad"
+    },
+    "games.eb.spells.invisibility.already_active": {
+      "source": "You are already invisible, thus you cannot cast again until it expires.",
+      "translated": "Ya estás invisible, por lo que no puedes lanzarlo nuevamente hasta que expire."
+    },
+    "games.eb.spells.invisibility.description": {
+      "source": "Prevents being hit by your enemies for %x% seconds while you are still being able to hit them",
+      "translated": "Previene que tus enemigos te golpeen durante %x% segundos mientras tú aún puedes golpearlos."
+    },
+    "games.eb.spells.invisibility.title": {
+      "source": "Invisibility Shield",
+      "translated": "Escudo de Invisibilidad"
+    },
+    "games.eb.user.hp1": {
+      "source": "Health increased",
+      "translated": "Salud aumentada"
+    },
+    "games.eb.user.hpinfo": {
+      "source": "%x% out of %y% health, %z% percent.",
+      "translated": "%x% de %y% de salud, %z% por ciento."
+    },
+    "games.eb.user.killed": {
+      "source": "You have been killed by %x%.",
+      "translated": "Has sido asesinado por %x%."
+    },
+    "games.eb.user.levelinfo": {
+      "source": "You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points.",
+      "translated": "Estás en la resurrección %a% con nivel %b% y %c% puntos de experiencia. El siguiente nivel requiere %d% puntos de experiencia."
+    },
+    "games.eb.user.mhreach": {
+      "source": "Maximum health reached",
+      "translated": "Salud máxima alcanzada"
+    },
+    "games.eb.user.objget": {
+      "source": "You've gained %x% %y%.",
+      "translated": "Has obtenido %x% %y%."
+    },
+    "games.eb.wep.ammoinfo": {
+      "source": "%a% has %b% out of %c% %d%, remains %e%",
+      "translated": "%a% tiene %b% de %c% %d%, quedan %e%"
+    },
+    "games.eb.wep.gainnew1": {
+      "source": "You've gained a new weapon, %x%.",
+      "translated": "Has obtenido un arma nueva, %x%."
+    },
+    "games.eb.wep.gainnew2": {
+      "source": "You've also gained %x% %y% for this!",
+      "translated": "¡También has ganado %x% %y% por esto!"
+    },
+    "games.eb.wep.notammo": {
+      "source": "This weapon does not hold ammo.",
+      "translated": "Esta arma no tiene munición."
+    },
+    "general.alreadyrunning": {
+      "source": "The game is already running!",
+      "translated": "¡El juego ya está en ejecución!"
+    },
+    "general.cannotfindaudio": {
+      "source": "Audio file cannot be found.",
+      "translated": "No se puede encontrar el archivo de audio."
+    },
+    "general.currently": {
+      "source": "Currently %x%",
+      "translated": "Actualmente %x%"
+    },
+    "general.error": {
+      "source": "Error",
+      "translated": "Error"
+    },
+    "general.exiting": {
+      "source": "Exiting...",
+      "translated": "Saliendo..."
+    },
+    "general.gender.boy": {
+      "source": "Male",
+      "translated": "Masculino"
+    },
+    "general.gender.girl": {
+      "source": "Female",
+      "translated": "Femenino"
+    },
+    "general.information": {
+      "source": "Information",
+      "translated": "Información"
+    },
+    "general.sounderror": {
+      "source": "Sound error",
+      "translated": "Error de sonido"
+    },
+    "general.success": {
+      "source": "Success",
+      "translated": "Éxito"
+    },
+    "general.youhave": {
+      "source": "You have %x% %y%.",
+      "translated": "Tienes %x% %y%."
+    },
+    "invalid.gender": {
+      "source": "Invalid gender!",
+      "translated": "¡Género no válido!"
+    },
+    "invalid.spt.less": {
+      "source": "Enemy spawn time should be no less than 1 second.",
+      "translated": "El tiempo de aparición del enemigo no debe ser menor a 1 segundo."
+    },
+    "invalid.username": {
+      "source": "Invalid username!",
+      "translated": "¡Nombre de usuario no válido!"
+    },
+    "magic.newspell": {
+      "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
+      "translated": "Ahora tienes la capacidad de lanzar %a%, lo que requiere %b% de energía mágica. %c%."
+    },
+    "menus.dllang.dl": {
+      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "translated": "Por favor, descarga %x% desde el navegador, luego extráelo en la carpeta lang. Presiona el botón OK."
+    },
+    "menus.dllang.more": {
+      "source": "There are %x% languages available to download",
+      "translated": "Hay %x% idiomas disponibles para descargar"
+    },
+    "menus.dllang.noe": {
+      "source": "This language %x% does not exist",
+      "translated": "Este idioma %x% no existe"
+    },
+    "menus.dllang.one": {
+      "source": "There is %x% language available to download",
+      "translated": "Hay %x% idioma disponible para descargar"
+    },
+    "menus.dllang.title": {
+      "source": "Language Downloader",
+      "translated": "Descargador de Idiomas"
+    },
+    "menus.dllang.zero": {
+      "source": "There is no available languages to download",
+      "translated": "No hay idiomas disponibles para descargar"
+    },
+    "menus.games.game.active": {
+      "source": "You're already playing a game.",
+      "translated": "Ya estás jugando un juego."
+    },
+    "menus.games.invalid.game": {
+      "source": "This minigame does not exist.",
+      "translated": "Este minijuego no existe."
+    },
+    "menus.games.invalid.gender": {
+      "source": "Please set your gender in the settings.",
+      "translated": "Por favor, configura tu género en los ajustes."
+    },
+    "menus.games.invalid.gender.android": {
+      "source": "Choose a valid gender please.",
+      "translated": "Por favor, elige un género válido."
+    },
+    "menus.games.invalid.name": {
+      "source": "Invalid username.",
+      "translated": "Nombre de usuario no válido."
+    },
+    "menus.games.quit": {
+      "source": "Go Back",
+      "translated": "Volver"
+    },
+    "menus.games.title": {
+      "source": "Games Menu",
+      "translated": "Menú de Juegos"
+    },
+    "menus.lang.already": {
+      "source": "You have already set this language.",
+      "translated": "Ya has configurado este idioma."
+    },
+    "menus.lang.current": {
+      "source": "Current language",
+      "translated": "Idioma actual"
+    },
+    "menus.lang.default": {
+      "source": "Default fallback language",
+      "translated": "Idioma predeterminado de respaldo."
+    },
+    "menus.lang.done": {
+      "source": "Language has been changed.",
+      "translated": "El idioma ha sido cambiado."
+    },
+    "menus.lang.fail": {
+      "source": "Failed to change to this language %x%.",
+      "translated": "Error al cambiar a este idioma %x%."
+    },
+    "menus.lang.more": {
+      "source": "There are %x% languages available",
+      "translated": "Hay %x% idiomas disponibles."
+    },
+    "menus.lang.one": {
+      "source": "There is %x% language available.",
+      "translated": "Hay %x% idioma disponible."
+    },
+    "menus.lang.title": {
+      "source": "Choose a language to use.",
+      "translated": "Elige un idioma para usar."
+    },
+    "menus.lang.zero": {
+      "source": "There are no available languages.",
+      "translated": "No hay idiomas disponibles."
+    },
+    "menus.magic.item": {
+      "source": "%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.",
+      "translated": "%a%, requiere %b% de energía mágica para lanzarlo. Toma %c% milisegundos para hacer efecto."
+    },
+    "menus.magic.title": {
+      "source": "With %x% magic energy you can cast %y% spell.",
+      "translated": "Con %x% de energía mágica puedes lanzar el hechizo %y%."
+    },
+    "menus.magic.title.plural": {
+      "source": "With %x% magic energy you can cast %y% spells.",
+      "translated": "Con %x% de energía mágica puedes lanzar los hechizos %y%."
+    },
+    "menus.magic.zero": {
+      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "translated": "No tienes hechizos disponibles para lanzar."
+    },
+    "menus.main.dllang": {
+      "source": "Language Downloader",
+      "translated": "Descargador de Idiomas"
+    },
+    "menus.main.gm": {
+      "source": "Games Menu",
+      "translated": "Menú de Juegos"
+    },
+    "menus.main.lang": {
+      "source": "Change Language (currently %x%)",
+      "translated": "Cambiar idioma (actualmente %x%)"
+    },
+    "menus.main.quit": {
+      "source": "Exit the Game",
+      "translated": "Salir del Juego"
+    },
+    "menus.main.settings": {
+      "source": "Settings and Preferences",
+      "translated": "Ajustes y Preferencias"
+    },
+    "menus.main.status": {
+      "source": "Statistics Menu",
+      "translated": "Menú de Estadísticas"
+    },
+    "menus.main.store": {
+      "source": "Store",
+      "translated": "Tienda"
+    },
+    "menus.main.systeminfo": {
+      "source": "Get system information, only needed if you need to provide your system information for example in case of device issue playing the game",
+      "translated": "Obtener información del sistema, solo necesario si necesitas proporcionar la información de tu sistema, por ejemplo, en caso de problemas con el dispositivo al jugar"
+    },
+    "menus.main.systeminfo.done": {
+      "source": "System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue.",
+      "translated": "La información del sistema y los registros de depuración relacionados han sido copiados al portapapeles. Por favor, proporciona esa información cifrada al desarrollador que te la solicitó para el problema."
+    },
+    "menus.main.test": {
+      "source": "Test Speakers",
+      "translated": "Probar tus altavoces"
+    },
+    "menus.main.title": {
+      "source": "Main Menu.",
+      "translated": "Menú Principal"
+    },
+    "menus.main.update": {
+      "source": "Check for Updates",
+      "translated": "Buscar actualizaciones"
+    },
+    "menus.main.web": {
+      "source": "Visit Website",
+      "translated": "Visitar Sitio Web"
+    },
+    "menus.main.web.done": {
+      "source": "The website was successfully opened at your browser.",
+      "translated": "El sitio web se ha abierto correctamente en tu navegador."
+    },
+    "menus.main.web.fail": {
+      "source": "Failed to open the website. It is now copied to your clipboard.",
+      "translated": "No se pudo abrir el sitio web. Ahora está copiado al portapapeles."
+    },
+    "menus.status.1": {
+      "source": "You've been executed this game for a total of %x% times.",
+      "translated": "Has sido ejecutado en este juego un total de %x% veces."
+    },
+    "menus.status.2": {
+      "source": "You mostly plaied %x% for %y%.",
+      "translated": "Principalmente jugaste %x% durante %y%."
+    },
+    "menus.status.title": {
+      "source": "Statistics",
+      "translated": "Estadísticas"
+    },
+    "menus.store.amount.invalid": {
+      "source": "You must buy at least 1 quantity!",
+      "translated": "¡Debes comprar al menos 1!"
+    },
+    "menus.store.amount.less": {
+      "source": "Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!",
+      "translated": "No tienes suficiente %a%. Tu compra requiere %b%, y solo tienes %c%, ¡necesitas más %d%!"
+    },
+    "menus.store.buy.canceled": {
+      "source": "Purchase canceled.",
+      "translated": "Compra cancelada."
+    },
+    "menus.store.buy.done": {
+      "source": "You've successfully purchased %a% %b% with %c% %d%.",
+      "translated": "Has comprado correctamente %a% %b% con %c% %d%."
+    },
+    "menus.store.item": {
+      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "translated": "%a%, cuesta %b% %c%, puedes comprar %d%"
+    },
+    "menus.store.item.invalid": {
+      "source": "This item does not exist.",
+      "translated": "Este artículo no existe."
+    },
+    "menus.store.title": {
+      "source": "Store. What would you like to purchase?",
+      "translated": "Tienda. ¿Qué te gustaría comprar?"
+    },
+    "menus.store.zero": {
+      "source": "There are no items to purchase.",
+      "translated": "No hay artículos disponibles para comprar."
+    },
+    "menus.test.correct": {
+      "source": "Excellent! : you've got the right position",
+      "translated": "¡Excelente! Has encontrado la posición correcta."
+    },
+    "menus.test.press": {
+      "source": "Press the corresponding arrow",
+      "translated": "Presiona la flecha correspondiente."
+    },
+    "menus.test.swipe": {
+      "source": "Swipe to the corresponding direction",
+      "translated": "Desliza en la dirección correspondiente."
+    },
+    "menus.test.title": {
+      "source": "Where is the sound coming from?",
+      "translated": "¿De dónde proviene el sonido?"
+    },
+    "menus.test.wrong": {
+      "source": "You've got the wrong direction!",
+      "translated": "¡Estás en la dirección equivocada!"
+    },
+    "menus.wpdraw.noe": {
+      "source": "You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist.",
+      "translated": "No puedes sacar esta arma, porque o no has calificado o el arma no existe."
+    },
+    "menus.wpdraw.title": {
+      "source": "Select the weapon you want to draw.",
+      "translated": "Selecciona el arma que deseas sacar."
+    },
+    "menus.wpdraw.zero": {
+      "source": "No available weapons that you can draw.",
+      "translated": "No hay armas disponibles que puedas sacar."
+    },
+    "rotation.dirinfo": {
+      "source": "%x% at %y% degrees",
+      "translated": "%x% a %y% grados"
+    },
+    "rotation.east": {
+      "source": "east",
+      "translated": "este"
+    },
+    "rotation.north": {
+      "source": "north",
+      "translated": "norte"
+    },
+    "rotation.northeast": {
+      "source": "northeast",
+      "translated": "noreste"
+    },
+    "rotation.northwest": {
+      "source": "northwest",
+      "translated": "noroeste"
+    },
+    "rotation.south": {
+      "source": "south",
+      "translated": "sur"
+    },
+    "rotation.southeast": {
+      "source": "southeast",
+      "translated": "sureste"
+    },
+    "rotation.southwest": {
+      "source": "southwest",
+      "translated": "suroeste"
+    },
+    "rotation.west": {
+      "source": "west",
+      "translated": "oeste"
+    },
+    "settings.ctrl.gender": {
+      "source": "Gender",
+      "translated": "Género"
+    },
+    "settings.ctrl.gender.set": {
+      "source": "Gender successfully set.",
+      "translated": "Género configurado correctamente."
+    },
+    "settings.ctrl.ils": {
+      "source": "Play item loop sound",
+      "translated": "Reproducir sonido de bucle de objeto"
+    },
+    "settings.ctrl.interrupt": {
+      "source": "Screen reader interrupting",
+      "translated": "Interrupción del lector de pantalla"
+    },
+    "settings.ctrl.reset": {
+      "source": "Reset game data to its factory default",
+      "translated": "Restablecer los datos del juego a los valores predeterminados de fábrica"
+    },
+    "settings.ctrl.save": {
+      "source": "&Save options",
+      "translated": "&Guardar opciones"
+    },
+    "settings.ctrl.spt": {
+      "source": "Enemy spawn time (in seconds)",
+      "translated": "Tiempo de aparición de enemigos (en segundos)"
+    },
+    "settings.ctrl.username": {
+      "source": "Username",
+      "translated": "Nombre de usuario"
+    },
+    "settings.reset.description": {
+      "source": "Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!",
+      "translated": "¿Estás seguro de que deseas eliminar la configuración del juego? Esto incluye también los ajustes que has configurado y tu progreso de juego."
+    },
+    "settings.reset.done": {
+      "source": "All data has been cleared",
+      "translated": "Todos los datos han sido eliminados"
+    },
+    "settings.reset.title": {
+      "source": "Reset",
+      "translated": "Restablecer"
+    },
+    "settings.saved": {
+      "source": "Options saved",
+      "translated": "Opciones guardadas"
+    },
+    "settings.title": {
+      "source": "Settings",
+      "translated": "Ajustes"
+    },
+    "update.available.description": {
+      "source": "A new update %x% (build %y%) is available. Download now?",
+      "translated": "Una nueva actualización %x% (build %y%) está disponible. ¿Descargar ahora? Esto abrirá en tu navegador predeterminado."
+    },
+    "update.available.no": {
+      "source": "No updates available",
+      "translated": "No hay actualizaciones disponibles"
+    },
+    "update.available.title": {
+      "source": "Update Available",
+      "translated": "Actualización disponible"
+    },
+    "update.canceled": {
+      "source": "Update canceled",
+      "translated": "Actualización cancelada"
+    },
+    "update.checking": {
+      "source": "Checking for updates. Please wait...",
+      "translated": "Buscando actualizaciones. Por favor, espere..."
+    },
+    "update.title": {
+      "source": "Update",
+      "translated": "Actualizar"
+    }
+  }
+}
