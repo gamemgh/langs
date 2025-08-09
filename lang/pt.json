@@ -1,6 +1,8 @@
 {
+  "code": "pt",
   "config": {
-    "name": "Português Brasil"
+    "lastmod": "2025-08-08T14:54:33-03:00",
+    "name": "Português"
   },
   "keys": {
     "games.archery.done": {
@@ -196,7 +198,7 @@
       "translated": "Sua magia de invisibilidade acabou."
     },
     "games.eb.spells.block.description": {
-      "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
       "translated": "Bloqueia temporariamente todos os inimigos ao seu redor em um raio de %x% quadrados, deixando -os incapazes de se mover"
     },
     "games.eb.spells.block.title": {
@@ -204,7 +206,7 @@
       "translated": "Bloquear Movimentos"
     },
     "games.eb.spells.death.description": {
-      "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
+      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
       "translated": "Mata instantaneamente todos os inimigos ao seu redor em um raio de %x% quadrados"
     },
     "games.eb.spells.death.title": {
@@ -212,8 +214,8 @@
       "translated": "Morte instantânea"
     },
     "games.eb.spells.flame.description": {
-      "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health",
-      "translated": "Queime inimigos ao seu redor em um raio de %x% quadrados com incêndios e chamas"
+      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "translated": "Queima inimigos ao seu redor em um raio de %x% quadrados com incêndios e chamas"
     },
     "games.eb.spells.flame.title": {
       "source": "Flame",
@@ -275,10 +277,6 @@
       "source": "You've also gained %x% %y% for this!",
       "translated": "E ganhou %x% %y% por isso!"
     },
-    "games.eb.wep.noammo": {
-      "source": "games.eb.wep.noammo",
-      "translated": "Não precisa de munição"
-    },
     "games.eb.wep.notammo": {
       "source": "This weapon does not hold ammo.",
       "translated": "Não precisa de munição"
@@ -315,6 +313,10 @@
       "source": "Information",
       "translated": "Informação"
     },
+    "general.lastmod": {
+      "source": "Last updated on %x%.",
+      "translated": "Última atualização em %x%"
+    },
     "general.shortcuts.menu.android": {
       "source": "Swipe left and right to navigate, double tap with one finger to select, click back button to exit.",
       "translated": "Deslize para Esquerda e Direita para navegar, toque duas vezes com um dedo para selecionar, clique no Botão Voltar para sair."
@@ -335,6 +337,10 @@
       "source": "You have %x% %y%.",
       "translated": "%x% %y%."
     },
+    "inv.ditem": {
+      "source": "%x%, you have %y%",
+      "translated": "%x%, você tem%y%"
+    },
     "invalid.gender": {
       "source": "Invalid gender!",
       "translated": "Gênero inválido!"
@@ -347,13 +353,49 @@
       "source": "Invalid username!",
       "translated": "Nome de usuário inválido!"
     },
+    "langupdate.available.description": {
+      "source": "A new update %x% is available for %y% language. Download now?",
+      "translated": "Uma atualização %x% está disponível para o idioma %y%. Quer fazer o download?"
+    },
+    "langupdate.available.no": {
+      "source": "No updates available for %x% language",
+      "translated": "Não há atualizações disponíveis para o idioma %x%"
+    },
+    "langupdate.available.title": {
+      "source": "Language Update Available",
+      "translated": "Atualização de idioma disponível"
+    },
+    "langupdate.canceled": {
+      "source": "Update canceled",
+      "translated": "Atualização cancelada"
+    },
+    "langupdate.checking": {
+      "source": "Checking for %x% language updates...",
+      "translated": "Verificando por %x% atualizações de idioma..."
+    },
+    "langupdate.title": {
+      "source": "Language Update",
+      "translated": "Atualização de idioma"
+    },
     "magic.newspell": {
       "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
       "translated": "Agora você pode lançar a magia %a%, consome %b% energia mágica. %c%."
     },
+    "menus.dl.b": {
+      "source": "Download on browser",
+      "translated": "Fazer o Download pelo navegador"
+    },
+    "menus.dl.d": {
+      "source": "Download using in-game system",
+      "translated": "Baixar usando o sistema do jogo"
+    },
+    "menus.dl.title": {
+      "source": "Choose download method",
+      "translated": "Escolha o método de download"
+    },
     "menus.dllang.dl": {
-      "source": "Please download %x% from the browser, then extract it in the lang folder. Press the OK button.",
-      "translated": "Por favor, baixe %x% direto em seu navegador e o descompacte dentro da pasta lang. Pressione no botão OK."
+      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "translated": "Por favor, baixe %x% direto em seu navegador e o descompacte dentro da pasta lang. Pressione o botão OK."
     },
     "menus.dllang.item": {
       "source": "%x%, by %y%.",
@@ -456,12 +498,16 @@
       "translated": "Com %x% energia mágica você pode lançar %y% magias."
     },
     "menus.magic.zero": {
-      "source": "You have no available spells to cast.",
-      "translated": "Você não tem magias disponíveis para lançar."
+      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "translated": "Você não tem magias disponíveis para lançar. %y% energia mágica no momento."
     },
     "menus.main.dllang": {
       "source": "Language Downloader",
       "translated": "Gerenciador de Idiomas"
+    },
+    "menus.main.flangupdate": {
+      "source": "Check for fallback language updates",
+      "translated": "Verifique se há atualizações do idioma padrão"
     },
     "menus.main.gm": {
       "source": "Games Menu",
@@ -471,6 +517,10 @@
       "source": "Change Language (currently %x%)",
       "translated": "Mudar idioma (%x% em uso)"
     },
+    "menus.main.langupdate": {
+      "source": "Check for Current Language Updates",
+      "translated": "Verifique se há atualizações para o idioma atual"
+    },
     "menus.main.quit": {
       "source": "Exit the Game",
       "translated": "Sair"
@@ -478,6 +528,10 @@
     "menus.main.settings": {
       "source": "Settings and Preferences",
       "translated": "Configurações"
+    },
+    "menus.main.status": {
+      "source": "Statistics Menu",
+      "translated": "Menu de estatísticas"
     },
     "menus.main.store": {
       "source": "Store",
@@ -492,7 +546,7 @@
       "translated": "Informações do sistema e logs de depuração copiados para a área de transferência. Por favor, forneça essas informações criptografadas ao desenvolvedor para corrigir os problemas."
     },
     "menus.main.test": {
-      "source": "Test your Speakers",
+      "source": "Test Speakers",
       "translated": "Testar alto-falantes"
     },
     "menus.main.title": {
@@ -552,7 +606,7 @@
       "translated": "Estatísticas"
     },
     "menus.store.amount.invalid": {
-      "source": "You must buy at least 1!",
+      "source": "You must buy at least 1 quantity!",
       "translated": "Você deve comprar pelo menos 1!"
     },
     "menus.store.amount.less": {
@@ -568,19 +622,19 @@
       "translated": "Feito. Você comprou %a% %b% por %c% %d%."
     },
     "menus.store.item": {
-      "source": "%a%, costs %b% %c%, you can buy %d%",
-      "translated": "%a%, custa %b% %c%, você pode comprar %d%"
+      "source": "%a%, costs %b% %c%, you can purchase %d%",
+      "translated": "%a%, %b% %c%, você pode comprar %d%"
     },
     "menus.store.item.invalid": {
       "source": "This item does not exist.",
       "translated": "Esse item não existe."
     },
     "menus.store.title": {
-      "source": "Store. What would you like to buy?",
+      "source": "Store. What would you like to purchase?",
       "translated": "Loja. O que deseja comprar?"
     },
     "menus.store.zero": {
-      "source": "There are no items to buy.",
+      "source": "There are no items to purchase.",
       "translated": "Não há itens para comprar."
     },
     "menus.test.correct": {
@@ -651,6 +705,50 @@
       "source": "west",
       "translated": "oeste"
     },
+    "rt.day": {
+      "source": "%x% day",
+      "translated": "%x% dia"
+    },
+    "rt.days": {
+      "source": "%x% days",
+      "translated": "%x% dias"
+    },
+    "rt.hour": {
+      "source": "%x% hour",
+      "translated": "%x% hora"
+    },
+    "rt.hours": {
+      "source": "%x% hours",
+      "translated": "%x% horas"
+    },
+    "rt.minute": {
+      "source": "%x% minute",
+      "translated": "%x% minuto"
+    },
+    "rt.minutes": {
+      "source": "%x% minutes",
+      "translated": "%x% minutos"
+    },
+    "rt.ms": {
+      "source": "%x% millisecond",
+      "translated": "%x% milissegundo"
+    },
+    "rt.mss": {
+      "source": "%x% milliseconds",
+      "translated": "%x% milissegundos"
+    },
+    "rt.second": {
+      "source": "%x% second",
+      "translated": "%x% segundo"
+    },
+    "rt.seconds": {
+      "source": "%x% seconds",
+      "translated": "%x% segundos"
+    },
+    "rt.zero": {
+      "source": "no time at all",
+      "translated": "Sem informações de tempo"
+    },
     "settings.ctrl.gender": {
       "source": "Gender",
       "translated": "Gênero"
@@ -663,9 +761,25 @@
       "source": "Play item loop sound",
       "translated": "Reproduzir sons de itens"
     },
+    "settings.ctrl.input": {
+      "source": "Input device",
+      "translated": "Dispositivo de entrada"
+    },
     "settings.ctrl.interrupt": {
       "source": "Screen reader interrupting",
       "translated": "Interrupção do leitor de telas"
+    },
+    "settings.ctrl.mmusic": {
+      "source": "Menu music",
+      "translated": "Música do menu"
+    },
+    "settings.ctrl.output": {
+      "source": "Output device",
+      "translated": "Dispositivo de saída"
+    },
+    "settings.ctrl.path": {
+      "source": "Data path",
+      "translated": "Caminho dos dados"
     },
     "settings.ctrl.reset": {
       "source": "Reset game data to its factory default",
@@ -720,8 +834,8 @@
       "translated": "Troféu de energia"
     },
     "update.available.description": {
-      "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
-      "translated": "Uma nova atualização %x% (disponível em %y%) foi encontrada. Deseja baixá-la? Abrirá em seu Navegador Padrão."
+      "source": "A new update %x% (build %y%) is available. Download now?",
+      "translated": "Uma nova atualização %x% (disponível em %y%) foi encontrada. Deseja baixá-la?"
     },
     "update.available.no": {
       "source": "No updates available",
@@ -742,6 +856,10 @@
     "update.title": {
       "source": "Update",
       "translated": "Gerenciador de Atualizações"
+    },
+    "welcome": {
+      "source": "Welcome to the game.",
+      "translated": "Boas Vindas ao jogo."
     }
   }
 }
