@@ -1,11 +1,13 @@
 {
+  "code": "vi",
   "config": {
+    "lastmod": "2025-08-15T17:22:40+07:00",
     "name": "Tiếng Việt"
   },
   "keys": {
     "games.archery.done": {
       "source": "Game finished.",
-      "translated": "Xong ván chơi"
+      "translated": "Kết thúc ván chơi."
     },
     "games.archery.fail": {
       "source": "Sorry, you have lost the game.",
@@ -13,7 +15,7 @@
     },
     "games.archery.get": {
       "source": "You've gained %x% %y%. Congratulations!",
-      "translated": "Bạn đã đạt được %x% %y%. Chúc mừng!"
+      "translated": "Bạn đã nhận được %x% %y%. Xin chúc mừng!"
     },
     "games.archery.life": {
       "source": "You have %x% shots left.",
@@ -21,7 +23,7 @@
     },
     "games.archery.missed": {
       "source": "You missed.",
-      "translated": "Bạn đã trượt."
+      "translated": "Bạn đã bắn trượt."
     },
     "games.archery.points": {
       "source": "You have %x% points.",
@@ -29,7 +31,7 @@
     },
     "games.archery.started": {
       "source": "Round %x%. You need %y% points this round. You have %z% shots left.",
-      "translated": "Vòng %x%. Bạn cần %y% điểm ở vòng này. Bạn còn %z% lượt bắn."
+      "translated": "Vòng %x%. Bạn cần %y% điểm trong vòng này. Bạn còn %z% lượt bắn."
     },
     "games.archery.success": {
       "source": "You've won this round!",
@@ -37,7 +39,7 @@
     },
     "games.archery.title": {
       "source": "Archery",
-      "translated": "Archery"
+      "translated": "Bắn Cung"
     },
     "games.archery.tpoints": {
       "source": "Total score: %x% points.",
@@ -49,27 +51,27 @@
     },
     "games.bj.bet.max": {
       "source": "Error. You can't bet more than what you currently have, maximum %x% %y%.",
-      "translated": "Lỗi. Bạn không thể đặt cược nhiều hơn số tiền hiện có, tối đa %x% %y%."
+      "translated": "Lỗi. Bạn không thể cược nhiều hơn số tiền hiện có, tối đa là %x% %y%."
     },
     "games.bj.bet.prompt": {
       "source": "Type the amount you want to bet",
-      "translated": "Nhập số tiền bạn muốn đặt cược"
+      "translated": "Nhập số tiền bạn muốn cược"
     },
     "games.bj.bet.title": {
       "source": "Amount",
-      "translated": "Số lượng"
+      "translated": "Số Tiền Cược"
     },
     "games.bj.ctc": {
       "source": "Computer's total cards is %x%, which makes it %y%.",
-      "translated": "Tổng số bài của máy tính là %x%, điều này làm cho nó đạt %y%."
+      "translated": "Tổng bài của máy là %x%, với tổng điểm là %y%."
     },
     "games.bj.ctrl.bc": {
       "source": "Change bet button",
-      "translated": "Đổi cược"
+      "translated": "Đổi Cược"
     },
     "games.bj.ctrl.hit": {
       "source": "Hit new card button",
-      "translated": "Rút"
+      "translated": "Rút Bài"
     },
     "games.bj.ctrl.hit.press": {
       "source": "Hits %x%",
@@ -77,19 +79,19 @@
     },
     "games.bj.ctrl.new": {
       "source": "New button",
-      "translated": "Chơi mới"
+      "translated": "Ván Mới"
     },
     "games.bj.ctrl.new.press": {
       "source": "New game started.",
-      "translated": "Ván chơi mới bắt đầu"
+      "translated": "Ván chơi mới đã bắt đầu."
     },
     "games.bj.ctrl.stand": {
       "source": "Stand the Blackjack button",
-      "translated": "Dừng"
+      "translated": "Dằn Bài"
     },
     "games.bj.ctrl.stand.press": {
       "source": "Standed!",
-      "translated": "Đã Dừng!"
+      "translated": "Đã dằn bài!"
     },
     "games.bj.draw": {
       "source": "It's a draw!",
@@ -97,23 +99,23 @@
     },
     "games.bj.finished": {
       "source": "Game finished.",
-      "translated": "Xong ván chơi"
+      "translated": "Kết thúc ván chơi."
     },
     "games.bj.have.bet": {
       "source": "Bet, currently %x% %y%.",
-      "translated": "Đặt cược, hiện tại %x% %y%."
+      "translated": "Đã cược, hiện tại là %x% %y%."
     },
     "games.bj.have.bj": {
       "source": "Good, you have a blackjack!",
-      "translated": "Hay, bạn có Xì dách rồi!"
+      "translated": "Tuyệt vời, bạn đã có Xì Dách!"
     },
     "games.bj.have.currency": {
       "source": "You currently have %x% %y%.",
-      "translated": "Hiện tại bạn có %x% %y%."
+      "translated": "Bạn hiện có %x% %y%."
     },
     "games.bj.info": {
       "source": "%x%; making %y%.",
-      "translated": "Đang làm %x%; tạo ra %y%."
+      "translated": "%x%; tạo ra %y%."
     },
     "games.bj.losec": {
       "source": "You've lost %x% %y%!",
@@ -125,31 +127,31 @@
     },
     "games.bj.no.currency": {
       "source": "Sorry, you don't have enough %x% that you are currently bet. You only have %y% %x%.",
-      "translated": "Rất tiếc, bạn không đủ %x% để đặt cược hiện tại. Bạn chỉ có %y% %x%."
+      "translated": "Rất tiếc, bạn không có đủ %x% để cược. Bạn chỉ có %y% %x%."
     },
     "games.bj.quit.finish": {
       "source": "Finish the current game first to be able to quit.",
-      "translated": "Hoàn thành ván chơi hiện tại trước khi thoát."
+      "translated": "Hãy hoàn thành ván hiện tại trước khi thoát."
     },
     "games.bj.start": {
       "source": "Game started.",
-      "translated": "Trận đấu bắt đầu."
+      "translated": "Ván chơi bắt đầu."
     },
     "games.bj.title": {
       "source": "Blackjack",
-      "translated": "Xì dách"
+      "translated": "Xì Dách"
     },
     "games.bj.total.card": {
       "source": "Total cards, %x%.",
-      "translated": "Tổng số bài, %x%."
+      "translated": "Tổng số lá bài, %x%."
     },
     "games.bj.total.num": {
       "source": "Total numbers, %x%.",
-      "translated": "Tổng số, %x%."
+      "translated": "Tổng điểm, %x%."
     },
     "games.bj.win_no": {
       "source": "No one wins the game!",
-      "translated": "Không ai thắng ván chơi!"
+      "translated": "Không ai thắng trong ván này!"
     },
     "games.bj.winc": {
       "source": "You've won %x% %y%.",
@@ -157,23 +159,23 @@
     },
     "games.bj.winother": {
       "source": "Computer wins the game!",
-      "translated": "Máy tính thắng cuộc!"
+      "translated": "Máy đã thắng!"
     },
     "games.bj.winyou": {
       "source": "You win the game!",
-      "translated": "Bạn thắng cuộc!"
+      "translated": "Bạn đã thắng!"
     },
     "games.bj.yca": {
       "source": "Your cards are:",
-      "translated": "Bài của bạn là:"
+      "translated": "Bài của bạn gồm:"
     },
     "games.bj.ytc": {
       "source": "Your total cards is %x%, which makes it %y%.",
-      "translated": "Tổng số bài của bạn là %x%, điều này chiếm %y%."
+      "translated": "Tổng bài của bạn là %x%, với tổng điểm là %y%."
     },
     "games.dm.gain": {
       "source": "You've earned %x% %y%!",
-      "translated": "Bạn đã đạt được %x% %y%!"
+      "translated": "Bạn đã kiếm được %x% %y%!"
     },
     "games.dm.nogain": {
       "source": "Oh no! You've lost %x% %y%!",
@@ -181,111 +183,111 @@
     },
     "games.dm.started": {
       "source": "Game started.",
-      "translated": "Trận đấu bắt đầu."
+      "translated": "Trò chơi bắt đầu."
     },
     "games.dm.title": {
       "source": "Dice Match",
-      "translated": "Trò Chơi Xúc Xắc"
+      "translated": "Đấu Xúc Xắc"
     },
     "games.eb.general.title": {
       "source": "Endless Battle",
-      "translated": "Endless Battle"
+      "translated": "Trận Chiến Vô Tận"
     },
     "games.eb.magic.e_invisible": {
       "source": "Your invisibility spell has expired.",
-      "translated": "Tàng hình của bạn đã hết hiệu lực."
+      "translated": "Phép tàng hình của bạn đã hết hiệu lực."
     },
     "games.eb.spells.block.description": {
-      "source": "Temporarily blocks all enemies surrounding you that are within %x% tiles, leaving them unable to walk while you are still being able to hit them",
-      "translated": "Tạm thời phong tỏa tất cả kẻ địch xung quanh bạn trong phạm vi %x% ô, khiến chúng không thể di chuyển nhưng bạn vẫn có thể tấn công chúng."
+      "source": "Temporarily blocks all enemies surrounding you that are within %x% meters, leaving them unable to walk while you are still being able to hit them",
+      "translated": "Tạm thời khóa chân tất cả kẻ địch xung quanh trong phạm vi %x% mét, khiến chúng không thể di chuyển trong khi bạn vẫn có thể tấn công."
     },
     "games.eb.spells.block.title": {
       "source": "Movements Block",
-      "translated": "Phong Ấn"
+      "translated": "Phong Ấn Di Chuyển"
     },
     "games.eb.spells.death.description": {
-      "source": "Instantly kills all enemies surrounding you, that are within %x% tiles",
-      "translated": "Giết chết tức thì tất cả kẻ thù xung quanh bạn, trong phạm vi %x% ô"
+      "source": "Instantly kills all enemies surrounding you, that are within %x% meters",
+      "translated": "Tiêu diệt tức thì tất cả kẻ địch xung quanh bạn trong phạm vi %x% mét."
     },
     "games.eb.spells.death.title": {
       "source": "Instant Kill",
-      "translated": "Sát Nộ"
+      "translated": "Sát Chiêu"
     },
     "games.eb.spells.flame.description": {
-      "source": "Burn surrounding enemies within the range of %x% tiles with fires and flames, taking their health",
-      "translated": "Thiêu đốt kẻ thù xung quanh trong phạm vi %x% ô bằng lửa, làm giảm máu của chúng"
+      "source": "Burn surrounding enemies within the range of %x% meters with fires and flames, taking their health as they are burned",
+      "translated": "Thiêu đốt kẻ địch xung quanh trong phạm vi %x% mét bằng lửa và dung nham, rút máu của chúng."
     },
     "games.eb.spells.flame.title": {
       "source": "Flame",
-      "translated": "Thiêu Đốt"
+      "translated": "Hỏa Ngục"
     },
     "games.eb.spells.heal.description": {
       "source": "Heal yourself to the maximum possible health",
-      "translated": "Chữa lành bản thân đến mức máu tối đa"
+      "translated": "Hồi phục bản thân về mức máu tối đa."
     },
     "games.eb.spells.heal.title": {
       "source": "Vitality Surge",
-      "translated": "Sự Bùng Nổ Sinh Khí"
+      "translated": "Hồi Sinh Lực"
     },
     "games.eb.spells.invisibility.already_active": {
       "source": "You are already invisible, thus you cannot cast again until it expires.",
-      "translated": "Bạn đã tàng hình, vì vậy không thể thi triển lại cho đến khi hiệu lực hết."
+      "translated": "Bạn đang tàng hình, không thể sử dụng lại cho đến khi hết hiệu lực."
     },
     "games.eb.spells.invisibility.description": {
       "source": "Prevents being hit by your enemies for %x% seconds while you are still being able to hit them",
-      "translated": "Ngăn chặn bị kẻ thù tấn công trong %x% giây trong khi bạn vẫn có thể tấn công chúng"
+      "translated": "Khiến kẻ địch không thể tấn công bạn trong %x% giây, trong khi bạn vẫn có thể tấn công chúng."
     },
     "games.eb.spells.invisibility.title": {
       "source": "Invisibility Shield",
-      "translated": "Khiên tàng hình"
+      "translated": "Khiên Tàng Hình"
     },
     "games.eb.user.hp1": {
       "source": "Health increased",
-      "translated": "Máu tăng"
+      "translated": "Máu đã tăng"
     },
     "games.eb.user.hpinfo": {
       "source": "%x% out of %y% health, %z% percent.",
-      "translated": "%x% trên %y% máu, %z% phần trăm."
+      "translated": "%x% trên %y% máu, còn lại %z% phần trăm."
     },
     "games.eb.user.killed": {
       "source": "You have been killed by %x%.",
-      "translated": "Bạn đã bị %x% giết."
+      "translated": "Bạn đã bị %x% tiêu diệt."
     },
     "games.eb.user.levelinfo": {
       "source": "You're on resurrection %a% with %b% level and %c% experience points. The next level requires %d% experience points.",
-      "translated": "Bạn đang ở chuyển sinh %a% với cấp độ %b% và %c% điểm kinh nghiệm. Cấp độ tiếp theo cần %d% điểm kinh nghiệm."
+      "translated": "Bạn đang ở lần chuyển sinh thứ %a%, cấp độ %b% với %c% điểm kinh nghiệm. Cần %d% điểm kinh nghiệm để lên cấp tiếp theo."
     },
     "games.eb.user.mhreach": {
       "source": "Maximum health reached",
-      "translated": "Đã đạt mức máu tối đa"
+      "translated": "Đã đạt máu tối đa"
     },
     "games.eb.user.objget": {
       "source": "You've gained %x% %y%.",
-      "translated": "Bạn đã đạt được %x% %y%."
+      "translated": "Bạn đã nhận được %x% %y%."
     },
     "games.eb.wep.ammoinfo": {
       "source": "%a% has %b% out of %c% %d%, remains %e%",
-      "translated": "%a% đã có %b% trong số %c% %d%, còn lại %e%"
+      "translated": "%a% có %b% trên %c% %d%, còn lại %e%"
     },
     "games.eb.wep.gainnew1": {
       "source": "You've gained a new weapon, %x%.",
-      "translated": "Bạn đã có được một vũ khí mới, %x%."
+      "translated": "Bạn đã nhận được một vũ khí mới: %x%."
     },
     "games.eb.wep.gainnew2": {
       "source": "You've also gained %x% %y% for this!",
-      "translated": "Bạn cũng nhận được %x% %y% cho điều này!"
+      "translated": "Bạn cũng nhận được %x% %y% cho việc này!"
     },
     "games.eb.wep.notammo": {
       "source": "This weapon does not hold ammo.",
-      "translated": "Vũ khí này không chứa đạn."
+      "translated": "Vũ khí này không dùng đạn."
     },
     "general.alreadyrunning": {
       "source": "The game is already running!",
-      "translated": "Trò chơi đã chạy!"
+      "translated": "Trò chơi đang chạy rồi!"
     },
     "general.cannotfindaudio": {
       "source": "Audio file cannot be found.",
-      "translated": "Không thể tìm thấy tệp âm thanh."
+      "translated": "Không tìm thấy tệp âm thanh."
     },
     "general.currently": {
       "source": "Currently %x%",
@@ -301,23 +303,27 @@
     },
     "general.gender.boy": {
       "source": "Male",
-      "translated": "Nam giới"
+      "translated": "Nam"
     },
     "general.gender.girl": {
       "source": "Female",
-      "translated": "Nữ giới"
+      "translated": "Nữ"
     },
     "general.information": {
       "source": "Information",
       "translated": "Thông tin"
     },
+    "general.lastmod": {
+      "source": "Last updated on %x%.",
+      "translated": "Cập nhật lần cuối vào %x%."
+    },
     "general.shortcuts.menu.android": {
       "source": "Swipe left and right to navigate, double tap with one finger to select, click back button to exit.",
-      "translated": "Vuốt trái và phải để điều hướng, nhấn đúp bằng một ngón tay để chọn, nhấn nút quay lại để thoát."
+      "translated": "Vuốt trái và phải để điều hướng, chạm hai lần bằng một ngón để chọn, nhấn nút quay lại để thoát."
     },
     "general.shortcuts.menu.other": {
       "source": "Press up and down arrow keys to navigate, enter to select, and Escape to exit.",
-      "translated": "Nhấn các phím mũi tên lên và xuống để điều hướng, Enter để chọn và Escape để thoát."
+      "translated": "Nhấn phím mũi tên lên và xuống để điều hướng, Enter để chọn, và Escape để thoát."
     },
     "general.sounderror": {
       "source": "Sound error",
@@ -331,25 +337,69 @@
       "source": "You have %x% %y%.",
       "translated": "Bạn có %x% %y%."
     },
+    "inv.ditem": {
+      "source": "%x%, you have %y%",
+      "translated": "%x%, bạn đang có %y%"
+    },
     "invalid.gender": {
       "source": "Invalid gender!",
       "translated": "Giới tính không hợp lệ!"
     },
     "invalid.spt.less": {
       "source": "Enemy spawn time should be no less than 1 second.",
-      "translated": "Thời gian xuất hiện quái vật không được ít hơn 1 giây."
+      "translated": "Thời gian xuất hiện của kẻ địch không được dưới 1 giây."
     },
     "invalid.username": {
       "source": "Invalid username!",
       "translated": "Tên người dùng không hợp lệ!"
     },
+    "langupdate.available.description": {
+      "source": "A new update %x% is available for %y% language. Download now?",
+      "translated": "Một bản cập nhật mới %x% đã có sẵn cho ngôn ngữ %y%. Tải xuống ngay?"
+    },
+    "langupdate.available.no": {
+      "source": "No updates available for %x% language",
+      "translated": "Không có bản cập nhật nào cho ngôn ngữ %x%"
+    },
+    "langupdate.available.title": {
+      "source": "Language Update Available",
+      "translated": "Có Cập Nhật Ngôn Ngữ"
+    },
+    "langupdate.canceled": {
+      "source": "Update canceled",
+      "translated": "Đã hủy cập nhật"
+    },
+    "langupdate.checking": {
+      "source": "Checking for %x% language updates...",
+      "translated": "Đang kiểm tra cập nhật cho ngôn ngữ %x%..."
+    },
+    "langupdate.title": {
+      "source": "Language Update",
+      "translated": "Cập Nhật Ngôn Ngữ"
+    },
     "magic.newspell": {
       "source": "You now have the ability to cast %a%, which requires %b% magic energy. %c%.",
-      "translated": "Bạn giờ đây có thể sử dụng phép thuật %a%, cần %b% năng lượng phép thuật. %c%."
+      "translated": "Bạn đã có thể thi triển %a%, yêu cầu %b% năng lượng phép thuật. %c%."
+    },
+    "menus.dl.b": {
+      "source": "Download on browser",
+      "translated": "Tải bằng trình duyệt"
+    },
+    "menus.dl.d": {
+      "source": "Download using in-game system",
+      "translated": "Tải bằng hệ thống trong game"
+    },
+    "menus.dl.title": {
+      "source": "Choose download method",
+      "translated": "Chọn phương thức tải xuống"
     },
     "menus.dllang.dl": {
-      "source": "Please download %x% from the browser, then extract it in the lang folder. Press the OK button.",
-      "translated": "Vui lòng tải xuống %x% từ trình duyệt, sau đó giải nén vào thư mục lang. Nhấn nút OK."
+      "source": "Please download %x% from the browser, then paste it in the lang folder. Press the OK button.",
+      "translated": "Vui lòng tải %x% từ trình duyệt, sau đó dán vào thư mục lang. Nhấn nút OK."
+    },
+    "menus.dllang.item": {
+      "source": "%x%, by %y%.",
+      "translated": "%x%, bởi %y%."
     },
     "menus.dllang.more": {
       "source": "There are %x% languages available to download",
@@ -365,27 +415,27 @@
     },
     "menus.dllang.title": {
       "source": "Language Downloader",
-      "translated": "Trình tải ngôn ngữ"
+      "translated": "Trình Tải Ngôn Ngữ"
     },
     "menus.dllang.zero": {
       "source": "There is no available languages to download",
-      "translated": "Không có ngôn ngữ nào khả dụng để tải xuống"
+      "translated": "Không có ngôn ngữ nào để tải xuống"
     },
     "menus.games.game.active": {
       "source": "You're already playing a game.",
-      "translated": "Bạn đang chơi một trò chơi rồi."
+      "translated": "Bạn đang trong một ván chơi rồi."
     },
     "menus.games.invalid.game": {
       "source": "This minigame does not exist.",
-      "translated": "Minigame này không tồn tại."
+      "translated": "Mini-game này không tồn tại."
     },
     "menus.games.invalid.gender": {
       "source": "Please set your gender in the settings.",
-      "translated": "Vui lòng đặt giới tính của bạn trong cài đặt."
+      "translated": "Vui lòng chọn giới tính của bạn trong phần cài đặt."
     },
     "menus.games.invalid.gender.android": {
       "source": "Choose a valid gender please.",
-      "translated": "Vui lòng chọn giới tính hợp lệ."
+      "translated": "Vui lòng chọn một giới tính hợp lệ."
     },
     "menus.games.invalid.name": {
       "source": "Invalid username.",
@@ -393,15 +443,15 @@
     },
     "menus.games.quit": {
       "source": "Go Back",
-      "translated": "Trở lại"
+      "translated": "Quay Lại"
     },
     "menus.games.title": {
       "source": "Games Menu",
-      "translated": "Menu Trò Chơi"
+      "translated": "Danh Sách Trò Chơi"
     },
     "menus.lang.already": {
       "source": "You have already set this language.",
-      "translated": "Bạn đã đặt ngôn ngữ này rồi."
+      "translated": "Bạn đã chọn ngôn ngữ này rồi."
     },
     "menus.lang.current": {
       "source": "Current language",
@@ -413,15 +463,15 @@
     },
     "menus.lang.done": {
       "source": "Language has been changed.",
-      "translated": "Ngôn ngữ đã được thay đổi."
+      "translated": "Đã thay đổi ngôn ngữ."
     },
     "menus.lang.fail": {
       "source": "Failed to change to this language %x%.",
-      "translated": "Không thể chuyển sang ngôn ngữ %x%."
+      "translated": "Không thể đổi sang ngôn ngữ %x%."
     },
     "menus.lang.more": {
       "source": "There are %x% languages available",
-      "translated": "Có %x% ngôn ngữ có sẵn cho Việt Nam"
+      "translated": "Có %x% ngôn ngữ khả dụng"
     },
     "menus.lang.one": {
       "source": "There is %x% language available.",
@@ -429,7 +479,7 @@
     },
     "menus.lang.title": {
       "source": "Choose a language to use.",
-      "translated": "Chọn ngôn ngữ để sử dụng."
+      "translated": "Chọn một ngôn ngữ để sử dụng."
     },
     "menus.lang.zero": {
       "source": "There are no available languages.",
@@ -437,23 +487,27 @@
     },
     "menus.magic.item": {
       "source": "%a%, requires %b% magic energy to cast. It takes %c% milliseconds to take effect.",
-      "translated": "%a% cần %b% năng lượng ma thuật để thi triển. Hiệu quả phát huy sau %c% mili giây."
+      "translated": "%a%, cần %b% năng lượng phép thuật để thi triển. Mất %c% mili giây để có hiệu lực."
     },
     "menus.magic.title": {
       "source": "With %x% magic energy you can cast %y% spell.",
-      "translated": "Với %x% năng lượng ma thuật, bạn có thể niệm %y% câu thần chú."
+      "translated": "Với %x% năng lượng phép thuật, bạn có thể thi triển %y% phép."
     },
     "menus.magic.title.plural": {
       "source": "With %x% magic energy you can cast %y% spells.",
-      "translated": "Với %x% năng lượng phép thuật, bạn có thể niệm %y% câu thần chú."
+      "translated": "Với %x% năng lượng phép thuật, bạn có thể thi triển %y% phép."
     },
     "menus.magic.zero": {
-      "source": "You have no available spells to cast.",
-      "translated": "Bạn không có phép thuật nào khả dụng để thi triển."
+      "source": "You have no available spells to cast. You have %x% magic energy.",
+      "translated": "Bạn không có phép nào để thi triển. Bạn đang có %x% năng lượng phép thuật."
     },
     "menus.main.dllang": {
       "source": "Language Downloader",
-      "translated": "Trình tải ngôn ngữ"
+      "translated": "Tải Ngôn Ngữ"
+    },
+    "menus.main.flangupdate": {
+      "source": "Check for fallback language updates",
+      "translated": "Kiểm tra cập nhật ngôn ngữ dự phòng"
     },
     "menus.main.gm": {
       "source": "Games Menu",
@@ -461,47 +515,51 @@
     },
     "menus.main.lang": {
       "source": "Change Language (currently %x%)",
-      "translated": "Thay đổi ngôn ngữ (hiện tại %x%)"
+      "translated": "Đổi Ngôn Ngữ (hiện tại là %x%)"
+    },
+    "menus.main.langupdate": {
+      "source": "Check for Current Language Updates",
+      "translated": "Kiểm tra cập nhật ngôn ngữ hiện tại"
     },
     "menus.main.quit": {
       "source": "Exit the Game",
-      "translated": "Thoát trò chơi"
+      "translated": "Thoát Trò Chơi"
     },
     "menus.main.settings": {
       "source": "Settings and Preferences",
-      "translated": "Cài đặt và Tùy chọn"
+      "translated": "Cài Đặt & Tùy Chỉnh"
     },
     "menus.main.status": {
       "source": "Statistics Menu",
-      "translated": "Menu thống kê"
+      "translated": "Menu Thống Kê"
     },
     "menus.main.store": {
       "source": "Store",
-      "translated": "Cửa hàng"
+      "translated": "Cửa Hàng"
     },
     "menus.main.systeminfo": {
       "source": "Get system information, only needed if you need to provide your system information for example in case of device issue playing the game",
-      "translated": "Lấy thông tin hệ thống, chỉ cần thiết nếu bạn cần cung cấp thông tin hệ thống của mình, ví dụ như trong trường hợp gặp sự cố thiết bị khi chơi game"
+      "translated": "Lấy thông tin hệ thống, chỉ cần thiết khi bạn cần cung cấp thông tin này cho nhà phát triển trong trường hợp game gặp sự cố trên thiết bị."
     },
     "menus.main.systeminfo.done": {
       "source": "System information and related debug logs have been copied to clipboard. Please provide that encrypted information to the developer asked for the issue.",
-      "translated": "Thông tin hệ thống và log debug liên quan đã được sao chép vào clipboard. Vui lòng cung cấp thông tin đã được mã hóa đó cho nhà phát triển yêu cầu thông tin về sự cố."
+      "translated": "Thông tin hệ thống và các tệp gỡ lỗi liên quan đã được sao chép. Vui lòng cung cấp thông tin đã mã hóa này cho nhà phát triển khi được yêu cầu."
     },
     "menus.main.test": {
-      "source": "Test your Speakers",
-      "translated": "Thử loa của bạn"
+      "source": "Test Speakers",
+      "translated": "Kiểm Tra Loa"
     },
     "menus.main.title": {
       "source": "Main Menu.",
-      "translated": "Menu chính"
+      "translated": "Menu Chính."
     },
     "menus.main.update": {
       "source": "Check for Updates",
-      "translated": "Kiểm tra cập nhật"
+      "translated": "Kiểm Tra Cập Nhật"
     },
     "menus.main.web": {
       "source": "Visit Website",
-      "translated": "Truy cập trang web"
+      "translated": "Truy Cập Trang Web"
     },
     "menus.main.web.done": {
       "source": "The website was successfully opened at your browser.",
@@ -509,87 +567,87 @@
     },
     "menus.main.web.fail": {
       "source": "Failed to open the website. It is now copied to your clipboard.",
-      "translated": "Không mở được trang web. Trang web hiện đã được sao chép vào clipboard của bạn."
+      "translated": "Không thể mở trang web. Liên kết đã được sao chép vào bộ nhớ tạm."
     },
     "menus.status.1": {
       "source": "You've been executed this game for a total of %x% times.",
-      "translated": "Bạn đã chơi trò chơi này tổng cộng %x% lần."
+      "translated": "Bạn đã khởi động trò chơi này tổng cộng %x% lần."
     },
     "menus.status.2": {
       "source": "You mostly plaied %x% for %y%.",
-      "translated": "Bạn chủ yếu chơi %x% cho %y%."
+      "translated": "Bạn đã chơi %x% nhiều nhất, trong %y%."
     },
     "menus.status.3.more": {
       "source": "You have plaied a total of %x% games.",
-      "translated": "Bạn đã chơi tổng cộng %x% trò chơi nhỏ."
+      "translated": "Bạn đã chơi tổng cộng %x% ván."
     },
     "menus.status.3.one": {
       "source": "You have plaied a total of %x% game.",
-      "translated": "Bạn đã chơi tổng cộng %x% trò chơi nhỏ."
+      "translated": "Bạn đã chơi tổng cộng %x% ván."
     },
     "menus.status.3.zero": {
       "source": "You haven't plaied any games yet.",
-      "translated": "Bạn chưa chơi trò chơi nhỏ nào cả."
+      "translated": "Bạn chưa chơi ván nào cả."
     },
     "menus.status.cp": {
       "source": "Copy statistics to clipboard",
-      "translated": "Sao chép thống kê vào clipboard"
+      "translated": "Sao chép thống kê"
     },
     "menus.status.cp.done": {
       "source": "Statistics copied to clipboard.",
-      "translated": "Thống kê đã được sao chép vào clipboard."
+      "translated": "Đã sao chép thống kê."
     },
     "menus.status.cp.fail": {
       "source": "Failed to copy the statistics. This might be because of your clipboard's problem.",
-      "translated": "Không sao chép được số liệu thống kê. Có thể do sự cố của khay nhớ tạm."
+      "translated": "Không thể sao chép thống kê. Có thể do lỗi từ bộ nhớ tạm của bạn."
     },
     "menus.status.title": {
       "source": "Statistics",
-      "translated": "Thống kê"
+      "translated": "Thống Kê"
     },
     "menus.store.amount.invalid": {
-      "source": "You must buy at least 1!",
-      "translated": "Bạn phải mua ít nhất 1!"
+      "source": "You must buy at least 1 quantity!",
+      "translated": "Bạn phải mua ít nhất 1 món!"
     },
     "menus.store.amount.less": {
       "source": "Not enough %a%. Your purchase requires %b%, and you only have %c%, need more %d%!",
-      "translated": "Không đủ %a%. Mua hàng của bạn cần %b%, và bạn chỉ có %c%, cần thêm %d%!"
+      "translated": "Không đủ %a%. Giao dịch cần %b%, bạn chỉ có %c%, cần thêm %d%!"
     },
     "menus.store.buy.canceled": {
       "source": "Purchase canceled.",
-      "translated": "Đơn hàng đã bị hủy."
+      "translated": "Đã hủy giao dịch."
     },
     "menus.store.buy.done": {
       "source": "You've successfully purchased %a% %b% with %c% %d%.",
       "translated": "Bạn đã mua thành công %a% %b% với giá %c% %d%."
     },
     "menus.store.item": {
-      "source": "%a%, costs %b% %c%, you can buy %d%",
+      "source": "%a%, costs %b% %c%, you can purchase %d%",
       "translated": "%a%, giá %b% %c%, bạn có thể mua %d%"
     },
     "menus.store.item.invalid": {
       "source": "This item does not exist.",
-      "translated": "Mặt hàng này không tồn tại."
+      "translated": "Vật phẩm này không tồn tại."
     },
     "menus.store.title": {
-      "source": "Store. What would you like to buy?",
-      "translated": "Cửa hàng. bạn muốn mua gì?"
+      "source": "Store. What would you like to purchase?",
+      "translated": "Cửa hàng. Bạn muốn mua gì?"
     },
     "menus.store.zero": {
-      "source": "There are no items to buy.",
-      "translated": "Không có mặt hàng nào để mua."
+      "source": "There are no items to purchase.",
+      "translated": "Không có vật phẩm nào để mua."
     },
     "menus.test.correct": {
       "source": "Excellent! : you've got the right position",
-      "translated": "Tuyệt vời! Bạn đã ở đúng vị trí rồi."
+      "translated": "Tuyệt vời! Bạn đã xác định đúng vị trí."
     },
     "menus.test.press": {
       "source": "Press the corresponding arrow",
-      "translated": "Nhấn mũi tên tương ứng"
+      "translated": "Nhấn phím mũi tên tương ứng"
     },
     "menus.test.swipe": {
       "source": "Swipe to the corresponding direction",
-      "translated": "Vuốt theo hướng tương ứng"
+      "translated": "Vuốt về hướng tương ứng"
     },
     "menus.test.title": {
       "source": "Where is the sound coming from?",
@@ -597,19 +655,19 @@
     },
     "menus.test.wrong": {
       "source": "You've got the wrong direction!",
-      "translated": "Không đúng."
+      "translated": "Bạn đã xác định sai hướng!"
     },
     "menus.wpdraw.noe": {
       "source": "You can't draw this weapon, because either you haven't qualified or the weapon itself does not exist.",
-      "translated": "Bạn không thể trang bị vũ khí này vì bạn chưa đủ điều kiện hoặc vũ khí này không tồn tại."
+      "translated": "Bạn không thể trang bị vũ khí này, vì bạn không đủ điều kiện hoặc vũ khí không tồn tại."
     },
     "menus.wpdraw.title": {
       "source": "Select the weapon you want to draw.",
-      "translated": "Chọn vũ khí bạn muốn rút."
+      "translated": "Chọn vũ khí bạn muốn trang bị."
     },
     "menus.wpdraw.zero": {
       "source": "No available weapons that you can draw.",
-      "translated": "Không có vũ khí nào bạn có thể rút ra."
+      "translated": "Không có vũ khí nào khả dụng để trang bị."
     },
     "rotation.dirinfo": {
       "source": "%x% at %y% degrees",
@@ -617,35 +675,79 @@
     },
     "rotation.east": {
       "source": "east",
-      "translated": "Đông"
+      "translated": "hướng Đông"
     },
     "rotation.north": {
       "source": "north",
-      "translated": "Bắc"
+      "translated": "hướng Bắc"
     },
     "rotation.northeast": {
       "source": "northeast",
-      "translated": "Đông Bắc"
+      "translated": "hướng Đông Bắc"
     },
     "rotation.northwest": {
       "source": "northwest",
-      "translated": "Tây Bắc"
+      "translated": "hướng Tây Bắc"
     },
     "rotation.south": {
       "source": "south",
-      "translated": "Nam"
+      "translated": "hướng Nam"
     },
     "rotation.southeast": {
       "source": "southeast",
-      "translated": "Đông Nam"
+      "translated": "hướng Đông Nam"
     },
     "rotation.southwest": {
       "source": "southwest",
-      "translated": "tây nam"
+      "translated": "hướng Tây Nam"
     },
     "rotation.west": {
       "source": "west",
-      "translated": "Tây"
+      "translated": "hướng Tây"
+    },
+    "rt.day": {
+      "source": "%x% day",
+      "translated": "%x% ngày"
+    },
+    "rt.days": {
+      "source": "%x% days",
+      "translated": "%x% ngày"
+    },
+    "rt.hour": {
+      "source": "%x% hour",
+      "translated": "%x% giờ"
+    },
+    "rt.hours": {
+      "source": "%x% hours",
+      "translated": "%x% giờ"
+    },
+    "rt.minute": {
+      "source": "%x% minute",
+      "translated": "%x% phút"
+    },
+    "rt.minutes": {
+      "source": "%x% minutes",
+      "translated": "%x% phút"
+    },
+    "rt.ms": {
+      "source": "%x% millisecond",
+      "translated": "%x% mili giây"
+    },
+    "rt.mss": {
+      "source": "%x% milliseconds",
+      "translated": "%x% mili giây"
+    },
+    "rt.second": {
+      "source": "%x% second",
+      "translated": "%x% giây"
+    },
+    "rt.seconds": {
+      "source": "%x% seconds",
+      "translated": "%x% giây"
+    },
+    "rt.zero": {
+      "source": "no time at all",
+      "translated": "không có thời gian"
     },
     "settings.ctrl.gender": {
       "source": "Gender",
@@ -653,27 +755,43 @@
     },
     "settings.ctrl.gender.set": {
       "source": "Gender successfully set.",
-      "translated": "Giới tính đã được đặt thành công."
+      "translated": "Đã đặt giới tính thành công."
     },
     "settings.ctrl.ils": {
       "source": "Play item loop sound",
       "translated": "Phát âm thanh lặp của vật phẩm"
     },
+    "settings.ctrl.input": {
+      "source": "Input device",
+      "translated": "Thiết bị đầu vào"
+    },
     "settings.ctrl.interrupt": {
       "source": "Screen reader interrupting",
-      "translated": "Gián đoạn Trình đọc màn hình"
+      "translated": "Cho phép ngắt trình đọc màn hình"
+    },
+    "settings.ctrl.mmusic": {
+      "source": "Menu music",
+      "translated": "Nhạc nền menu"
+    },
+    "settings.ctrl.output": {
+      "source": "Output device",
+      "translated": "Thiết bị đầu ra"
+    },
+    "settings.ctrl.path": {
+      "source": "Data path",
+      "translated": "Đường dẫn dữ liệu"
     },
     "settings.ctrl.reset": {
       "source": "Reset game data to its factory default",
-      "translated": "Đặt lại dữ liệu trò chơi về cài đặt mặc định"
+      "translated": "Đặt lại dữ liệu game về mặc định"
     },
     "settings.ctrl.save": {
       "source": "&Save options",
-      "translated": "&Lưu"
+      "translated": "&Lưu Tùy Chọn"
     },
     "settings.ctrl.spt": {
       "source": "Enemy spawn time (in seconds)",
-      "translated": "Thời gian xuất hiện quái vật (tính bằng giây)"
+      "translated": "Thời gian xuất hiện kẻ địch (giây)"
     },
     "settings.ctrl.username": {
       "source": "Username",
@@ -681,63 +799,67 @@
     },
     "settings.reset.description": {
       "source": "Are you sure you want to delete game config? This also includes settings that you have set as well as your gameplay!",
-      "translated": "Bạn chắc chắn muốn xóa cấu hình trò chơi? Điều này cũng bao gồm các cài đặt bạn đã thiết lập cũng như tiến trình chơi của bạn!"
+      "translated": "Bạn có chắc muốn xóa cấu hình game không? Việc này sẽ xóa cả cài đặt và tiến trình chơi của bạn!"
     },
     "settings.reset.done": {
       "source": "All data has been cleared",
-      "translated": "Tất cả dữ liệu đã được xóa"
+      "translated": "Toàn bộ dữ liệu đã được xóa"
     },
     "settings.reset.title": {
       "source": "Reset",
-      "translated": "Đặt lại"
+      "translated": "Đặt Lại"
     },
     "settings.saved": {
       "source": "Options saved",
-      "translated": "Tùy chọn đã được lưu"
+      "translated": "Đã lưu các tùy chọn"
     },
     "settings.title": {
       "source": "Settings",
-      "translated": "Cài đặt"
+      "translated": "Cài Đặt"
     },
     "spells.mgei.already_active": {
       "source": "This spell is already active.",
-      "translated": "Đã được kích hoạt."
+      "translated": "Phép này đang được kích hoạt."
     },
     "spells.mgei.description": {
       "source": "Increases magic energy %x% times faster for %y% seconds",
-      "translated": "Tăng năng lượng phép thuật nhanh hơn %x% lần trong %y% giây"
+      "translated": "Tăng tốc độ hồi năng lượng phép thuật lên %x% lần trong %y% giây."
     },
     "spells.mgei.expired": {
       "source": "Your Trophy Energy spell has expired.",
-      "translated": "Năng lượng chiến thắng của bạn đã hết hiệu lực."
+      "translated": "Phép Năng Lượng Chiến Phẩm của bạn đã hết hiệu lực."
     },
     "spells.mgei.title": {
       "source": "Trophy Energy",
-      "translated": "Năng lượng chiến thắng"
+      "translated": "Năng Lượng Chiến Phẩm"
     },
     "update.available.description": {
-      "source": "A new update %x% (build %y%) is available. Download now? This will open at your default browser.",
-      "translated": "Bản cập nhật mới %x% (phiên bản %y%) đã có. Tải xuống ngay không? Thao tác này sẽ mở trình duyệt mặc định của bạn."
+      "source": "A new update %x% (build %y%) is available. Download now?",
+      "translated": "Một bản cập nhật mới %x% (bản dựng %y%) đã có sẵn. Tải xuống ngay?"
     },
     "update.available.no": {
       "source": "No updates available",
-      "translated": "Không có thông tin cập nhật"
+      "translated": "Không có bản cập nhật nào"
     },
     "update.available.title": {
       "source": "Update Available",
-      "translated": "Cập nhật có sẵn"
+      "translated": "Có Cập Nhật Mới"
     },
     "update.canceled": {
       "source": "Update canceled",
-      "translated": "Cập nhậthủy"
+      "translated": "Đã hủy cập nhật"
     },
     "update.checking": {
       "source": "Checking for updates. Please wait...",
-      "translated": "Kiểm tra cập nhật. Vui lòng chờ..."
+      "translated": "Đang kiểm tra cập nhật. Vui lòng chờ..."
     },
     "update.title": {
       "source": "Update",
-      "translated": "Cập nhật"
+      "translated": "Cập Nhật"
+    },
+    "welcome": {
+      "source": "Welcome to the game.",
+      "translated": "Chào mừng bạn đến với trò chơi."
     }
   }
 }
