@@ -1,7 +1,7 @@
 {
   "code": "en",
   "config": {
-    "lastmod": "2025-08-07T15:37:34+06:30",
+    "lastmod": "2025-08-23T16:15:17+06:30",
     "name": "English"
   },
   "keys": {
@@ -281,6 +281,30 @@
       "source": "This weapon does not hold ammo.",
       "translated": "This weapon does not hold ammo."
     },
+    "games.rfc.get": {
+      "source": "%x% chocolates!",
+      "translated": "%x% chocolates!"
+    },
+    "games.rfc.getcmk": {
+      "source": "You've stepped on top of %x% which is one of the chocolate makers!",
+      "translated": "You've stepped on top of %x% which is one of the chocolate makers!"
+    },
+    "games.rfc.have": {
+      "source": "You have %x% chocolates",
+      "translated": "You have %x% chocolates"
+    },
+    "games.rfc.msg.get": {
+      "source": "You've got %x% chocolates within %y%.",
+      "translated": "You've got %x% chocolates within %y%."
+    },
+    "games.rfc.title": {
+      "source": "Run for Your CHOCOLATES",
+      "translated": "Run for Your CHOCOLATES"
+    },
+    "games.rfc.welcome": {
+      "source": "You have %x% time limit to collect the chocolates. Good luck!",
+      "translated": "You have %x% time limit to collect the chocolates. Good luck!"
+    },
     "general.alreadyrunning": {
       "source": "The game is already running!",
       "translated": "The game is already running!"
@@ -309,6 +333,10 @@
       "source": "Female",
       "translated": "Female"
     },
+    "general.get": {
+      "source": "You get %x% %y%",
+      "translated": "You get %x% %y%"
+    },
     "general.information": {
       "source": "Information",
       "translated": "Information"
@@ -316,6 +344,10 @@
     "general.lastmod": {
       "source": "Last updated on %x%.",
       "translated": "Last updated on %x%."
+    },
+    "general.rmt": {
+      "source": "Remaining time: %x%",
+      "translated": "Remaining time: %x%"
     },
     "general.shortcuts.menu.android": {
       "source": "Swipe left and right to navigate, double tap with one finger to select, click back button to exit.",
